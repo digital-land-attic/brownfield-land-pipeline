@@ -1,0 +1,9 @@
+boto3==1.10.28
+botocore==1.13.28
+pyproj==2.4.2.post1
+black
+canonicaljson
+requests
+validators
+-e git+https://github.com/digital-land/validator.git#egg=Validator
+-e git+https://github.com/digital-land/pipeline.git#egg=Pipeline

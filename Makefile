@@ -129,8 +129,8 @@ NATIONAL_DATASET_RECORDS=$(INDEX_DIR)dataset.csv
 
 all: collect second-pass
 
-collect:	$(DATASET_FILES)
-	python3 bin/collector.py $(DATASET_NAME)
+collect:
+	digital-land collect
 
 # restart the make process to pick-up collected files
 second-pass:

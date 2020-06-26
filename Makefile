@@ -78,7 +78,6 @@ NORMALISE_DATA:=\
 #
 HARMONISE_DATA=\
 	$(CACHE_DIR)/organisation.csv\
-	$(PATCH_DIR)/OrganisationURI.csv\
 	$(PATCH_DIR)/enum.csv
 
 # generated indexes
@@ -237,7 +236,7 @@ $(CONVERTED_DIR)%.csv: $(RESOURCE_DIR)%
 
 $(NORMALISED_DIR)%.csv: $(CONVERTED_DIR)%.csv $(NORMALISE_DATA)
 	mkdir -p $(NORMALISED_DIR)
-	digital-land normalise $< $@
+	digital-land normalise $< $@ $(SCHEMA)
 
 $(MAPPED_DIR)%.csv: $(NORMALISED_DIR)%.csv $(SCHEMA)
 	mkdir -p $(MAPPED_DIR)

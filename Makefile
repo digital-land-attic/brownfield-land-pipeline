@@ -168,15 +168,15 @@ index: $(INDEXES)
 #  collection indexes
 #
 $(NATIONAL_DATASET_RECORDS): bin/dataset.py $(NATIONAL_DATASET_ENTRIES) $(SCHEMA)
-	mkdir -p $(INDEX_DIR)
+	@mkdir -p $(INDEX_DIR)
 	python3 bin/dataset.py $(NATIONAL_DATASET_ENTRIES) $@
 
 $(NATIONAL_DATASET_ENTRIES): bin/entries.py $(TRANSFORMED_FILES) $(SCHEMA) index/resource-organisation.csv
-	mkdir -p $(INDEX_DIR)
+	@mkdir -p $(INDEX_DIR)
 	python3 bin/entries.py $(TRANSFORMED_DIR) $@
 
 $(COLLECTION_INDEX): $(LOG_FILES)
-	mkdir -p $(INDEX_DIR)
+	@mkdir -p $(INDEX_DIR)
 	# python3 bin/index.py $(DATASET_NAME)
 	digital-land index
 
@@ -186,30 +186,30 @@ $(COLLECTION_INDEXES): $(COLLECTION_INDEX)
 #  pipeline indexes
 #
 $(INDEX_DIR)fixed.csv: bin/fixed.py $(FIXED_FILES)
-	mkdir -p $(INDEX_DIR)
+	@mkdir -p $(INDEX_DIR)
 	python3 bin/fixed.py $@
 
 $(INDEX_DIR)column.csv: bin/columns.py $(NORMALISED_FILES)
-	mkdir -p $(INDEX_DIR)
+	@mkdir -p $(INDEX_DIR)
 	python3 bin/columns.py $@
 
 $(INDEX_DIR)issue.csv: bin/issue.py $(ISSUE_FILES)
-	mkdir -p $(INDEX_DIR)
+	@mkdir -p $(INDEX_DIR)
 	python3 bin/issue.py $(ISSUE_DIR) $@
 
 #
 #  counts
 #
 $(COUNT_DIR)column.csv: bin/columns.py $(NORMALISED_FILES)
-	mkdir -p $(COUNT_DIR)
+	@mkdir -p $(COUNT_DIR)
 	python3 bin/columns.py $@
 
 $(COUNT_DIR)%.csv: $(MAPPED_DATASET) bin/count.sh
-	mkdir -p $(COUNT_DIR)
+	@mkdir -p $(COUNT_DIR)
 	bin/count.sh `basename $@ .csv` < $(MAPPED_DATASET) > $@
 
 $(MAPPED_DATASET): $(MAPPED_FILES) bin/csvcat.sh bin/csvescape.py
-	mkdir -p $(TMP_DIR)
+	@mkdir -p $(TMP_DIR)
 	bin/csvcat.sh $(MAPPED_FILES) | bin/csvescape.py > $@
 
 #
@@ -231,33 +231,33 @@ $(MAPPED_DATASET): $(MAPPED_FILES) bin/csvcat.sh bin/csvescape.py
 #  pipeline to build national dataset
 #
 $(CONVERTED_DIR)%.csv: $(RESOURCE_DIR)%
-	mkdir -p $(CONVERTED_DIR)
+	@mkdir -p $(CONVERTED_DIR)
 	digital-land convert  $< $@
 
 $(NORMALISED_DIR)%.csv: $(CONVERTED_DIR)%.csv $(NORMALISE_DATA)
-	mkdir -p $(NORMALISED_DIR)
+	@mkdir -p $(NORMALISED_DIR)
 	digital-land normalise $< $@ $(SCHEMA)
 
 $(MAPPED_DIR)%.csv: $(NORMALISED_DIR)%.csv $(SCHEMA)
-	mkdir -p $(MAPPED_DIR)
+	@mkdir -p $(MAPPED_DIR)
 	digital-land map $< $@ $(SCHEMA)
 
 $(HARMONISED_DIR)%.csv: $(MAPPED_DIR)%.csv $(SCHEMA) $(HARMONISE_DATA)
-	mkdir -p $(HARMONISED_DIR) $(ISSUE_DIR)
+	@mkdir -p $(HARMONISED_DIR) $(ISSUE_DIR)
 	digital-land harmonise $< $@ $(SCHEMA)
 
 $(TRANSFORMED_DIR)%.csv: $(HARMONISED_DIR)%.csv $(SCHEMA)
-	mkdir -p $(TRANSFORMED_DIR)
+	@mkdir -p $(TRANSFORMED_DIR)
 	digital-land transform  $< $@ $(SCHEMA)
 	# python3 bin/transform.py $< $@ $(SCHEMA)
 
 $(FIXED_CONVERTED_FILES):
-	mkdir -p $(CONVERTED_DIR)
+	@mkdir -p $(CONVERTED_DIR)
 	digital-land convert $(subst $(CONVERTED_DIR),$(FIXED_DIR),$@) $@
 
 # local copies of registers
 $(CACHE_DIR)/organisation.csv:
-	mkdir -p $(CACHE_DIR)
+	@mkdir -p $(CACHE_DIR)
 	curl -qs "https://raw.githubusercontent.com/digital-land/organisation-dataset/master/collection/organisation.csv" > $@
 
 black:

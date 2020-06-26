@@ -6,4 +6,4 @@ canonicaljson
 requests
 validators
 -e git+https://github.com/digital-land/validator.git#egg=Validator
--e git+https://github.com/digital-land/pipeline.git#egg=Pipeline
+-e git+https://github.com/digital-land/pipeline.git@harmonise-working#egg=Pipeline

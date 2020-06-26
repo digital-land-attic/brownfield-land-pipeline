@@ -81,6 +81,7 @@
             "name": "SiteNameAddress",
             "title": "The site name and address",
             "description": "The name of the site and it's address",
+            "format": "address",
             "constraints": {
                 "required": true
             },

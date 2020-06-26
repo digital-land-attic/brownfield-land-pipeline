@@ -1,4 +1,4 @@
-.PHONY: init collection collect second-pass normalise validate harmonise transform index dataset clear-cache clobber clobber-today black clean prune
+.PHONY: init collection collect second-pass normalise harmonise transform index dataset clear-cache clobber clobber-today black clean prune
 .SECONDARY:
 .DELETE_ON_ERROR:
 .SUFFIXES: .json
@@ -114,9 +114,11 @@ COUNTS=\
 
 INDEXES=\
 	$(COLLECTION_INDEX)\
-	$(COLLECTION_INDEXES)\
-	$(PIPELINE_INDEXES)\
-	$(COUNTS)
+	$(COLLECTION_INDEXES)
+
+#  TODO: figure out what to do with these...
+	# $(PIPELINE_INDEXES)\
+	# $(COUNTS)
 
 # dataset of mapped files
 MAPPED_DATASET=$(TMP_DIR)mapped.csv
@@ -129,12 +131,12 @@ NATIONAL_DATASET_RECORDS=$(INDEX_DIR)dataset.csv
 
 all: collect second-pass
 
-collect:	$(DATASET_FILES)
-	python3 bin/collector.py $(DATASET_NAME)
+collect:
+	digital-land collect
 
 # restart the make process to pick-up collected files
 second-pass:
-	@$(MAKE) --no-print-directory validate harmonise dataset index
+	@$(MAKE) --no-print-directory harmonise dataset index
 
 validate: $(VALIDATION_FILES)
 	@:
@@ -151,6 +153,9 @@ map: $(MAPPED_FILES)
 harmonise: $(COLLECTION_INDEX) $(HARMONISED_FILES)
 	@:
 
+transform: $(TRANSFORMED_FILES)
+	@:
+
 entries: $(NATIONAL_DATASET_ENTRIES) $(TRANSFORMED_FILES)
 	@:
 
@@ -164,16 +169,17 @@ index: $(INDEXES)
 #  collection indexes
 #
 $(NATIONAL_DATASET_RECORDS): bin/dataset.py $(NATIONAL_DATASET_ENTRIES) $(SCHEMA)
-	@mkdir -p $(INDEX_DIR)
+	mkdir -p $(INDEX_DIR)
 	python3 bin/dataset.py $(NATIONAL_DATASET_ENTRIES) $@
 
 $(NATIONAL_DATASET_ENTRIES): bin/entries.py $(TRANSFORMED_FILES) $(SCHEMA) index/resource-organisation.csv
-	@mkdir -p $(INDEX_DIR)
+	mkdir -p $(INDEX_DIR)
 	python3 bin/entries.py $(TRANSFORMED_DIR) $@
 
-$(COLLECTION_INDEX): bin/index.py $(LOG_FILES) $(VALIDATION_FILES)
-	@mkdir -p $(INDEX_DIR)
-	python3 bin/index.py $(DATASET_NAME)
+$(COLLECTION_INDEX): $(LOG_FILES)
+	mkdir -p $(INDEX_DIR)
+	# python3 bin/index.py $(DATASET_NAME)
+	digital-land index
 
 $(COLLECTION_INDEXES): $(COLLECTION_INDEX)
 
@@ -181,26 +187,26 @@ $(COLLECTION_INDEXES): $(COLLECTION_INDEX)
 #  pipeline indexes
 #
 $(INDEX_DIR)fixed.csv: bin/fixed.py $(FIXED_FILES)
-	@mkdir -p $(INDEX_DIR)
+	mkdir -p $(INDEX_DIR)
 	python3 bin/fixed.py $@
 
 $(INDEX_DIR)column.csv: bin/columns.py $(NORMALISED_FILES)
-	@mkdir -p $(INDEX_DIR)
+	mkdir -p $(INDEX_DIR)
 	python3 bin/columns.py $@
 
 $(INDEX_DIR)issue.csv: bin/issue.py $(ISSUE_FILES)
-	@mkdir -p $(INDEX_DIR)
+	mkdir -p $(INDEX_DIR)
 	python3 bin/issue.py $(ISSUE_DIR) $@
 
 #
 #  counts
 #
 $(COUNT_DIR)column.csv: bin/columns.py $(NORMALISED_FILES)
-	@mkdir -p $(COUNT_DIR)
+	mkdir -p $(COUNT_DIR)
 	python3 bin/columns.py $@
 
 $(COUNT_DIR)%.csv: $(MAPPED_DATASET) bin/count.sh
-	@mkdir -p $(COUNT_DIR)
+	mkdir -p $(COUNT_DIR)
 	bin/count.sh `basename $@ .csv` < $(MAPPED_DATASET) > $@
 
 $(MAPPED_DATASET): $(MAPPED_FILES) bin/csvcat.sh bin/csvescape.py
@@ -212,46 +218,47 @@ $(MAPPED_DATASET): $(MAPPED_FILES) bin/csvcat.sh bin/csvescape.py
 #
 #  -- depends on the schema, but this is expensive to rebuild during development
 #
-$(VALIDATION_DIR)%.json: $(RESOURCE_DIR)%
-	@mkdir -p $(VALIDATION_DIR)
-	validate --exclude-input --exclude-rows --file $< --output $@
-	@rm -f $<.csv
+# $(VALIDATION_DIR)%.json: $(RESOURCE_DIR)%
+# 	@mkdir -p $(VALIDATION_DIR)
+# 	validate --exclude-input --exclude-rows --file $< --output $@
+# 	@rm -f $<.csv
 
-# fix validation which the validator fails on ..
-$(BROKEN_VALIDATIONS):
-	@mkdir -p $(VALIDATION_DIR)
-	echo '{ "meta_data": {}, "result": {"tables":[{}]} }' > $@
+# # fix validation which the validator fails on ..
+# $(BROKEN_VALIDATIONS):
+# 	@mkdir -p $(VALIDATION_DIR)
+# 	echo '{ "meta_data": {}, "result": {"tables":[{}]} }' > $@
 
 #
 #  pipeline to build national dataset
 #
-$(CONVERTED_DIR)%.csv: $(RESOURCE_DIR)% bin/convert.py
-	@mkdir -p $(CONVERTED_DIR)
-	python3 bin/convert.py $< $@
+$(CONVERTED_DIR)%.csv: $(RESOURCE_DIR)%
+	mkdir -p $(CONVERTED_DIR)
+	digital-land convert  $< $@
 
-$(NORMALISED_DIR)%.csv: $(CONVERTED_DIR)%.csv bin/normalise.py $(NORMALISE_DATA)
-	@mkdir -p $(NORMALISED_DIR)
-	python3 bin/normalise.py $< $@
+$(NORMALISED_DIR)%.csv: $(CONVERTED_DIR)%.csv $(NORMALISE_DATA)
+	mkdir -p $(NORMALISED_DIR)
+	digital-land normalise $< $@
 
-$(MAPPED_DIR)%.csv: $(NORMALISED_DIR)%.csv bin/map.py $(SCHEMA)
-	@mkdir -p $(MAPPED_DIR)
-	python3 bin/map.py $< $@ $(SCHEMA)
+$(MAPPED_DIR)%.csv: $(NORMALISED_DIR)%.csv $(SCHEMA)
+	mkdir -p $(MAPPED_DIR)
+	digital-land map $< $@ $(SCHEMA)
 
-$(HARMONISED_DIR)%.csv: $(MAPPED_DIR)%.csv bin/harmonise.py $(SCHEMA) $(HARMONISE_DATA)
-	@mkdir -p $(HARMONISED_DIR) $(ISSUE_DIR)
-	python3 bin/harmonise.py $< $@ $(SCHEMA) $(subst $(HARMONISED_DIR),$(ISSUE_DIR),$@)
+$(HARMONISED_DIR)%.csv: $(MAPPED_DIR)%.csv $(SCHEMA) $(HARMONISE_DATA)
+	mkdir -p $(HARMONISED_DIR) $(ISSUE_DIR)
+	digital-land harmonise $< $@ $(SCHEMA)
 
-$(TRANSFORMED_DIR)%.csv: $(HARMONISED_DIR)%.csv bin/transform.py $(SCHEMA)
-	@mkdir -p $(TRANSFORMED_DIR)
-	python3 bin/transform.py $< $@ $(SCHEMA)
+$(TRANSFORMED_DIR)%.csv: $(HARMONISED_DIR)%.csv $(SCHEMA)
+	mkdir -p $(TRANSFORMED_DIR)
+	digital-land transform  $< $@ $(SCHEMA)
+	# python3 bin/transform.py $< $@ $(SCHEMA)
 
 $(FIXED_CONVERTED_FILES):
-	@mkdir -p $(CONVERTED_DIR)
-	python3 bin/convert.py $(subst $(CONVERTED_DIR),$(FIXED_DIR),$@) $@
+	mkdir -p $(CONVERTED_DIR)
+	digital-land convert $(subst $(CONVERTED_DIR),$(FIXED_DIR),$@) $@
 
 # local copies of registers
 $(CACHE_DIR)/organisation.csv:
-	@mkdir -p $(CACHE_DIR)
+	mkdir -p $(CACHE_DIR)
 	curl -qs "https://raw.githubusercontent.com/digital-land/organisation-dataset/master/collection/organisation.csv" > $@
 
 black:

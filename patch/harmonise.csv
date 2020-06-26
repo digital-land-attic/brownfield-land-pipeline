@@ -1,0 +1,3 @@
+field,expression,value
+Hectares,"(\S*)\s*[Hh]ectares?$","\1"
+Hectares,"(\S*)\s*ha$","\1"

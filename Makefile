@@ -236,7 +236,7 @@ $(CONVERTED_DIR)%.csv: $(RESOURCE_DIR)%
 
 $(NORMALISED_DIR)%.csv: $(CONVERTED_DIR)%.csv $(NORMALISE_DATA)
 	@mkdir -p $(NORMALISED_DIR)
-	digital-land normalise $< $@ $(SCHEMA)
+	digital-land normalise $< $@
 
 $(MAPPED_DIR)%.csv: $(NORMALISED_DIR)%.csv $(SCHEMA)
 	@mkdir -p $(MAPPED_DIR)

@@ -31,9 +31,31 @@ jobs:
         git checkout master
     - name: Install dependencies
       run: make init
+
     - name: Collect resources
       run: make collect
     - name: Commit resources
       run: |
         git add collection
         git diff --quiet && git diff --staged --quiet || (git commit -m "Commit files collected on $(date +%F)"; git push origin master)
+
+    - name: Index collected resources
+      run: make index
+    - name: Commit collection indexes
+      run: |
+        git add index
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Commit collection indexes on $(date +%F)"; git push origin master)
+
+    - name: Harmonise resources
+      run: make harmonise
+    - name: Commit harmonised resources
+      run: |
+        git add var
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Commit files harmonised on $(date +%F)"; git push origin master)
+
+    - name: Create dataset
+      run: make dataset
+    - name: Commit dataset
+      run: |
+        git add var
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Commit dataset on $(date +%F)"; git push origin master)

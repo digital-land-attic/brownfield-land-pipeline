@@ -5,6 +5,7 @@ on:
     paths-ignore:
       - 'collection/**'
       - 'index/**'
+      - 'var/**'
     branches:
       master
   schedule:

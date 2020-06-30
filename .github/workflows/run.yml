@@ -40,23 +40,9 @@ jobs:
         git add collection
         git diff --quiet && git diff --staged --quiet || (git commit -m "Commit files collected on $(date +%F)"; git push origin master)
 
-    - name: Index collected resources
-      run: make index
-    - name: Commit collection indexes
+    - name: Run Make
+      run: make second-pass
+    - name: Commit Make task outputs
       run: |
-        git add index
-        git diff --quiet && git diff --staged --quiet || (git commit -m "Commit collection indexes on $(date +%F)"; git push origin master)
-
-    - name: Harmonise resources
-      run: make harmonise
-    - name: Commit harmonised resources
-      run: |
-        git add var
-        git diff --quiet && git diff --staged --quiet || (git commit -m "Commit files harmonised on $(date +%F)"; git push origin master)
-
-    - name: Create dataset
-      run: make dataset
-    - name: Commit dataset
-      run: |
-        git add var
-        git diff --quiet && git diff --staged --quiet || (git commit -m "Commit dataset on $(date +%F)"; git push origin master)
+        git add var index
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Commit Make task outputs on $(date +%F)"; git push origin master)

@@ -1,0 +1,11 @@
+row-number,field,issue-type,value
+11,MinNetDwellings,integer,61 cluster flats and 16 studio flats
+16,MinNetDwellings,integer,24 two bedroom flats
+21,MinNetDwellings,integer,24 apartments
+22,MinNetDwellings,integer,39 apartments
+23,MinNetDwellings,integer,12 apartments
+24,MinNetDwellings,integer,6-15 flats/ maisonettes
+27,MinNetDwellings,integer,7 three bedroom dwellings
+28,MinNetDwellings,integer,5 dwellings
+29,MinNetDwellings,integer,24 sheltered apartments
+34,MinNetDwellings,integer,24 residential units

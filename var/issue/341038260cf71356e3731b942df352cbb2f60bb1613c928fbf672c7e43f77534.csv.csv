@@ -1,0 +1,73 @@
+row-number,field,issue-type,value
+1,SiteplanURL,uri,http://snc-wml-01/wml_planningconstraints/
+1,OwnershipStatus,OwnershipStatus,not PA_owned
+1,PermissionType,PermissionType,MAR
+1,LastUpdatedDate,date,"21/11/2017, 31/03/2017 for last buil-out data"
+2,SiteplanURL,uri,\\snclive.gov.uk\AppData\DEF_FlatFiles\planning\S-2012-1285-MAF
+2,OwnershipStatus,OwnershipStatus,not PA_owned
+2,PermissionType,PermissionType,MAR
+3,SiteplanURL,uri,http://snc-wml-01/wml_planningconstraints/
+3,OwnershipStatus,OwnershipStatus,not PA_owned
+3,PermissionType,PermissionType,MAF
+3,LastUpdatedDate,date,"21/11/2017, 31/03/2017 for last buil-out data"
+4,SiteplanURL,uri,http://snc-wml-01/wml_planningconstraints/
+4,OwnershipStatus,OwnershipStatus,not PA_owned
+4,PermissionType,PermissionType,MAF
+4,LastUpdatedDate,date,"21/11/2017, 31/03/2017 for last buil-out data"
+5,SiteplanURL,uri,http://snc-wml-01/wml_planningconstraints/
+5,OwnershipStatus,OwnershipStatus,not PA_owned
+5,PermissionType,PermissionType,MAR
+6,SiteplanURL,uri,http://snc-wml-01/wml_planningconstraints/
+6,OwnershipStatus,OwnershipStatus,not PA_owned
+6,PermissionType,PermissionType,MAO
+7,SiteplanURL,uri,http://snc-wml-01/wml_planningconstraints/
+7,OwnershipStatus,OwnershipStatus,not PA_owned
+7,PermissionType,PermissionType,MAF
+7,LastUpdatedDate,date,"21/11/2017, 31/03/2017 for last buil-out data"
+8,SiteplanURL,uri,http://snc-wml-01/wml_planningconstraints/
+8,OwnershipStatus,OwnershipStatus,not PA_owned
+8,PermissionType,PermissionType,MAF
+8,LastUpdatedDate,date,"21/11/2017, 31/03/2017 for last buil-out data"
+9,SiteplanURL,uri,http://snc-wml-01/wml_planningconstraints/
+9,OwnershipStatus,OwnershipStatus,not PA_owned
+9,PermissionType,PermissionType,MAF
+10,SiteplanURL,uri,http://snc-wml-01/wml_planningconstraints/
+10,OwnershipStatus,OwnershipStatus,not PA_owned
+10,PermissionType,PermissionType,MAF
+10,LastUpdatedDate,date,"21/11/2017, 31/03/2017 for last buil-out data"
+11,SiteplanURL,uri,http://snc-wml-01/wml_planningconstraints/
+11,OwnershipStatus,OwnershipStatus,not PA_owned
+11,PermissionType,PermissionType,MAF
+11,LastUpdatedDate,date,"21/11/2017, 31/03/2017 for last buil-out data"
+12,SiteplanURL,uri,http://snc-wml-01/wml_planningconstraints/
+12,OwnershipStatus,OwnershipStatus,not PA_owned
+12,PermissionType,PermissionType,MAF
+13,SiteplanURL,uri,http://snc-wml-01/wml_planningconstraints/
+13,OwnershipStatus,OwnershipStatus,not PA_owned
+13,PermissionType,PermissionType,MAF
+13,LastUpdatedDate,date,"21/11/2017, 31/03/2017 for last buil-out data"
+14,SiteplanURL,uri,http://snc-wml-01/wml_planningconstraints/
+14,OwnershipStatus,OwnershipStatus,not PA_owned
+14,PermissionType,PermissionType,MAF
+14,LastUpdatedDate,date,"21/11/2017, 31/03/2017 for last buil-out data"
+15,SiteplanURL,uri,http://snc-wml-01/wml_planningconstraints/
+15,OwnershipStatus,OwnershipStatus,not PA_owned
+15,PermissionType,PermissionType,MAF
+16,SiteplanURL,uri,http://snc-wml-01/wml_planningconstraints/
+16,OwnershipStatus,OwnershipStatus,PA_owned
+16,PermissionType,PermissionType,OUT
+17,SiteplanURL,uri,http://snc-wml-01/wml_planningconstraints/
+17,OwnershipStatus,OwnershipStatus,not PA_owned
+17,PermissionType,PermissionType,MAF
+18,SiteplanURL,uri,http://snc-wml-01/wml_planningconstraints/
+18,OwnershipStatus,OwnershipStatus,PA_owned
+18,PermissionType,PermissionType,OUT
+19,SiteplanURL,uri,http://snc-wml-01/wml_planningconstraints/
+19,OwnershipStatus,OwnershipStatus,not PA_owned
+19,PermissionType,PermissionType,MAF
+20,SiteplanURL,uri,http://snc-wml-01/wml_planningconstraints/
+20,OwnershipStatus,OwnershipStatus,not PA_owned
+21,SiteplanURL,uri,http://snc-wml-01/wml_planningconstraints/
+21,OwnershipStatus,OwnershipStatus,not PA_owned
+22,SiteplanURL,uri,http://snc-wml-01/wml_planningconstraints/
+22,OwnershipStatus,OwnershipStatus,not PA_owned

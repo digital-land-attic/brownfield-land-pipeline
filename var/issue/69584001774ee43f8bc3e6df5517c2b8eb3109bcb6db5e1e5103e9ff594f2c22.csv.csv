@@ -1,0 +1,40 @@
+row-number,field,issue-type,value
+4,Hectares,minimum,0.0
+90,Hectares,minimum,0.0
+159,Hectares,minimum,0.0
+235,Hectares,minimum,0.0
+270,Hectares,minimum,0.0
+370,PlanningStatus,PlanningStatus,full permission
+383,PlanningStatus,PlanningStatus,permissions on site
+385,PlanningStatus,PlanningStatus,permissions on site
+387,PlanningStatus,PlanningStatus,permissions on site
+401,PlanningStatus,PlanningStatus,full permissioned
+401,LastUpdatedDate,date,25/03/202
+425,PermissionDate,date,Pending subject to legal agreement
+430,PermissionDate,date,Pending subject to legal agreement
+430,MinNetDwellings,integer,905 student rooms
+441,PermissionDate,date,Pending subject to legal agreement
+443,PermissionDate,date,Pending subject to legal agreement
+444,PermissionDate,date,Pending subject to legal agreement
+445,PermissionDate,date,Pending subject to legal agreement
+447,PermissionDate,date,Pending subject to legal agreement
+448,PermissionDate,date,Pending subject to legal agreement
+448,FirstAddedDate,date,43914
+448,LastUpdatedDate,date,43914
+449,PermissionDate,date,Pending subject to legal agreement
+450,PermissionDate,date,Pending subject to legal agreement
+454,PermissionDate,date,Pending subject to legal agreement
+455,PermissionDate,date,Live application
+456,PermissionDate,date,Pending subject to legal agreement
+457,PermissionDate,date,Pending subject to legal agreement
+457,MinNetDwellings,integer,Listed building application
+458,PermissionDate,date,Pending subject to legal agreement
+459,PermissionDate,date,Pending subject to legal agreement
+461,PermissionDate,date,Pending subject to legal agreement
+463,PermissionDate,date,Pending subject to legal agreement
+464,PermissionDate,date,Pending subject to legal agreement
+467,PermissionDate,date,Pending subject to legal agreement
+468,PermissionDate,date,Pending subject to legal agreement
+470,PermissionDate,date,Pending subject to legal agreement
+474,PermissionDate,date,Pending subject to legal agreement
+474,MinNetDwellings,integer,2000-3995

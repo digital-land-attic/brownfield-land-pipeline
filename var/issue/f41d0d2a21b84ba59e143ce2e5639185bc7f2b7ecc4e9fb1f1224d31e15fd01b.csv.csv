@@ -1,0 +1,17 @@
+row-number,field,issue-type,value
+3,PermissionDate,date,"2019-09-02
+2017-07-04"
+38,OrganisationURI,OrganisationURI,OrganisationURI
+38,GeoX,decimal,GeoX
+38,GeoY,decimal,GeoY
+38,SiteplanURL,uri,Site plan URL
+38,OwnershipStatus,OwnershipStatus,Ownership Status
+38,HazardousSubstances,HazardousSubstances,Hazardous Substances
+38,PlanningStatus,PlanningStatus,Planning Status
+38,PermissionType,PermissionType,Permission Type
+38,PermissionDate,date,Permission Date
+38,MinNetDwellings,integer,Min Net Dwellings
+38,NetDwellingsRangeFrom,integer,Net Dwellings Range From
+38,NetDwellingsRangeTo,integer,Net Dwellings Range To
+38,FirstAddedDate,date,First Added Date
+38,LastUpdatedDate,date,Last Updated Date

@@ -1,0 +1,5 @@
+row-number,field,issue-type,value
+11,"GeoX,GeoY",OSGB outside England,"25035,50431"
+26,"GeoX,GeoY",OSGB outside England,"25127,50709"
+69,PermissionDate,date,2017-02-29
+78,NetDwellingsRangeTo,integer,`5

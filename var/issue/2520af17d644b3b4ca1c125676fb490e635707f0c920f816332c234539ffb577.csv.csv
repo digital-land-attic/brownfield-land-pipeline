@@ -1,0 +1,5 @@
+row-number,field,issue-type,value
+42,PermissionDate,date,Decision pending
+43,PermissionDate,date,Decision pending
+45,PlanningStatus,PlanningStatus,Allocation
+46,PlanningStatus,PlanningStatus,Allocation

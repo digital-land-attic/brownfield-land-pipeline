@@ -244,11 +244,11 @@ $(MAPPED_DIR)%.csv: $(NORMALISED_DIR)%.csv $(SCHEMA)
 
 $(HARMONISED_DIR)%.csv: $(MAPPED_DIR)%.csv $(SCHEMA) $(HARMONISE_DATA)
 	@mkdir -p $(HARMONISED_DIR) $(ISSUE_DIR)
-	digital-land harmonise $< $@ $(SCHEMA)
+	digital-land harmonise $< $@ $(SCHEMA) $(ISSUE_DIR)
 
 $(TRANSFORMED_DIR)%.csv: $(HARMONISED_DIR)%.csv $(SCHEMA)
 	@mkdir -p $(TRANSFORMED_DIR)
-	python3 bin/transform.py $< $@ $(SCHEMA)
+	digital-land transform  $< $@ $(SCHEMA)
 
 $(FIXED_CONVERTED_FILES):
 	@mkdir -p $(CONVERTED_DIR)

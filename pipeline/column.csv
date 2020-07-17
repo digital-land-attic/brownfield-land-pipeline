@@ -26,8 +26,8 @@ brownfield-land,,LA SITE REF,SiteReference
 brownfield-land,,SHLAA_REF,SiteReference
 brownfield-land,,SiteRefere,SiteReference
 brownfield-land,,Site reference,SiteReference
-brownfield-land,,SiteReference (also SHLAA Reference),SiteReference
-brownfield-land,,Site RefSiteReferenceSiteNameAddress
+brownfield-land,,"SiteReference (also SHLAA Reference)",SiteReference
+brownfield-land,,Site Ref,SiteReference
 brownfield-land,,Address,SiteNameAddress
 brownfield-land,,Location / Address,SiteNameAddress
 brownfield-land,,Location___Address,SiteNameAddress
@@ -52,7 +52,7 @@ brownfield-land,,Easting,GeoX
 brownfield-land,,Eastings,GeoX
 brownfield-land,,Eastings (Geo X),GeoX
 brownfield-land,,OSEasting,GeoX
-brownfield-land,,OSGB36EastingGeoX
+brownfield-land,,OSGB36Easting,GeoX
 brownfield-land,,BNG_Northing,GeoY
 brownfield-land,,GeoY (Latitude or north grid),GeoY
 brownfield-land,,GeoY [North],GeoY
@@ -82,10 +82,10 @@ brownfield-land,,PDL area on the site (hectares),Hectares
 brownfield-land,,Site Area in ha,Hectares
 brownfield-land,,Site area (ha),Hectares
 brownfield-land,,Total area (Hectares),Hectares
-brownfield-land,,Total site area (hectares)Hectares
+brownfield-land,,Total site area (hectares),Hectares
 brownfield-land,,OwenrshipStatus,OwnershipStatus
-brownfield-land,,"Ownership: PA_owner, not PA_own., mixed_o'ship", unknownOwnershipStatus
-brownfield-land,,Hazardous Substances [as identifiied in Appl. form],HazardousSubstances,
+brownfield-land,,"Ownership: PA_owner, not PA_own., mixed_o'ship, unknown",OwnershipStatus
+brownfield-land,,"Hazardous Substances [as identifiied in Appl. form]",HazardousSubstances
 brownfield-land,,Planning Permission Status,PlanningStatus
 brownfield-land,,PLANNING STATUS,PlanningStatus
 brownfield-land,,MINHOMES,MinNetDwellings

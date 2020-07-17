@@ -1,0 +1,350 @@
+pipeline,resource,field,pattern,value
+brownfield-land,,,"^<*[Nn][Uu][Ll][Ll]>*$",
+brownfield-land,,,"^#*[Nn]/?[Aa]$",
+brownfield-land,,,"^\?*$",
+brownfield-land,,,"^-+$",
+brownfield-land,,Deliverable,,completed
+brownfield-land,,Deliverable,yes,deliverable
+brownfield-land,,Deliverable,yes,developable
+brownfield-land,,Deliverable,,false
+brownfield-land,,Deliverable,,no
+brownfield-land,,Deliverable,yes,possibly developable
+brownfield-land,,Deliverable,yes,the land is deliverable
+brownfield-land,,Deliverable,yes,true
+brownfield-land,,Deliverable,,unsuitable
+brownfield-land,,Deliverable,yes,y
+brownfield-land,,Deliverable,yes,yes part
+brownfield-land,,HazardousSubstances,,expired
+brownfield-land,,HazardousSubstances,,no
+brownfield-land,,HazardousSubstances,yes,possible diesel fuel pollution
+brownfield-land,,HazardousSubstances,yes,potentially subject to broken glass
+brownfield-land,,HazardousSubstances,yes,y
+brownfield-land,,Hectares,"(\S*)\s*[Hh]ectares?$","\1"
+brownfield-land,,Hectares,"(\S*)\s*ha$","\1"
+brownfield-land,,OwnershipStatus,not owned by a public authority,in public ownership
+brownfield-land,,OwnershipStatus,not owned by a public authority,local authority
+brownfield-land,,OwnershipStatus,mixed ownership,local authority unknown
+brownfield-land,,OwnershipStatus,mixed ownership,mixed
+brownfield-land,,OwnershipStatus,mixed ownership,mixed owner
+brownfield-land,,OwnershipStatus,,multiple ownership
+brownfield-land,,OwnershipStatus,,multipleowners
+brownfield-land,,OwnershipStatus,not owned by a public authority,not in public ownership
+brownfield-land,,OwnershipStatus,not owned by a public authority,not owned by a public aut
+brownfield-land,,OwnershipStatus,not owned by a public authority,not owned by a public authoritity
+brownfield-land,,OwnershipStatus,not owned by a public authority,not owned by a public authority
+brownfield-land,,OwnershipStatus,not owned by a public authority,not owned by apublic authority
+brownfield-land,,OwnershipStatus,not owned by a public authority,not owned by public authority
+brownfield-land,,OwnershipStatus,not owned by a public authority,notownedbyapublicauthority
+brownfield-land,,OwnershipStatus,owned by a public authority,kent county council
+brownfield-land,,OwnershipStatus,owned by a public authority,onwed by a public authorty
+brownfield-land,,OwnershipStatus,owned by a public authority,owmed by a public authority
+brownfield-land,,OwnershipStatus,owned by a public authority,owned by a public authori
+brownfield-land,,OwnershipStatus,owned by a public authority,owned by a public authority
+brownfield-land,,OwnershipStatus,owned by a public authority,owned by a public authority - hbc
+brownfield-land,,OwnershipStatus,mixed ownership,owned by a public authority part
+brownfield-land,,OwnershipStatus,owned by a public authority,owned by a public authorty
+brownfield-land,,OwnershipStatus,owned by a public authority,owned by public authority
+brownfield-land,,OwnershipStatus,owned by a public authority,owned by the london borough of bromley
+brownfield-land,,OwnershipStatus,owned by a public authority,ownedbyapublicauthority
+brownfield-land,,OwnershipStatus,,ownership unknown
+brownfield-land,,OwnershipStatus,not owned by a public authority,private
+brownfield-land,,OwnershipStatus,not owned by a public authority,private company
+brownfield-land,,OwnershipStatus,not owned by a public authority,private individual
+brownfield-land,,OwnershipStatus,not owned by a public authority,promoted
+brownfield-land,,OwnershipStatus,owned by a public authority,public - thurrock council
+brownfield-land,,OwnershipStatus,owned by a public authority,public authority
+brownfield-land,,OwnershipStatus,owned by a public authority,public ownership
+brownfield-land,,OwnershipStatus,owned by a public authority,qwned by a public authority
+brownfield-land,,OwnershipStatus,owned by a public authority,swindon borough council
+brownfield-land,,OwnershipStatus,owned by a public authority,swindon borough council and others
+brownfield-land,,OwnershipStatus,,unknown
+brownfield-land,,OwnershipStatus,,unknown owenrship
+brownfield-land,,OwnershipStatus,,unknown owership
+brownfield-land,,OwnershipStatus,,unknown owner
+brownfield-land,,OwnershipStatus,,unknown ownerhip
+brownfield-land,,OwnershipStatus,,unknown ownership
+brownfield-land,,OwnershipStatus,,unkown ownership
+brownfield-land,,PermissionType,,application refused rejected
+brownfield-land,,PermissionType,other,decision pending
+brownfield-land,,PermissionType,other,determination for permitted development
+brownfield-land,,PermissionType,other,expired
+brownfield-land,,PermissionType,other,extant
+brownfield-land,,PermissionType,full planning permission,ful
+brownfield-land,,PermissionType,full planning permission,full
+brownfield-land,,PermissionType,full planning permission,full permission
+brownfield-land,,PermissionType,full planning permission,full planning
+brownfield-land,,PermissionType,full planning permission,full planning application
+brownfield-land,,PermissionType,full planning permission,full planning permis
+brownfield-land,,PermissionType,full planning permission,full planning permisison
+brownfield-land,,PermissionType,full planning permission,full planning permission listed building consent
+brownfield-land,,PermissionType,planning permission granted under an order,full planning permission planning permission granted under an order
+brownfield-land,,PermissionType,other,full planning permission prior approval
+brownfield-land,,PermissionType,full planning permission,full planning permission subject to legal agreement
+brownfield-land,,PermissionType,full planning permission,full plannng permission
+brownfield-land,,PermissionType,other,hybrid full outline
+brownfield-land,,PermissionType,other,hybrid full outline planning permission with all matters reserved
+brownfield-land,,PermissionType,other,hybrid planning permission
+brownfield-land,,PermissionType,other,lapsed permission
+brownfield-land,,PermissionType,other,listed building
+brownfield-land,,PermissionType,other,listed building consent
+brownfield-land,,PermissionType,full planning permission,mma full planning permission
+brownfield-land,,PermissionType,,none
+brownfield-land,,PermissionType,other,not permissioned
+brownfield-land,,PermissionType,other,oter
+brownfield-land,,PermissionType,other,other - s73 mma
+brownfield-land,,PermissionType,other,other full planning permission
+brownfield-land,,PermissionType,other,otther
+brownfield-land,,PermissionType,outline planning permission,ouline planning permission
+brownfield-land,,PermissionType,outline planning permission,outline
+brownfield-land,,PermissionType,outline planning permission,outline permission
+brownfield-land,,PermissionType,outline planning permission,outline planning
+brownfield-land,,PermissionType,outline planning permission,outline planning app
+brownfield-land,,PermissionType,outline planning permission,outline planning application
+brownfield-land,,PermissionType,outline planning permission,outline planning application with all matters reserved
+brownfield-land,,PermissionType,outline planning permission,outline planning per
+brownfield-land,,PermissionType,outline planning permission,outline planning permission 15 07 15
+brownfield-land,,PermissionType,outline planning permission,outline planning permission with all matters reserved
+brownfield-land,,PermissionType,outline planning permission,outline reg 3 planning permission
+brownfield-land,,PermissionType,outline planning permission,outline submitted
+brownfield-land,,PermissionType,other,part outline part fu
+brownfield-land,,PermissionType,other,part outline part full planning permission
+brownfield-land,,PermissionType,other,pending
+brownfield-land,,PermissionType,other,pending decision
+brownfield-land,,PermissionType,other,permission lapsed
+brownfield-land,,PermissionType,full planning permission,permissioned
+brownfield-land,,PermissionType,full planning permission,planning permission
+brownfield-land,,PermissionType,planning permission granted under an order,planning permission granted under an order
+brownfield-land,,PermissionType,planning permission granted under an order,planning permission granted under an order full permission
+brownfield-land,,PermissionType,other,prior approval
+brownfield-land,,PermissionType,other,prior approval - approved change of use
+brownfield-land,,PermissionType,other,prior approval - class o
+brownfield-land,,PermissionType,other,prior notification
+brownfield-land,,PermissionType,other,renewal - full planning permission
+brownfield-land,,PermissionType,reserved matters approval,reserve matters
+brownfield-land,,PermissionType,reserved matters approval,reserved matters
+brownfield-land,,PermissionType,other,reserved matters and full planning
+brownfield-land,,PermissionType,reserved matters approval,reserved matters app
+brownfield-land,,PermissionType,reserved matters approval,reserved matters application
+brownfield-land,,PermissionType,reserved matters approval,reserved matters approval
+brownfield-land,,PermissionType,reserved matters approval,reserved matters approval permission approval
+brownfield-land,,PermissionType,reserved matters approval,reserved matters permission
+brownfield-land,,PermissionType,reserved matters approval,reserved matters planning permission
+brownfield-land,,PermissionType,reserved matters approval,reserved mattres approval
+brownfield-land,,PermissionType,other,residential development
+brownfield-land,,PermissionType,technical details consent,techincal details consent
+brownfield-land,,PermissionType,other,technical details co
+brownfield-land,,PermissionType,other,under construction
+brownfield-land,,PermissionType,full planning permission,with full permission
+brownfield-land,,PermissionType,outline planning permission,with outline permission
+brownfield-land,,PlanningStatus,permissioned,approved
+brownfield-land,,PlanningStatus,pending decision,decision pending
+brownfield-land,,PlanningStatus,not permissioned,expired permission
+brownfield-land,,PlanningStatus,permissioned,full consent
+brownfield-land,,PlanningStatus,permissioned,full planning permission
+brownfield-land,,PlanningStatus,not permissioned,lp site not permissioned
+brownfield-land,,PlanningStatus,not permissioned,no permissioned
+brownfield-land,,PlanningStatus,not permissioned,not consented
+brownfield-land,,PlanningStatus,not permissioned,not in planning system
+brownfield-land,,PlanningStatus,not permissioned,not permisioned
+brownfield-land,,PlanningStatus,not permissioned,not permissed
+brownfield-land,,PlanningStatus,not permissioned,not permissionsed
+brownfield-land,,PlanningStatus,not permissioned,not permissoned
+brownfield-land,,PlanningStatus,pending decision,outline consent
+brownfield-land,,PlanningStatus,pending decision,outline permission
+brownfield-land,,PlanningStatus,pending decision,outline planning permission
+brownfield-land,,PlanningStatus,pending decision,part permissioned
+brownfield-land,,PlanningStatus,pending decision,pending
+brownfield-land,,PlanningStatus,pending decision,pending decision appeal lodged
+brownfield-land,,PlanningStatus,pending decision,pending descision
+brownfield-land,,PlanningStatus,pending decision,pending permission
+brownfield-land,,PlanningStatus,pending decision,pendingdecision
+brownfield-land,,PlanningStatus,permissioned,permisioned
+brownfield-land,,PlanningStatus,permissioned,permission
+brownfield-land,,PlanningStatus,permissioned,permission granted
+brownfield-land,,PlanningStatus,permissioned,permissiond
+brownfield-land,,PlanningStatus,permissioned,permissioned part
+brownfield-land,,PlanningStatus,permissioned,permissoned
+brownfield-land,,PlanningStatus,permissioned,planningstatus
+brownfield-land,,PlanningStatus,pending decision,prior notification
+brownfield-land,,PlanningStatus,pending decision,reserve mattes permi
+brownfield-land,,PlanningStatus,permissioned,under construction
+brownfield-land,,PlanningStatus,permissioned,yes
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/district-council/redditch,http://id.esd.org.uk/service/1797
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/district-council/epping-forest,http://opendatacommunities.org/doc/district-council/eppingforest
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/newcastle,http://opendatacommunities.org/id/county-council/newcastle-upon-tyne
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/district-council/mole-valley,http://opendatacommunities.org/id/district-council/molevalley
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/district-council/south-northamptonshire,http://opendatacommunities.org/id/district-council/southnorthants
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/london-borough-council/lambeth,http://opendatacommunities.org/id/geography/administration/lonb/E09000034
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/london-borough-council/lambeth,http://opendatacommunities.org/id/geography/administration/lonb/E09000035
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/london-borough-council/lambeth,http://opendatacommunities.org/id/geography/administration/lonb/E09000036
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/london-borough-council/lambeth,http://opendatacommunities.org/id/geography/administration/lonb/E09000037
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/london-borough-council/lambeth,http://opendatacommunities.org/id/geography/administration/lonb/E09000038
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/london-borough-council/lambeth,http://opendatacommunities.org/id/geography/administration/lonb/E09000039
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/london-borough-council/lambeth,http://opendatacommunities.org/id/geography/administration/lonb/E09000040
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/london-borough-council/lambeth,http://opendatacommunities.org/id/geography/administration/lonb/E09000041
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/london-borough-council/lambeth,http://opendatacommunities.org/id/geography/administration/lonb/E09000042
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/london-borough-council/lambeth,http://opendatacommunities.org/id/geography/administration/lonb/E09000043
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/london-borough-council/lambeth,http://opendatacommunities.org/id/geography/administration/lonb/E09000044
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/london-borough-council/lambeth,http://opendatacommunities.org/id/geography/administration/lonb/E09000045
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/london-borough-council/lambeth,http://opendatacommunities.org/id/geography/administration/lonb/E09000046
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/london-borough-council/lambeth,http://opendatacommunities.org/id/geography/administration/lonb/E09000047
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/london-borough-council/lambeth,http://opendatacommunities.org/id/geography/administration/lonb/E09000048
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/london-borough-council/lambeth,http://opendatacommunities.org/id/geography/administration/lonb/E09000049
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/london-borough-council/lambeth,http://opendatacommunities.org/id/geography/administration/lonb/E09000050
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/london-borough-council/lambeth,http://opendatacommunities.org/id/geography/administration/lonb/E09000051
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/london-borough-council/lambeth,http://opendatacommunities.org/id/geography/administration/lonb/E09000052
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/oldham,http://opendatacommunities.org/id/geography/administration/md/E08000037
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/oldham,http://opendatacommunities.org/id/geography/administration/md/E08000038
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/oldham,http://opendatacommunities.org/id/geography/administration/md/E08000039
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/oldham,http://opendatacommunities.org/id/geography/administration/md/E08000041
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/oldham,http://opendatacommunities.org/id/geography/administration/md/E08000042
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/oldham,http://opendatacommunities.org/id/geography/administration/md/E08000043
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/oldham,http://opendatacommunities.org/id/geography/administration/md/E08000044
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/oldham,http://opendatacommunities.org/id/geography/administration/md/E08000045
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/oldham,http://opendatacommunities.org/id/geography/administration/md/E08000046
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/oldham,http://opendatacommunities.org/id/geography/administration/md/E08000047
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/oldham,http://opendatacommunities.org/id/geography/administration/md/E08000048
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/oldham,http://opendatacommunities.org/id/geography/administration/md/E08000049
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/oldham,http://opendatacommunities.org/id/geography/administration/md/E08000050
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/oldham,http://opendatacommunities.org/id/geography/administration/md/E08000051
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/oldham,http://opendatacommunities.org/id/geography/administration/md/E08000052
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/oldham,http://opendatacommunities.org/id/geography/administration/md/E08000053
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/oldham,http://opendatacommunities.org/id/geography/administration/md/E08000054
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/oldham,http://opendatacommunities.org/id/geography/administration/md/E08000055
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/oldham,http://opendatacommunities.org/id/geography/administration/md/E08000056
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/oldham,http://opendatacommunities.org/id/geography/administration/md/E08000057
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/oldham,http://opendatacommunities.org/id/geography/administration/md/E08000058
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/oldham,http://opendatacommunities.org/id/geography/administration/md/E08000059
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/oldham,http://opendatacommunities.org/id/geography/administration/md/E08000060
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/oldham,http://opendatacommunities.org/id/geography/administration/md/E08000061
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/oldham,http://opendatacommunities.org/id/geography/administration/md/E08000062
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/oldham,http://opendatacommunities.org/id/geography/administration/md/E08000063
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/oldham,http://opendatacommunities.org/id/geography/administration/md/E08000064
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/oldham,http://opendatacommunities.org/id/geography/administration/md/E08000065
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/oldham,http://opendatacommunities.org/id/geography/administration/md/E08000066
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/oldham,http://opendatacommunities.org/id/geography/administration/md/E08000067
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/oldham,http://opendatacommunities.org/id/geography/administration/md/E08000068
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/oldham,http://opendatacommunities.org/id/geography/administration/md/E08000069
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/oldham,http://opendatacommunities.org/id/geography/administration/md/E08000070
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/oldham,http://opendatacommunities.org/id/geography/administration/md/E08000071
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/oldham,http://opendatacommunities.org/id/geography/administration/md/E08000072
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/oldham,http://opendatacommunities.org/id/geography/administration/md/E08000073
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/district-council/east-staffordshire,http://opendatacommunities.org/id/geography/administration/nmd/E07000230
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/district-council/east-staffordshire,http://opendatacommunities.org/id/geography/administration/nmd/E07000231
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/district-council/east-staffordshire,http://opendatacommunities.org/id/geography/administration/nmd/E07000232
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/district-council/stafford,http://opendatacommunities.org/id/geography/administration/nmd/E07000233
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/unitary-authority/cheshire-east,http://opendatacommunities.org/id/geography/administration/ua/E06000057
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/unitary-authority/cheshire-east,http://opendatacommunities.org/id/geography/administration/ua/E06000060
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/unitary-authority/cheshire-east,http://opendatacommunities.org/id/geography/administration/ua/E06000061
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/unitary-authority/cheshire-east,http://opendatacommunities.org/id/geography/administration/ua/E06000062
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/unitary-authority/cheshire-east,http://opendatacommunities.org/id/geography/administration/ua/E06000063
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/unitary-authority/cheshire-east,http://opendatacommunities.org/id/geography/administration/ua/E06000064
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/unitary-authority/cheshire-east,http://opendatacommunities.org/id/geography/administration/ua/E06000065
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/unitary-authority/cheshire-east,http://opendatacommunities.org/id/geography/administration/ua/E06000066
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/unitary-authority/cheshire-east,http://opendatacommunities.org/id/geography/administration/ua/E06000067
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/unitary-authority/cheshire-east,http://opendatacommunities.org/id/geography/administration/ua/E06000068
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/unitary-authority/cheshire-east,http://opendatacommunities.org/id/geography/administration/ua/E06000069
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/unitary-authority/cheshire-east,http://opendatacommunities.org/id/geography/administration/ua/E06000070
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/unitary-authority/cheshire-east,http://opendatacommunities.org/id/geography/administration/ua/E06000071
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/unitary-authority/cheshire-east,http://opendatacommunities.org/id/geography/administration/ua/E06000072
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/unitary-authority/cheshire-east,http://opendatacommunities.org/id/geography/administration/ua/E06000073
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/unitary-authority/cheshire-east,http://opendatacommunities.org/id/geography/administration/ua/E06000074
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/unitary-authority/cheshire-east,http://opendatacommunities.org/id/geography/administration/ua/E06000075
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/unitary-authority/cheshire-east,http://opendatacommunities.org/id/geography/administration/ua/E06000076
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/unitary-authority/cheshire-east,http://opendatacommunities.org/id/geography/administration/ua/E06000077
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/unitary-authority/cheshire-east,http://opendatacommunities.org/id/geography/administration/ua/E06000078
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/unitary-authority/cheshire-east,http://opendatacommunities.org/id/geography/administration/ua/E06000079
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/unitary-authority/cheshire-east,http://opendatacommunities.org/id/geography/administration/ua/E06000080
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/unitary-authority/cheshire-east,http://opendatacommunities.org/id/geography/administration/ua/E06000081
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/unitary-authority/cheshire-east,http://opendatacommunities.org/id/geography/administration/ua/E06000082
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/unitary-authority/cheshire-east,http://opendatacommunities.org/id/geography/administration/ua/E06000083
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/unitary-authority/cheshire-east,http://opendatacommunities.org/id/geography/administration/ua/E06000084
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/unitary-authority/cheshire-east,http://opendatacommunities.org/id/geography/administration/ua/E06000085
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/unitary-authority/cheshire-east,http://opendatacommunities.org/id/geography/administration/ua/E06000086
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/unitary-authority/cheshire-east,http://opendatacommunities.org/id/geography/administration/ua/E06000087
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/unitary-authority/cheshire-east,http://opendatacommunities.org/id/geography/administration/ua/E06000088
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/unitary-authority/cheshire-east,http://opendatacommunities.org/id/geography/administration/ua/E06000089
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/unitary-authority/cheshire-east,http://opendatacommunities.org/id/geography/administration/ua/E06000090
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/unitary-authority/cheshire-east,http://opendatacommunities.org/id/geography/administration/ua/E06000091
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/unitary-authority/cheshire-east,http://opendatacommunities.org/id/geography/administration/ua/E06000092
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/unitary-authority/cheshire-east,http://opendatacommunities.org/id/geography/administration/ua/E06000093
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/unitary-authority/cheshire-east,http://opendatacommunities.org/id/geography/administration/ua/E06000094
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/unitary-authority/cheshire-east,http://opendatacommunities.org/id/geography/administration/ua/E06000095
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/unitary-authority/cheshire-east,http://opendatacommunities.org/id/geography/administration/ua/E06000096
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/unitary-authority/cheshire-east,http://opendatacommunities.org/id/geography/administration/ua/E06000097
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/unitary-authority/cheshire-east,http://opendatacommunities.org/id/geography/administration/ua/E06000098
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/unitary-authority/cheshire-east,http://opendatacommunities.org/id/geography/administration/ua/E06000099
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/unitary-authority/cheshire-east,http://opendatacommunities.org/id/geography/administration/ua/E06000100
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/unitary-authority/cheshire-east,http://opendatacommunities.org/id/geography/administration/ua/E06000101
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/unitary-authority/cheshire-east,http://opendatacommunities.org/id/geography/administration/ua/E06000102
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/unitary-authority/cheshire-east,http://opendatacommunities.org/id/geography/administration/ua/E06000103
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/unitary-authority/cheshire-east,http://opendatacommunities.org/id/geography/administration/ua/E06000104
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/unitary-authority/cheshire-east,http://opendatacommunities.org/id/geography/administration/ua/E06000105
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/unitary-authority/cheshire-east,http://opendatacommunities.org/id/geography/administration/ua/E06000106
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/unitary-authority/cheshire-east,http://opendatacommunities.org/id/geography/administration/ua/E06000107
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/unitary-authority/cheshire-east,http://opendatacommunities.org/id/geography/administration/ua/E06000108
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/unitary-authority/cheshire-east,http://opendatacommunities.org/id/geography/administration/ua/E06000109
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/unitary-authority/cheshire-east,http://opendatacommunities.org/id/geography/administration/ua/E06000110
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/unitary-authority/cheshire-east,http://opendatacommunities.org/id/geography/administration/ua/E06000111
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/unitary-authority/cheshire-east,http://opendatacommunities.org/id/geography/administration/ua/E06000112
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/unitary-authority/cheshire-east,http://opendatacommunities.org/id/geography/administration/ua/E06000113
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/unitary-authority/cheshire-east,http://opendatacommunities.org/id/geography/administration/ua/E06000114
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/unitary-authority/cheshire-east,http://opendatacommunities.org/id/geography/administration/ua/E06000115
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/unitary-authority/cheshire-east,http://opendatacommunities.org/id/geography/administration/ua/E06000116
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/unitary-authority/cheshire-east,http://opendatacommunities.org/id/geography/administration/ua/E06000117
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/unitary-authority/cheshire-east,http://opendatacommunities.org/id/geography/administration/ua/E06000118
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/unitary-authority/cheshire-east,http://opendatacommunities.org/id/geography/administration/ua/E06000119
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/unitary-authority/cheshire-east,http://opendatacommunities.org/id/geography/administration/ua/E06000120
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/unitary-authority/cheshire-east,http://opendatacommunities.org/id/geography/administration/ua/E06000121
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/unitary-authority/cheshire-east,http://opendatacommunities.org/id/geography/administration/ua/E06000122
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/unitary-authority/cheshire-east,http://opendatacommunities.org/id/geography/administration/ua/E06000123
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/unitary-authority/cheshire-east,http://opendatacommunities.org/id/geography/administration/ua/E06000124
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/unitary-authority/cheshire-east,http://opendatacommunities.org/id/geography/administration/ua/E06000125
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/unitary-authority/cheshire-east,http://opendatacommunities.org/id/geography/administration/ua/E06000126
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/unitary-authority/cheshire-east,http://opendatacommunities.org/id/geography/administration/ua/E06000127
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/unitary-authority/cheshire-east,http://opendatacommunities.org/id/geography/administration/ua/E06000128
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/unitary-authority/cheshire-east,http://opendatacommunities.org/id/geography/administration/ua/E06000129
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/unitary-authority/cheshire-east,http://opendatacommunities.org/id/geography/administration/ua/E06000130
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/unitary-authority/cheshire-east,http://opendatacommunities.org/id/geography/administration/ua/E06000131
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/unitary-authority/cheshire-east,http://opendatacommunities.org/id/geography/administration/ua/E06000132
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/unitary-authority/cheshire-east,http://opendatacommunities.org/id/geography/administration/ua/E06000132
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/unitary-authority/cheshire-east,http://opendatacommunities.org/id/geography/administration/ua/E06000132
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/unitary-authority/cheshire-east,http://opendatacommunities.org/id/geography/administration/ua/E06000132
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/unitary-authority/cheshire-east,http://opendatacommunities.org/id/geography/administration/ua/E06000133
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/unitary-authority/cheshire-east,http://opendatacommunities.org/id/geography/administration/ua/E06000134
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/unitary-authority/cheshire-east,http://opendatacommunities.org/id/geography/administration/ua/E06000135
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/unitary-authority/cheshire-east,http://opendatacommunities.org/id/geography/administration/ua/E06000136
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/unitary-authority/cheshire-east,http://opendatacommunities.org/id/geography/administration/ua/E06000137
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/unitary-authority/cheshire-east,http://opendatacommunities.org/id/geography/administration/ua/E06000138
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/district-council/east-hertfordshire,http://opendatacommunities.org/resource?uri=http://opendatacommunities.org/id/geography/administration/nmd/E07000242
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/district-council/east-hertfordshire,http://opendatacommunities.org/resource?uri=http://opendatacommunities.org/id/geography/administration/nmd/E07000243
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/district-council/east-hertfordshire,http://opendatacommunities.org/resource?uri=http://opendatacommunities.org/id/geography/administration/nmd/E07000247
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/district-council/east-hertfordshire,http://opendatacommunities.org/resource?uri=http://opendatacommunities.org/id/geography/administration/nmd/E07000248
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/district-council/east-hertfordshire,http://opendatacommunities.org/resource?uri=http://opendatacommunities.org/id/geography/administration/nmd/E07000249
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/district-council/east-hertfordshire,http://opendatacommunities.org/resource?uri=http://opendatacommunities.org/id/geography/administration/nmd/E07000250
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/district-council/east-hertfordshire,http://opendatacommunities.org/resource?uri=http://opendatacommunities.org/id/geography/administration/nmd/E07000251
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/district-council/east-hertfordshire,http://opendatacommunities.org/resource?uri=http://opendatacommunities.org/id/geography/administration/nmd/E07000252
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/district-council/east-hertfordshire,http://opendatacommunities.org/resource?uri=http://opendatacommunities.org/id/geography/administration/nmd/E07000253
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/district-council/east-hertfordshire,http://opendatacommunities.org/resource?uri=http://opendatacommunities.org/id/geography/administration/nmd/E07000254
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/district-council/east-hertfordshire,http://opendatacommunities.org/resource?uri=http://opendatacommunities.org/id/geography/administration/nmd/E07000255
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/district-council/east-hertfordshire,http://opendatacommunities.org/resource?uri=http://opendatacommunities.org/id/geography/administration/nmd/E07000256
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/district-council/east-hertfordshire,http://opendatacommunities.org/resource?uri=http://opendatacommunities.org/id/geography/administration/nmd/E07000257
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/district-council/east-hertfordshire,http://opendatacommunities.org/resource?uri=http://opendatacommunities.org/id/geography/administration/nmd/E07000258
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/district-council/east-hertfordshire,http://opendatacommunities.org/resource?uri=http://opendatacommunities.org/id/geography/administration/nmd/E07000259
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/district-council/east-hertfordshire,http://opendatacommunities.org/resource?uri=http://opendatacommunities.org/id/geography/administration/nmd/E07000260
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/district-council/east-hertfordshire,http://opendatacommunities.org/resource?uri=http://opendatacommunities.org/id/geography/administration/nmd/E07000261
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/district-council/east-hertfordshire,http://opendatacommunities.org/resource?uri=http://opendatacommunities.org/id/geography/administration/nmd/E07000262
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/district-council/east-hertfordshire,http://opendatacommunities.org/resource?uri=http://opendatacommunities.org/id/geography/administration/nmd/E07000263
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/district-council/east-hertfordshire,http://opendatacommunities.org/resource?uri=http://opendatacommunities.org/id/geography/administration/nmd/E07000264
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/district-council/east-hertfordshire,http://opendatacommunities.org/resource?uri=http://opendatacommunities.org/id/geography/administration/nmd/E07000265
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/district-council/east-hertfordshire,http://opendatacommunities.org/resource?uri=http://opendatacommunities.org/id/geography/administration/nmd/E07000266
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/district-council/east-hertfordshire,http://opendatacommunities.org/resource?uri=http://opendatacommunities.org/id/geography/administration/nmd/E07000267
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/district-council/east-hertfordshire,http://opendatacommunities.org/resource?uri=http://opendatacommunities.org/id/geography/administration/nmd/E07000268
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/district-council/st-edmundsbury,St Edmundsbury
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/district-council/west-suffolk,West Suffolk
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/wigan,Wigan Council
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/metropolitan-district-council/liverpool,www.liverpool.gov.uk
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/district-council/forest-heath,Forest Heath
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/district-council/maidstone,Maidstone E07000110
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/unitary-authority/stoke-on-trent,"Click here to go to the city council entry on the Ministry of Housing, Communities and Local Government website"
+brownfield-land,,OrganisationURI,http://opendatacommunities.org/id/district-council/south-norfolk,South Norfolk

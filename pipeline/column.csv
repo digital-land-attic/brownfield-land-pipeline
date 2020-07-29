@@ -88,11 +88,16 @@ brownfield-land,,"Ownership: PA_owner, not PA_own., mixed_o'ship, unknown",Owner
 brownfield-land,,"Hazardous Substances [as identifiied in Appl. form]",HazardousSubstances
 brownfield-land,,Planning Permission Status,PlanningStatus
 brownfield-land,,PLANNING STATUS,PlanningStatus
+brownfield-land,,PermissionType,PermissionType
+brownfield-land,,PermissionDate,PermissionDate
+brownfield-land,,PlanningHistory,PlanningHistory
 brownfield-land,,MINHOMES,MinNetDwellings
 brownfield-land,,Min dwellings,MinNetDwellings
 brownfield-land,,MINIMUM NET DWELLINGS,MinNetDwellings
+brownfield-land,,NetDwellingsRangeFrom,NetDwellingsRangeFrom
 brownfield-land,,Max dwellings,NetDwellingsRangeTo
 brownfield-land,,MAXIMUM NET DWELLINGS,NetDwellingsRangeTo
+brownfield-land,,Deliverable,Deliverable
 brownfield-land,,DevelopmentDescription,Notes
 brownfield-land,,SiteInformation,Notes
 brownfield-land,,Date first entered on the register,FirstAddedDate
@@ -103,3 +108,4 @@ brownfield-land,,LastUpdate,LastUpdatedDate
 brownfield-land,,DATE LAST UPDATED,LastUpdatedDate
 brownfield-land,,Date last updated on the register,LastUpdatedDate
 brownfield-land,,Last Updated Date,LastUpdatedDate
+brownfield-land,,EndDate,EndDate

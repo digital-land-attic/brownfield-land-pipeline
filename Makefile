@@ -38,6 +38,7 @@ DATASET_FILES=dataset/$(DATASET_NAME).csv
 
 # schema for collected files, and transformation pipeline
 SCHEMA=schema/$(DATASET_NAME).json
+SPECIFICATION_DIR=specification/specification/
 PIPELINE_DIR=pipeline/
 PIPELINE_NAME=$(DATASET_NAME)
 
@@ -243,7 +244,7 @@ $(NORMALISED_DIR)%.csv: $(CONVERTED_DIR)%.csv
 
 $(MAPPED_DIR)%.csv: $(NORMALISED_DIR)%.csv $(PIPELINE_DIR)
 	@mkdir -p $(MAPPED_DIR)
-	digital-land map $(PIPELINE_NAME) $< $@ $(PIPELINE_DIR)
+	digital-land map $(PIPELINE_NAME) $< $@ $(SPECIFICATION_DIR) $(PIPELINE_DIR)
 
 $(HARMONISED_DIR)%.csv: $(MAPPED_DIR)%.csv $(SCHEMA) $(HARMONISE_DATA)
 	@mkdir -p $(HARMONISED_DIR) $(ISSUE_DIR)

@@ -39,6 +39,7 @@ DATASET_FILES=dataset/$(DATASET_NAME).csv
 # schema for collected files, and transformation pipeline
 SCHEMA=schema/$(DATASET_NAME).json
 PIPELINE_DIR=pipeline/
+PIPELINE_NAME=$(DATASET_NAME)
 
 # collection log
 LOG_FILES:=$(wildcard collection/log/*/*.json)
@@ -238,11 +239,11 @@ $(CONVERTED_DIR)%.csv: $(RESOURCE_DIR)%
 
 $(NORMALISED_DIR)%.csv: $(CONVERTED_DIR)%.csv
 	@mkdir -p $(NORMALISED_DIR)
-	digital-land normalise $< $@
+	digital-land normalise $(PIPELINE_NAME) $< $@ $(PIPELINE_DIR)
 
 $(MAPPED_DIR)%.csv: $(NORMALISED_DIR)%.csv $(PIPELINE_DIR)
 	@mkdir -p $(MAPPED_DIR)
-	digital-land map "brownfield-land" $< $@ $(PIPELINE_DIR)
+	digital-land map $(PIPELINE_NAME) $< $@ $(PIPELINE_DIR)
 
 $(HARMONISED_DIR)%.csv: $(MAPPED_DIR)%.csv $(SCHEMA) $(HARMONISE_DATA)
 	@mkdir -p $(HARMONISED_DIR) $(ISSUE_DIR)

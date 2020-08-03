@@ -1,1 +1,13 @@
 row-number,field,issue-type,value
+1,NetDwellingsRangeFrom,default,10
+1,NetDwellingsRangeTo,default,10
+2,NetDwellingsRangeFrom,default,16
+2,NetDwellingsRangeTo,default,16
+3,NetDwellingsRangeFrom,default,8
+3,NetDwellingsRangeTo,default,8
+4,NetDwellingsRangeFrom,default,12
+4,NetDwellingsRangeTo,default,12
+5,NetDwellingsRangeFrom,default,10
+5,NetDwellingsRangeTo,default,10
+6,NetDwellingsRangeFrom,default,50
+6,NetDwellingsRangeTo,default,50

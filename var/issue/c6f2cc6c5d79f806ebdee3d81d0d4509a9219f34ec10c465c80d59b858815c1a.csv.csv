@@ -1,1 +1,187 @@
 row-number,field,issue-type,value
+1,OwnershipStatus,OwnershipStatus,not owned by a public aut
+1,NetDwellingsRangeFrom,default,19
+2,OwnershipStatus,OwnershipStatus,not owned by a public aut
+2,NetDwellingsRangeFrom,default,0
+3,OwnershipStatus,OwnershipStatus,not owned by a public aut
+3,NetDwellingsRangeFrom,default,0
+4,OwnershipStatus,OwnershipStatus,not owned by a public aut
+4,NetDwellingsRangeFrom,default,106
+5,OwnershipStatus,OwnershipStatus,not owned by a public aut
+5,NetDwellingsRangeFrom,default,10
+6,OwnershipStatus,OwnershipStatus,not owned by a public aut
+6,NetDwellingsRangeFrom,default,0
+7,NetDwellingsRangeFrom,default,0
+8,OwnershipStatus,OwnershipStatus,not owned by a public aut
+8,NetDwellingsRangeFrom,default,0
+9,OwnershipStatus,OwnershipStatus,owned by a public authori
+9,NetDwellingsRangeFrom,default,77
+10,OwnershipStatus,OwnershipStatus,not owned by a public aut
+10,NetDwellingsRangeFrom,default,78
+11,OwnershipStatus,OwnershipStatus,not owned by a public aut
+11,NetDwellingsRangeFrom,default,27
+12,OwnershipStatus,OwnershipStatus,not owned by a public aut
+12,NetDwellingsRangeFrom,default,24
+13,OwnershipStatus,OwnershipStatus,owned by a public authori
+13,NetDwellingsRangeFrom,default,0
+14,OwnershipStatus,OwnershipStatus,not owned by a public aut
+14,NetDwellingsRangeFrom,default,14
+15,OwnershipStatus,OwnershipStatus,not owned by a public aut
+15,NetDwellingsRangeFrom,default,60
+16,OwnershipStatus,OwnershipStatus,not owned by a public aut
+16,NetDwellingsRangeFrom,default,41
+17,OwnershipStatus,OwnershipStatus,not owned by a public aut
+17,NetDwellingsRangeFrom,default,0
+18,OwnershipStatus,OwnershipStatus,not owned by a public aut
+18,NetDwellingsRangeFrom,default,0
+19,OwnershipStatus,OwnershipStatus,owned by a public authori
+19,NetDwellingsRangeFrom,default,0
+20,OwnershipStatus,OwnershipStatus,not owned by a public aut
+20,NetDwellingsRangeFrom,default,0
+21,OwnershipStatus,OwnershipStatus,not owned by a public aut
+21,NetDwellingsRangeFrom,default,0
+22,OwnershipStatus,OwnershipStatus,not owned by a public aut
+22,NetDwellingsRangeFrom,default,0
+23,OwnershipStatus,OwnershipStatus,not owned by a public aut
+23,NetDwellingsRangeFrom,default,10
+24,OwnershipStatus,OwnershipStatus,not owned by a public aut
+24,NetDwellingsRangeFrom,default,13
+25,OwnershipStatus,OwnershipStatus,not owned by a public aut
+25,NetDwellingsRangeFrom,default,0
+26,OwnershipStatus,OwnershipStatus,not owned by a public aut
+26,NetDwellingsRangeFrom,default,0
+27,OwnershipStatus,OwnershipStatus,not owned by a public aut
+27,NetDwellingsRangeFrom,default,10
+28,OwnershipStatus,OwnershipStatus,not owned by a public aut
+28,NetDwellingsRangeFrom,default,39
+29,OwnershipStatus,OwnershipStatus,owned by a public authori
+29,NetDwellingsRangeFrom,default,0
+30,OwnershipStatus,OwnershipStatus,not owned by a public aut
+30,NetDwellingsRangeFrom,default,0
+31,OwnershipStatus,OwnershipStatus,owned by a public authori
+31,NetDwellingsRangeFrom,default,0
+32,OwnershipStatus,OwnershipStatus,owned by a public authori
+32,NetDwellingsRangeFrom,default,0
+33,OwnershipStatus,OwnershipStatus,not owned by a public aut
+33,NetDwellingsRangeFrom,default,343
+34,OwnershipStatus,OwnershipStatus,not owned by a public aut
+34,NetDwellingsRangeFrom,default,31
+35,OwnershipStatus,OwnershipStatus,owned by a public authori
+35,NetDwellingsRangeFrom,default,20
+36,OwnershipStatus,OwnershipStatus,not owned by a public aut
+36,NetDwellingsRangeFrom,default,40
+37,OwnershipStatus,OwnershipStatus,not owned by a public aut
+37,NetDwellingsRangeFrom,default,0
+38,OwnershipStatus,OwnershipStatus,owned by a public authori
+38,NetDwellingsRangeFrom,default,14
+39,OwnershipStatus,OwnershipStatus,not owned by a public aut
+39,NetDwellingsRangeFrom,default,24
+40,OwnershipStatus,OwnershipStatus,not owned by a public aut
+40,NetDwellingsRangeFrom,default,17
+41,OwnershipStatus,OwnershipStatus,owned by a public authori
+41,NetDwellingsRangeFrom,default,0
+42,OwnershipStatus,OwnershipStatus,not owned by a public aut
+42,NetDwellingsRangeFrom,default,0
+43,OwnershipStatus,OwnershipStatus,unknown ownership
+43,NetDwellingsRangeFrom,default,5
+44,OwnershipStatus,OwnershipStatus,not owned by a public aut
+44,NetDwellingsRangeFrom,default,146
+45,OwnershipStatus,OwnershipStatus,unknown ownership
+45,NetDwellingsRangeFrom,default,5
+46,OwnershipStatus,OwnershipStatus,not owned by a public aut
+46,NetDwellingsRangeFrom,default,0
+47,OwnershipStatus,OwnershipStatus,unknown ownership
+47,NetDwellingsRangeFrom,default,0
+48,OwnershipStatus,OwnershipStatus,not owned by a public aut
+48,NetDwellingsRangeFrom,default,53
+49,OwnershipStatus,OwnershipStatus,unknown ownership
+49,NetDwellingsRangeFrom,default,8
+50,OwnershipStatus,OwnershipStatus,not owned by a public aut
+50,NetDwellingsRangeFrom,default,0
+51,OwnershipStatus,OwnershipStatus,not owned by a public aut
+51,NetDwellingsRangeFrom,default,55
+52,OwnershipStatus,OwnershipStatus,not owned by a public aut
+52,NetDwellingsRangeFrom,default,0
+53,OwnershipStatus,OwnershipStatus,unknown ownership
+53,NetDwellingsRangeFrom,default,0
+54,OwnershipStatus,OwnershipStatus,not owned by a public aut
+54,NetDwellingsRangeFrom,default,238
+55,OwnershipStatus,OwnershipStatus,unknown ownership
+55,NetDwellingsRangeFrom,default,5
+56,OwnershipStatus,OwnershipStatus,not owned by a public aut
+56,NetDwellingsRangeFrom,default,0
+57,OwnershipStatus,OwnershipStatus,not owned by a public aut
+57,NetDwellingsRangeFrom,default,14
+58,OwnershipStatus,OwnershipStatus,not owned by a public aut
+58,NetDwellingsRangeFrom,default,0
+59,OwnershipStatus,OwnershipStatus,unknown ownership
+59,NetDwellingsRangeFrom,default,7
+60,OwnershipStatus,OwnershipStatus,unknown ownership
+60,NetDwellingsRangeFrom,default,8
+61,OwnershipStatus,OwnershipStatus,not owned by a public aut
+61,NetDwellingsRangeFrom,default,0
+62,OwnershipStatus,OwnershipStatus,unknown ownership
+62,NetDwellingsRangeFrom,default,9
+63,OwnershipStatus,OwnershipStatus,not owned by a public aut
+63,NetDwellingsRangeFrom,default,21
+64,OwnershipStatus,OwnershipStatus,not owned by a public aut
+64,NetDwellingsRangeFrom,default,28
+65,OwnershipStatus,OwnershipStatus,not owned by a public aut
+65,NetDwellingsRangeFrom,default,14
+66,OwnershipStatus,OwnershipStatus,not owned by a public aut
+66,NetDwellingsRangeFrom,default,0
+67,OwnershipStatus,OwnershipStatus,unknown ownership
+67,NetDwellingsRangeFrom,default,0
+68,OwnershipStatus,OwnershipStatus,not owned by a public aut
+68,NetDwellingsRangeFrom,default,0
+69,OwnershipStatus,OwnershipStatus,not owned by a public aut
+69,NetDwellingsRangeFrom,default,0
+70,OwnershipStatus,OwnershipStatus,not owned by a public aut
+70,NetDwellingsRangeFrom,default,0
+71,OwnershipStatus,OwnershipStatus,unknown ownership
+71,NetDwellingsRangeFrom,default,6
+72,OwnershipStatus,OwnershipStatus,not owned by a public aut
+72,NetDwellingsRangeFrom,default,11
+73,OwnershipStatus,OwnershipStatus,unknown ownership
+73,NetDwellingsRangeFrom,default,0
+74,OwnershipStatus,OwnershipStatus,not owned by a public aut
+74,NetDwellingsRangeFrom,default,0
+75,OwnershipStatus,OwnershipStatus,not owned by a public aut
+75,NetDwellingsRangeFrom,default,0
+76,OwnershipStatus,OwnershipStatus,not owned by a public aut
+76,NetDwellingsRangeFrom,default,0
+77,NetDwellingsRangeFrom,default,0
+78,OwnershipStatus,OwnershipStatus,owned by a public authori
+78,NetDwellingsRangeFrom,default,0
+79,OwnershipStatus,OwnershipStatus,not owned by a public aut
+79,NetDwellingsRangeFrom,default,0
+80,OwnershipStatus,OwnershipStatus,not owned by a public aut
+80,NetDwellingsRangeFrom,default,16
+81,OwnershipStatus,OwnershipStatus,not owned by a public aut
+81,NetDwellingsRangeFrom,default,60
+82,OwnershipStatus,OwnershipStatus,not owned by a public aut
+82,NetDwellingsRangeFrom,default,14
+83,OwnershipStatus,OwnershipStatus,not owned by a public aut
+83,NetDwellingsRangeFrom,default,119
+84,OwnershipStatus,OwnershipStatus,not owned by a public aut
+84,NetDwellingsRangeFrom,default,0
+85,OwnershipStatus,OwnershipStatus,not owned by a public aut
+85,NetDwellingsRangeFrom,default,0
+86,OwnershipStatus,OwnershipStatus,owned by a public authori
+86,NetDwellingsRangeFrom,default,0
+87,OwnershipStatus,OwnershipStatus,owned by a public authori
+87,NetDwellingsRangeFrom,default,0
+88,OwnershipStatus,OwnershipStatus,owned by a public authori
+88,NetDwellingsRangeFrom,default,0
+89,OwnershipStatus,OwnershipStatus,unknown ownership
+89,NetDwellingsRangeFrom,default,0
+90,OwnershipStatus,OwnershipStatus,not owned by a public aut
+90,NetDwellingsRangeFrom,default,0
+91,OwnershipStatus,OwnershipStatus,not owned by a public aut
+91,NetDwellingsRangeFrom,default,0
+92,OwnershipStatus,OwnershipStatus,owned by a public authori
+92,NetDwellingsRangeFrom,default,0
+93,OwnershipStatus,OwnershipStatus,not owned by a public aut
+93,NetDwellingsRangeFrom,default,0
+94,OwnershipStatus,OwnershipStatus,not owned by a public aut
+94,NetDwellingsRangeFrom,default,1300

@@ -1,4 +1,124 @@
 row-number,field,issue-type,value
+1,OwnershipStatus,OwnershipStatus,Not owned by public authority
+1,NetDwellingsRangeFrom,default,10
+1,LastUpdatedDate,default,2017-12-18
+2,OwnershipStatus,OwnershipStatus,Unknown ownership
+2,NetDwellingsRangeFrom,default,6
+2,LastUpdatedDate,default,2017-12-18
+3,OwnershipStatus,OwnershipStatus,Not owned by public authority
+3,NetDwellingsRangeFrom,default,9
+3,LastUpdatedDate,default,2017-12-18
+4,OwnershipStatus,OwnershipStatus,Unknown ownership
+4,NetDwellingsRangeFrom,default,9
+4,LastUpdatedDate,default,2017-12-18
+5,OwnershipStatus,OwnershipStatus,Not owned by public authority
+5,NetDwellingsRangeFrom,default,96
+5,LastUpdatedDate,default,2017-12-18
+6,OwnershipStatus,OwnershipStatus,Not owned by public authority
+6,NetDwellingsRangeFrom,default,6
+6,LastUpdatedDate,default,2017-12-18
+7,OwnershipStatus,OwnershipStatus,Unknown ownership
+7,NetDwellingsRangeFrom,default,17
+7,LastUpdatedDate,default,2017-12-18
+8,OwnershipStatus,OwnershipStatus,Unknown ownership
+8,NetDwellingsRangeFrom,default,57
+8,LastUpdatedDate,default,2017-12-18
+9,OwnershipStatus,OwnershipStatus,Unknown ownership
+9,NetDwellingsRangeFrom,default,10
+9,LastUpdatedDate,default,2017-12-18
+10,OwnershipStatus,OwnershipStatus,Unknown ownership
+10,NetDwellingsRangeFrom,default,9
+10,LastUpdatedDate,default,2017-12-18
 11,Hectares,decimal,<0.1
+11,OwnershipStatus,OwnershipStatus,Unknown ownership
+11,NetDwellingsRangeFrom,default,8
+11,LastUpdatedDate,default,2017-12-18
+11,Hectares,missing,
 12,Hectares,decimal,<0.1
+12,OwnershipStatus,OwnershipStatus,Unknown ownership
+12,NetDwellingsRangeFrom,default,6
+12,LastUpdatedDate,default,2017-12-18
+12,Hectares,missing,
+13,OwnershipStatus,OwnershipStatus,Unknown ownership
+13,NetDwellingsRangeFrom,default,11
+13,LastUpdatedDate,default,2017-12-18
+14,OwnershipStatus,OwnershipStatus,Unknown ownership
+14,NetDwellingsRangeFrom,default,41
+14,LastUpdatedDate,default,2017-12-18
+15,OwnershipStatus,OwnershipStatus,Unknown ownership
+15,NetDwellingsRangeFrom,default,16
+15,LastUpdatedDate,default,2017-12-18
+16,OwnershipStatus,OwnershipStatus,Unknown ownership
+16,NetDwellingsRangeFrom,default,5
+16,LastUpdatedDate,default,2017-12-18
+17,OwnershipStatus,OwnershipStatus,Unknown ownership
+17,NetDwellingsRangeFrom,default,5
+17,LastUpdatedDate,default,2017-12-18
+18,OwnershipStatus,OwnershipStatus,Not owned by public authority
+18,NetDwellingsRangeFrom,default,6
+18,LastUpdatedDate,default,2017-12-18
+19,OwnershipStatus,OwnershipStatus,Unknown ownership
+19,NetDwellingsRangeFrom,default,5
+19,LastUpdatedDate,default,2017-12-18
+20,OwnershipStatus,OwnershipStatus,Unknown ownership
+20,NetDwellingsRangeFrom,default,31
+20,LastUpdatedDate,default,2017-12-18
+21,OwnershipStatus,OwnershipStatus,Unknown ownership
+21,NetDwellingsRangeFrom,default,30
+21,LastUpdatedDate,default,2017-12-18
+22,OwnershipStatus,OwnershipStatus,Unknown ownership
+22,NetDwellingsRangeFrom,default,6
+22,LastUpdatedDate,default,2017-12-18
+23,NetDwellingsRangeFrom,default,116
+23,LastUpdatedDate,default,2017-12-18
+24,NetDwellingsRangeFrom,default,45
+24,LastUpdatedDate,default,2017-12-18
+25,OwnershipStatus,OwnershipStatus,Not owned by public authority
+25,NetDwellingsRangeFrom,default,38
+25,LastUpdatedDate,default,2017-12-18
+26,OwnershipStatus,OwnershipStatus,Unknown ownership
+26,NetDwellingsRangeFrom,default,114
+26,LastUpdatedDate,default,2017-12-18
+27,OwnershipStatus,OwnershipStatus,Not owned by public authority
+27,NetDwellingsRangeFrom,default,8
+27,LastUpdatedDate,default,2017-12-18
+28,OwnershipStatus,OwnershipStatus,Not owned by public authority
+28,NetDwellingsRangeFrom,default,5
+28,LastUpdatedDate,default,2017-12-18
+29,OwnershipStatus,OwnershipStatus,Unknown ownership
+29,NetDwellingsRangeFrom,default,15
+29,LastUpdatedDate,default,2017-12-18
+30,OwnershipStatus,OwnershipStatus,Unknown ownership
+30,NetDwellingsRangeFrom,default,25
+30,LastUpdatedDate,default,2017-12-18
+31,OwnershipStatus,OwnershipStatus,Not owned by public authority
+31,NetDwellingsRangeFrom,default,14
+31,LastUpdatedDate,default,2017-12-18
+32,OwnershipStatus,OwnershipStatus,Not owned by public authority
+32,NetDwellingsRangeFrom,default,5
+32,LastUpdatedDate,default,2017-12-18
+33,OwnershipStatus,OwnershipStatus,Unknown ownership
+33,NetDwellingsRangeFrom,default,300
+33,LastUpdatedDate,default,2017-12-18
+34,OwnershipStatus,OwnershipStatus,Unknown ownership
+34,NetDwellingsRangeFrom,default,6
+34,LastUpdatedDate,default,2017-12-18
+35,OwnershipStatus,OwnershipStatus,Unknown ownership
+35,NetDwellingsRangeFrom,default,91
+35,LastUpdatedDate,default,2017-12-18
 35,"GeoX,GeoY",WGS84 outside England,"31.3157,-0.7486"
+36,OwnershipStatus,OwnershipStatus,Not owned by public authority
+36,NetDwellingsRangeFrom,default,35
+36,LastUpdatedDate,default,2017-12-18
+37,OwnershipStatus,OwnershipStatus,Not owned by public authority
+37,NetDwellingsRangeFrom,default,77
+37,LastUpdatedDate,default,2017-12-18
+38,OwnershipStatus,OwnershipStatus,Not owned by public authority
+38,NetDwellingsRangeFrom,default,60
+38,LastUpdatedDate,default,2017-12-18
+39,OwnershipStatus,OwnershipStatus,Not owned by public authority
+39,NetDwellingsRangeFrom,default,9
+39,LastUpdatedDate,default,2017-12-18
+40,OwnershipStatus,OwnershipStatus,Not owned by public authority
+40,NetDwellingsRangeFrom,default,9
+40,LastUpdatedDate,default,2017-12-18

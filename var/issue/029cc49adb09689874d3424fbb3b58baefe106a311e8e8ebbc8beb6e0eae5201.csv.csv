@@ -1,20 +1,67 @@
 row-number,field,issue-type,value
+1,OwnershipStatus,OwnershipStatus,unknown ownership
+1,NetDwellingsRangeFrom,default,4
+1,NetDwellingsRangeTo,default,4
 1,"GeoX,GeoY",out of range,"3868174.295,-59185.9921"
+2,NetDwellingsRangeFrom,default,56
+2,NetDwellingsRangeTo,default,56
 2,"GeoX,GeoY",out of range,"3866384.792,-59819.0908"
+3,OwnershipStatus,OwnershipStatus,unknown ownership
+3,NetDwellingsRangeFrom,default,10
+3,NetDwellingsRangeTo,default,10
 3,"GeoX,GeoY",out of range,"3861807.485,-65480.305"
+4,NetDwellingsRangeFrom,default,11
+4,NetDwellingsRangeTo,default,11
 4,"GeoX,GeoY",out of range,"3867238.345,-59668.746"
+5,NetDwellingsRangeFrom,default,20
+5,NetDwellingsRangeTo,default,20
 5,"GeoX,GeoY",out of range,"3867175.292,-60016.845"
+6,NetDwellingsRangeFrom,default,26
+6,NetDwellingsRangeTo,default,26
 6,"GeoX,GeoY",out of range,"3866540.335,-59956.6368"
+7,NetDwellingsRangeFrom,default,16
+7,NetDwellingsRangeTo,default,16
 7,"GeoX,GeoY",out of range,"3867034.759,-59224.2605"
+8,NetDwellingsRangeFrom,default,45
+8,NetDwellingsRangeTo,default,45
 8,"GeoX,GeoY",out of range,"3860459.787,-61771.1243"
+9,NetDwellingsRangeFrom,default,53
+9,NetDwellingsRangeTo,default,53
 9,"GeoX,GeoY",out of range,"3857382.201,-60683.9033"
+10,OwnershipStatus,OwnershipStatus,unknown ownership
+10,NetDwellingsRangeFrom,default,137
+10,NetDwellingsRangeTo,default,137
 10,"GeoX,GeoY",out of range,"3868003.5,-59226.0665"
+11,NetDwellingsRangeFrom,default,240
+11,NetDwellingsRangeTo,default,240
 11,"GeoX,GeoY",out of range,"3861325.452,-215452.8607"
+12,OwnershipStatus,OwnershipStatus,unknown ownership
+12,NetDwellingsRangeFrom,default,30
+12,NetDwellingsRangeTo,default,30
 12,"GeoX,GeoY",out of range,"3869161.131,-59046.3028"
+13,NetDwellingsRangeFrom,default,5
+13,NetDwellingsRangeTo,default,5
 13,"GeoX,GeoY",out of range,"3867676.933,-50056.9588"
+14,OwnershipStatus,OwnershipStatus,unknown ownership
+14,NetDwellingsRangeFrom,default,6
+14,NetDwellingsRangeTo,default,6
 14,"GeoX,GeoY",out of range,"3851553.718,-54049.0022"
+15,OwnershipStatus,OwnershipStatus,unknown ownership
+15,NetDwellingsRangeFrom,default,6
+15,NetDwellingsRangeTo,default,6
 15,"GeoX,GeoY",out of range,"3867305.687,-59711.1323"
+16,OwnershipStatus,OwnershipStatus,unknown ownership
+16,NetDwellingsRangeFrom,default,9
+16,NetDwellingsRangeTo,default,9
 16,"GeoX,GeoY",out of range,"3871961.167,-66288.213"
+17,OwnershipStatus,OwnershipStatus,unknown ownership
+17,NetDwellingsRangeFrom,default,11
+17,NetDwellingsRangeTo,default,11
 17,"GeoX,GeoY",out of range,"3867125.166,-59440.6008"
+18,NetDwellingsRangeFrom,default,21
+18,NetDwellingsRangeTo,default,21
 18,"GeoX,GeoY",out of range,"3867056.723,-59753.4812"
+19,OwnershipStatus,OwnershipStatus,unknown ownership
+19,NetDwellingsRangeFrom,default,25
+19,NetDwellingsRangeTo,default,25
 19,"GeoX,GeoY",out of range,"3863080.751,-66689.7473"

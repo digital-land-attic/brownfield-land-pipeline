@@ -1,1 +1,359 @@
 row-number,field,issue-type,value
+1,OwnershipStatus,OwnershipStatus,unknown ownership
+1,NetDwellingsRangeFrom,default,6
+1,NetDwellingsRangeTo,default,6
+2,OwnershipStatus,OwnershipStatus,unknown ownership
+2,NetDwellingsRangeFrom,default,8
+2,NetDwellingsRangeTo,default,8
+3,OwnershipStatus,OwnershipStatus,unknown ownership
+3,NetDwellingsRangeFrom,default,112
+3,NetDwellingsRangeTo,default,112
+4,OwnershipStatus,OwnershipStatus,unknown ownership
+4,NetDwellingsRangeFrom,default,20
+5,OwnershipStatus,OwnershipStatus,unknown ownership
+5,NetDwellingsRangeFrom,default,262
+6,OwnershipStatus,OwnershipStatus,unknown ownership
+6,NetDwellingsRangeFrom,default,334
+6,NetDwellingsRangeTo,default,334
+7,NetDwellingsRangeFrom,default,49
+8,NetDwellingsRangeFrom,default,14
+9,OwnershipStatus,OwnershipStatus,unknown ownership
+9,NetDwellingsRangeFrom,default,30
+10,OwnershipStatus,OwnershipStatus,unknown ownership
+10,NetDwellingsRangeFrom,default,26
+10,NetDwellingsRangeTo,default,26
+11,OwnershipStatus,OwnershipStatus,unknown ownership
+11,NetDwellingsRangeFrom,default,9
+12,OwnershipStatus,OwnershipStatus,unknown ownership
+12,NetDwellingsRangeFrom,default,5
+13,OwnershipStatus,OwnershipStatus,unknown ownership
+13,NetDwellingsRangeFrom,default,12
+13,NetDwellingsRangeTo,default,12
+14,OwnershipStatus,OwnershipStatus,unknown ownership
+14,NetDwellingsRangeFrom,default,154
+15,OwnershipStatus,OwnershipStatus,unknown ownership
+15,NetDwellingsRangeFrom,default,12
+16,OwnershipStatus,OwnershipStatus,unknown ownership
+16,NetDwellingsRangeFrom,default,28
+16,NetDwellingsRangeTo,default,28
+17,OwnershipStatus,OwnershipStatus,unknown ownership
+17,NetDwellingsRangeFrom,default,20
+18,NetDwellingsRangeFrom,default,122
+19,OwnershipStatus,OwnershipStatus,unknown ownership
+19,NetDwellingsRangeFrom,default,9
+20,OwnershipStatus,OwnershipStatus,unknown ownership
+20,NetDwellingsRangeFrom,default,6
+21,OwnershipStatus,OwnershipStatus,unknown ownership
+21,NetDwellingsRangeFrom,default,6
+21,NetDwellingsRangeTo,default,6
+22,OwnershipStatus,OwnershipStatus,unknown ownership
+22,NetDwellingsRangeFrom,default,106
+23,OwnershipStatus,OwnershipStatus,unknown ownership
+23,NetDwellingsRangeFrom,default,6
+24,OwnershipStatus,OwnershipStatus,unknown ownership
+24,NetDwellingsRangeFrom,default,12
+25,OwnershipStatus,OwnershipStatus,unknown ownership
+25,NetDwellingsRangeFrom,default,9
+25,NetDwellingsRangeTo,default,9
+26,OwnershipStatus,OwnershipStatus,unknown ownership
+26,NetDwellingsRangeFrom,default,271
+27,OwnershipStatus,OwnershipStatus,unknown ownership
+27,NetDwellingsRangeFrom,default,14
+27,NetDwellingsRangeTo,default,14
+28,NetDwellingsRangeFrom,default,217
+29,NetDwellingsRangeFrom,default,302
+30,OwnershipStatus,OwnershipStatus,unknown ownership
+30,NetDwellingsRangeFrom,default,5
+31,OwnershipStatus,OwnershipStatus,unknown ownership
+31,NetDwellingsRangeFrom,default,84
+31,NetDwellingsRangeTo,default,84
+32,OwnershipStatus,OwnershipStatus,unknown ownership
+32,NetDwellingsRangeFrom,default,8
+32,NetDwellingsRangeTo,default,8
+33,OwnershipStatus,OwnershipStatus,unknown ownership
+33,NetDwellingsRangeFrom,default,5
+33,NetDwellingsRangeTo,default,5
+34,NetDwellingsRangeFrom,default,77
+35,OwnershipStatus,OwnershipStatus,unknown ownership
+35,NetDwellingsRangeFrom,default,14
+35,NetDwellingsRangeTo,default,14
+36,OwnershipStatus,OwnershipStatus,unknown ownership
+36,NetDwellingsRangeFrom,default,32
+36,NetDwellingsRangeTo,default,32
+37,OwnershipStatus,OwnershipStatus,unknown ownership
+37,NetDwellingsRangeFrom,default,13
+38,OwnershipStatus,OwnershipStatus,unknown ownership
+38,NetDwellingsRangeFrom,default,8
+38,NetDwellingsRangeTo,default,8
+39,NetDwellingsRangeFrom,default,263
+39,NetDwellingsRangeTo,default,263
+40,OwnershipStatus,OwnershipStatus,unknown ownership
+40,NetDwellingsRangeFrom,default,62
+40,NetDwellingsRangeTo,default,62
+41,NetDwellingsRangeFrom,default,151
+42,OwnershipStatus,OwnershipStatus,unknown ownership
+42,NetDwellingsRangeFrom,default,9
+43,OwnershipStatus,OwnershipStatus,unknown ownership
+43,NetDwellingsRangeFrom,default,18
+43,NetDwellingsRangeTo,default,18
+44,OwnershipStatus,OwnershipStatus,unknown ownership
+44,NetDwellingsRangeFrom,default,16
+44,NetDwellingsRangeTo,default,16
+45,OwnershipStatus,OwnershipStatus,unknown ownership
+45,NetDwellingsRangeFrom,default,122
+46,OwnershipStatus,OwnershipStatus,unknown ownership
+46,NetDwellingsRangeFrom,default,5
+46,NetDwellingsRangeTo,default,5
+47,OwnershipStatus,OwnershipStatus,unknown ownership
+47,NetDwellingsRangeFrom,default,10
+48,OwnershipStatus,OwnershipStatus,unknown ownership
+48,NetDwellingsRangeFrom,default,7
+48,NetDwellingsRangeTo,default,7
+49,OwnershipStatus,OwnershipStatus,unknown ownership
+49,NetDwellingsRangeFrom,default,9
+50,OwnershipStatus,OwnershipStatus,unknown ownership
+50,NetDwellingsRangeFrom,default,32
+50,NetDwellingsRangeTo,default,32
+51,OwnershipStatus,OwnershipStatus,unknown ownership
+51,NetDwellingsRangeFrom,default,5
+51,NetDwellingsRangeTo,default,5
+52,NetDwellingsRangeFrom,default,44
+53,NetDwellingsRangeFrom,default,43
+54,OwnershipStatus,OwnershipStatus,unknown ownership
+54,NetDwellingsRangeFrom,default,23
+55,OwnershipStatus,OwnershipStatus,unknown ownership
+55,NetDwellingsRangeFrom,default,22
+55,NetDwellingsRangeTo,default,22
+56,OwnershipStatus,OwnershipStatus,unknown ownership
+56,NetDwellingsRangeFrom,default,5
+57,OwnershipStatus,OwnershipStatus,unknown ownership
+57,NetDwellingsRangeFrom,default,1022
+57,NetDwellingsRangeTo,default,1022
+58,OwnershipStatus,OwnershipStatus,unknown ownership
+58,NetDwellingsRangeFrom,default,11
+58,NetDwellingsRangeTo,default,11
+59,NetDwellingsRangeFrom,default,5
+60,OwnershipStatus,OwnershipStatus,unknown ownership
+60,NetDwellingsRangeFrom,default,26
+60,NetDwellingsRangeTo,default,26
+61,OwnershipStatus,OwnershipStatus,unknown ownership
+61,NetDwellingsRangeFrom,default,14
+62,OwnershipStatus,OwnershipStatus,unknown ownership
+62,NetDwellingsRangeFrom,default,5
+62,NetDwellingsRangeTo,default,5
+63,OwnershipStatus,OwnershipStatus,unknown ownership
+63,NetDwellingsRangeFrom,default,6
+63,NetDwellingsRangeTo,default,6
+64,NetDwellingsRangeFrom,default,80
+65,NetDwellingsRangeFrom,default,242
+66,OwnershipStatus,OwnershipStatus,unknown ownership
+66,NetDwellingsRangeFrom,default,300
+67,OwnershipStatus,OwnershipStatus,unknown ownership
+67,NetDwellingsRangeFrom,default,7
+68,OwnershipStatus,OwnershipStatus,unknown ownership
+68,NetDwellingsRangeFrom,default,105
+69,NetDwellingsRangeFrom,default,87
+70,OwnershipStatus,OwnershipStatus,unknown ownership
+70,NetDwellingsRangeFrom,default,155
+71,OwnershipStatus,OwnershipStatus,unknown ownership
+71,NetDwellingsRangeFrom,default,55
+72,OwnershipStatus,OwnershipStatus,unknown ownership
+72,NetDwellingsRangeFrom,default,5
+72,NetDwellingsRangeTo,default,5
+73,OwnershipStatus,OwnershipStatus,unknown ownership
+73,NetDwellingsRangeFrom,default,40
+74,OwnershipStatus,OwnershipStatus,unknown ownership
+74,NetDwellingsRangeFrom,default,100
+74,NetDwellingsRangeTo,default,100
+75,OwnershipStatus,OwnershipStatus,unknown ownership
+75,NetDwellingsRangeFrom,default,5
+75,NetDwellingsRangeTo,default,5
+76,OwnershipStatus,OwnershipStatus,unknown ownership
+76,NetDwellingsRangeFrom,default,57
+77,OwnershipStatus,OwnershipStatus,unknown ownership
+77,NetDwellingsRangeFrom,default,14
+77,NetDwellingsRangeTo,default,14
+78,OwnershipStatus,OwnershipStatus,unknown ownership
+78,NetDwellingsRangeFrom,default,61
+79,OwnershipStatus,OwnershipStatus,unknown ownership
+79,NetDwellingsRangeFrom,default,544
+80,OwnershipStatus,OwnershipStatus,unknown ownership
+80,NetDwellingsRangeFrom,default,12
+80,NetDwellingsRangeTo,default,12
+81,OwnershipStatus,OwnershipStatus,unknown ownership
+81,NetDwellingsRangeFrom,default,57
+82,OwnershipStatus,OwnershipStatus,unknown ownership
+82,NetDwellingsRangeFrom,default,53
+83,OwnershipStatus,OwnershipStatus,unknown ownership
+83,NetDwellingsRangeFrom,default,80
+83,NetDwellingsRangeTo,default,80
+84,OwnershipStatus,OwnershipStatus,unknown ownership
+84,NetDwellingsRangeFrom,default,6
+85,OwnershipStatus,OwnershipStatus,unknown ownership
+85,NetDwellingsRangeFrom,default,14
+85,NetDwellingsRangeTo,default,14
+86,OwnershipStatus,OwnershipStatus,unknown ownership
+86,NetDwellingsRangeFrom,default,8
+86,NetDwellingsRangeTo,default,8
+87,OwnershipStatus,OwnershipStatus,unknown ownership
+87,NetDwellingsRangeFrom,default,7
+87,NetDwellingsRangeTo,default,7
+88,OwnershipStatus,OwnershipStatus,unknown ownership
+88,NetDwellingsRangeFrom,default,14
+88,NetDwellingsRangeTo,default,14
+89,NetDwellingsRangeFrom,default,111
+90,OwnershipStatus,OwnershipStatus,unknown ownership
+90,NetDwellingsRangeFrom,default,576
+90,NetDwellingsRangeTo,default,576
+91,OwnershipStatus,OwnershipStatus,unknown ownership
+91,NetDwellingsRangeFrom,default,12
+91,NetDwellingsRangeTo,default,12
+92,OwnershipStatus,OwnershipStatus,unknown ownership
+92,NetDwellingsRangeFrom,default,18
+93,NetDwellingsRangeFrom,default,60
+94,OwnershipStatus,OwnershipStatus,unknown ownership
+94,NetDwellingsRangeFrom,default,9
+95,OwnershipStatus,OwnershipStatus,unknown ownership
+95,NetDwellingsRangeFrom,default,165
+96,OwnershipStatus,OwnershipStatus,unknown ownership
+96,NetDwellingsRangeFrom,default,6
+97,OwnershipStatus,OwnershipStatus,unknown ownership
+97,NetDwellingsRangeFrom,default,10
+98,OwnershipStatus,OwnershipStatus,unknown ownership
+98,NetDwellingsRangeFrom,default,8
+99,OwnershipStatus,OwnershipStatus,unknown ownership
+99,NetDwellingsRangeFrom,default,8
+100,OwnershipStatus,OwnershipStatus,unknown ownership
+100,NetDwellingsRangeFrom,default,7
+101,OwnershipStatus,OwnershipStatus,unknown ownership
+101,NetDwellingsRangeFrom,default,8
+102,OwnershipStatus,OwnershipStatus,unknown ownership
+102,NetDwellingsRangeFrom,default,117
+103,OwnershipStatus,OwnershipStatus,unknown ownership
+103,NetDwellingsRangeFrom,default,8
+104,OwnershipStatus,OwnershipStatus,unknown ownership
+104,NetDwellingsRangeFrom,default,409
+105,OwnershipStatus,OwnershipStatus,unknown ownership
+105,NetDwellingsRangeFrom,default,12
+106,OwnershipStatus,OwnershipStatus,unknown ownership
+106,NetDwellingsRangeFrom,default,12
+106,NetDwellingsRangeTo,default,12
+107,OwnershipStatus,OwnershipStatus,unknown ownership
+107,NetDwellingsRangeFrom,default,14
+108,OwnershipStatus,OwnershipStatus,unknown ownership
+108,NetDwellingsRangeFrom,default,7
+109,OwnershipStatus,OwnershipStatus,unknown ownership
+109,NetDwellingsRangeFrom,default,39
+109,NetDwellingsRangeTo,default,39
+110,OwnershipStatus,OwnershipStatus,unknown ownership
+110,NetDwellingsRangeFrom,default,13
+111,OwnershipStatus,OwnershipStatus,unknown ownership
+111,NetDwellingsRangeFrom,default,5
+111,NetDwellingsRangeTo,default,5
+112,OwnershipStatus,OwnershipStatus,unknown ownership
+112,NetDwellingsRangeFrom,default,13
+112,NetDwellingsRangeTo,default,13
+113,OwnershipStatus,OwnershipStatus,unknown ownership
+113,NetDwellingsRangeFrom,default,25
+114,OwnershipStatus,OwnershipStatus,unknown ownership
+114,NetDwellingsRangeFrom,default,86
+115,NetDwellingsRangeFrom,default,17
+116,OwnershipStatus,OwnershipStatus,unknown ownership
+116,NetDwellingsRangeFrom,default,142
+117,NetDwellingsRangeFrom,default,160
+118,OwnershipStatus,OwnershipStatus,unknown ownership
+118,NetDwellingsRangeFrom,default,14
+118,NetDwellingsRangeTo,default,14
+119,OwnershipStatus,OwnershipStatus,unknown ownership
+119,NetDwellingsRangeFrom,default,12
+120,OwnershipStatus,OwnershipStatus,unknown ownership
+120,NetDwellingsRangeFrom,default,12
+120,NetDwellingsRangeTo,default,12
+121,OwnershipStatus,OwnershipStatus,unknown ownership
+121,NetDwellingsRangeFrom,default,20
+121,NetDwellingsRangeTo,default,20
+122,OwnershipStatus,OwnershipStatus,unknown ownership
+122,NetDwellingsRangeFrom,default,6
+123,OwnershipStatus,OwnershipStatus,unknown ownership
+123,NetDwellingsRangeFrom,default,5
+123,NetDwellingsRangeTo,default,5
+124,NetDwellingsRangeFrom,default,15
+125,OwnershipStatus,OwnershipStatus,unknown ownership
+125,NetDwellingsRangeFrom,default,24
+126,OwnershipStatus,OwnershipStatus,unknown ownership
+126,NetDwellingsRangeFrom,default,395
+127,OwnershipStatus,OwnershipStatus,unknown ownership
+127,NetDwellingsRangeFrom,default,26
+127,NetDwellingsRangeTo,default,26
+128,OwnershipStatus,OwnershipStatus,unknown ownership
+128,NetDwellingsRangeFrom,default,5
+128,NetDwellingsRangeTo,default,5
+129,OwnershipStatus,OwnershipStatus,unknown ownership
+129,NetDwellingsRangeFrom,default,7
+129,NetDwellingsRangeTo,default,7
+130,OwnershipStatus,OwnershipStatus,unknown ownership
+130,NetDwellingsRangeFrom,default,12
+130,NetDwellingsRangeTo,default,12
+131,OwnershipStatus,OwnershipStatus,unknown ownership
+131,NetDwellingsRangeFrom,default,7
+132,OwnershipStatus,OwnershipStatus,unknown ownership
+132,NetDwellingsRangeFrom,default,14
+132,NetDwellingsRangeTo,default,14
+133,OwnershipStatus,OwnershipStatus,unknown ownership
+133,NetDwellingsRangeFrom,default,32
+134,OwnershipStatus,OwnershipStatus,unknown ownership
+134,NetDwellingsRangeFrom,default,8
+134,NetDwellingsRangeTo,default,8
+135,OwnershipStatus,OwnershipStatus,unknown ownership
+135,NetDwellingsRangeFrom,default,28
+135,NetDwellingsRangeTo,default,28
+136,OwnershipStatus,OwnershipStatus,unknown ownership
+136,NetDwellingsRangeFrom,default,11
+136,NetDwellingsRangeTo,default,11
+137,OwnershipStatus,OwnershipStatus,unknown ownership
+137,NetDwellingsRangeFrom,default,3
+137,NetDwellingsRangeTo,default,3
+138,OwnershipStatus,OwnershipStatus,unknown ownership
+138,NetDwellingsRangeFrom,default,8
+139,OwnershipStatus,OwnershipStatus,unknown ownership
+139,NetDwellingsRangeFrom,default,6
+139,NetDwellingsRangeTo,default,6
+140,OwnershipStatus,OwnershipStatus,unknown ownership
+140,NetDwellingsRangeFrom,default,11
+141,OwnershipStatus,OwnershipStatus,unknown ownership
+141,NetDwellingsRangeFrom,default,10
+142,OwnershipStatus,OwnershipStatus,unknown ownership
+142,NetDwellingsRangeFrom,default,6
+143,OwnershipStatus,OwnershipStatus,unknown ownership
+143,NetDwellingsRangeFrom,default,8
+143,NetDwellingsRangeTo,default,8
+144,OwnershipStatus,OwnershipStatus,unknown ownership
+144,NetDwellingsRangeFrom,default,5
+144,NetDwellingsRangeTo,default,5
+145,OwnershipStatus,OwnershipStatus,unknown ownership
+145,NetDwellingsRangeFrom,default,10
+146,OwnershipStatus,OwnershipStatus,unknown ownership
+146,NetDwellingsRangeFrom,default,17
+147,OwnershipStatus,OwnershipStatus,unknown ownership
+147,NetDwellingsRangeFrom,default,8
+147,NetDwellingsRangeTo,default,8
+148,OwnershipStatus,OwnershipStatus,unknown ownership
+148,NetDwellingsRangeFrom,default,10
+148,NetDwellingsRangeTo,default,10
+149,OwnershipStatus,OwnershipStatus,unknown ownership
+149,NetDwellingsRangeFrom,default,27
+149,NetDwellingsRangeTo,default,27
+150,OwnershipStatus,OwnershipStatus,unknown ownership
+150,NetDwellingsRangeFrom,default,9
+151,OwnershipStatus,OwnershipStatus,unknown ownership
+151,NetDwellingsRangeFrom,default,7
+151,NetDwellingsRangeTo,default,7
+152,OwnershipStatus,OwnershipStatus,unknown ownership
+152,NetDwellingsRangeFrom,default,6
+153,OwnershipStatus,OwnershipStatus,unknown ownership
+153,NetDwellingsRangeFrom,default,10
+154,OwnershipStatus,OwnershipStatus,unknown ownership
+154,NetDwellingsRangeFrom,default,8
+155,OwnershipStatus,OwnershipStatus,unknown ownership
+155,NetDwellingsRangeFrom,default,6
+155,NetDwellingsRangeTo,default,6

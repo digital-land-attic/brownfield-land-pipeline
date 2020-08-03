@@ -1,2 +1,3 @@
 row-number,field,issue-type,value
 1,SiteplanURL,uri,Link to PDF of map
+1,NetDwellingsRangeFrom,default,140

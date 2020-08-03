@@ -1,235 +1,449 @@
 row-number,field,issue-type,value
 1,FirstAddedDate,date,2018/12/01 00:00:00+00
 1,LastUpdatedDate,date,2019/12/01 00:00:00+00
+1,LastUpdatedDate,default,2020-07-19
+1,NetDwellingsRangeFrom,missing,
+1,NetDwellingsRangeTo,missing,
 2,FirstAddedDate,date,2018/12/01 00:00:00+00
 2,LastUpdatedDate,date,2019/12/01 00:00:00+00
+2,LastUpdatedDate,default,2020-07-19
+2,NetDwellingsRangeFrom,missing,
+2,NetDwellingsRangeTo,missing,
 3,FirstAddedDate,date,2018/12/01 00:00:00+00
 3,LastUpdatedDate,date,2019/12/01 00:00:00+00
+3,LastUpdatedDate,default,2020-07-19
+3,NetDwellingsRangeFrom,missing,
+3,NetDwellingsRangeTo,missing,
 4,FirstAddedDate,date,2018/12/01 00:00:00+00
 4,LastUpdatedDate,date,2019/12/01 00:00:00+00
+4,LastUpdatedDate,default,2020-07-19
+4,NetDwellingsRangeFrom,missing,
+4,NetDwellingsRangeTo,missing,
 5,FirstAddedDate,date,2018/12/01 00:00:00+00
 5,LastUpdatedDate,date,2019/12/01 00:00:00+00
+5,LastUpdatedDate,default,2020-07-19
+5,NetDwellingsRangeFrom,missing,
+5,NetDwellingsRangeTo,missing,
 6,FirstAddedDate,date,2018/12/01 00:00:00+00
 6,LastUpdatedDate,date,2019/12/01 00:00:00+00
+6,LastUpdatedDate,default,2020-07-19
+6,NetDwellingsRangeFrom,missing,
+6,NetDwellingsRangeTo,missing,
 7,FirstAddedDate,date,2018/12/01 00:00:00+00
 7,LastUpdatedDate,date,2019/12/01 00:00:00+00
+7,LastUpdatedDate,default,2020-07-19
+7,NetDwellingsRangeFrom,missing,
+7,NetDwellingsRangeTo,missing,
 8,FirstAddedDate,date,2018/12/01 00:00:00+00
 8,LastUpdatedDate,date,2019/12/01 00:00:00+00
+8,LastUpdatedDate,default,2020-07-19
+8,NetDwellingsRangeFrom,missing,
+8,NetDwellingsRangeTo,missing,
 9,FirstAddedDate,date,2018/12/01 00:00:00+00
 9,LastUpdatedDate,date,2019/12/01 00:00:00+00
+9,LastUpdatedDate,default,2020-07-19
+9,NetDwellingsRangeFrom,missing,
+9,NetDwellingsRangeTo,missing,
 10,FirstAddedDate,date,2018/12/01 00:00:00+00
 10,LastUpdatedDate,date,2019/12/01 00:00:00+00
+10,LastUpdatedDate,default,2020-07-19
+10,NetDwellingsRangeFrom,missing,
+10,NetDwellingsRangeTo,missing,
+11,HazardousSubstances,HazardousSubstances,Y
 11,FirstAddedDate,date,2018/12/01 00:00:00+00
 11,LastUpdatedDate,date,2019/12/01 00:00:00+00
+11,LastUpdatedDate,default,2020-07-19
+11,NetDwellingsRangeFrom,missing,
+11,NetDwellingsRangeTo,missing,
 12,FirstAddedDate,date,2018/12/01 00:00:00+00
 12,LastUpdatedDate,date,2019/12/01 00:00:00+00
+12,LastUpdatedDate,default,2020-07-19
+12,NetDwellingsRangeFrom,missing,
+12,NetDwellingsRangeTo,missing,
 13,FirstAddedDate,date,2018/12/01 00:00:00+00
 13,LastUpdatedDate,date,2019/12/01 00:00:00+00
+13,LastUpdatedDate,default,2020-07-19
+13,NetDwellingsRangeFrom,missing,
+13,NetDwellingsRangeTo,missing,
 14,FirstAddedDate,date,2018/12/01 00:00:00+00
 14,LastUpdatedDate,date,2019/12/01 00:00:00+00
+14,LastUpdatedDate,default,2020-07-19
+14,NetDwellingsRangeFrom,missing,
+14,NetDwellingsRangeTo,missing,
 15,FirstAddedDate,date,2018/12/01 00:00:00+00
 15,LastUpdatedDate,date,2019/12/01 00:00:00+00
-16,PermissionDate,date,2019/07/26 00:00:00+00
+15,LastUpdatedDate,default,2020-07-19
+15,NetDwellingsRangeFrom,missing,
+15,NetDwellingsRangeTo,missing,
 16,FirstAddedDate,date,2018/12/01 00:00:00+00
 16,LastUpdatedDate,date,2019/12/01 00:00:00+00
+16,LastUpdatedDate,default,2020-07-19
+16,NetDwellingsRangeFrom,missing,
+16,NetDwellingsRangeTo,missing,
 17,FirstAddedDate,date,2017/11/01 00:00:00+00
 17,LastUpdatedDate,date,2019/12/01 00:00:00+00
+17,LastUpdatedDate,default,2020-07-19
+17,NetDwellingsRangeFrom,missing,
+17,NetDwellingsRangeTo,missing,
 18,FirstAddedDate,date,2017/11/01 00:00:00+00
 18,LastUpdatedDate,date,2019/12/01 00:00:00+00
+18,LastUpdatedDate,default,2020-07-19
+18,NetDwellingsRangeFrom,missing,
+18,NetDwellingsRangeTo,missing,
 19,FirstAddedDate,date,2017/11/01 00:00:00+00
 19,LastUpdatedDate,date,2019/12/01 00:00:00+00
+19,LastUpdatedDate,default,2020-07-19
+19,NetDwellingsRangeFrom,missing,
+19,NetDwellingsRangeTo,missing,
 20,FirstAddedDate,date,2017/11/01 00:00:00+00
 20,LastUpdatedDate,date,2019/12/01 00:00:00+00
+20,LastUpdatedDate,default,2020-07-19
+20,NetDwellingsRangeFrom,missing,
+20,NetDwellingsRangeTo,missing,
 21,FirstAddedDate,date,2017/11/01 00:00:00+00
 21,LastUpdatedDate,date,2019/12/01 00:00:00+00
+21,LastUpdatedDate,default,2020-07-19
+21,NetDwellingsRangeFrom,missing,
+21,NetDwellingsRangeTo,missing,
 22,FirstAddedDate,date,2017/11/01 00:00:00+00
 22,LastUpdatedDate,date,2019/12/01 00:00:00+00
+22,LastUpdatedDate,default,2020-07-19
+22,NetDwellingsRangeFrom,missing,
+22,NetDwellingsRangeTo,missing,
 23,FirstAddedDate,date,2017/11/01 00:00:00+00
 23,LastUpdatedDate,date,2019/12/01 00:00:00+00
+23,LastUpdatedDate,default,2020-07-19
+23,NetDwellingsRangeFrom,missing,
+23,NetDwellingsRangeTo,missing,
 24,FirstAddedDate,date,2017/11/01 00:00:00+00
 24,LastUpdatedDate,date,2019/12/01 00:00:00+00
+24,LastUpdatedDate,default,2020-07-19
+24,NetDwellingsRangeFrom,missing,
+24,NetDwellingsRangeTo,missing,
 25,FirstAddedDate,date,2017/11/01 00:00:00+00
 25,LastUpdatedDate,date,2019/12/01 00:00:00+00
-26,PermissionDate,date,2005/11/24 00:00:00+00
+25,LastUpdatedDate,default,2020-07-19
+25,NetDwellingsRangeFrom,missing,
+25,NetDwellingsRangeTo,missing,
 26,FirstAddedDate,date,2017/11/01 00:00:00+00
 26,LastUpdatedDate,date,2017/12/01 00:00:00+00
-26,EndDate,date,2019/12/01 00:00:00+00
-27,PermissionDate,date,2018/01/18 00:00:00+00
+26,LastUpdatedDate,default,2020-07-19
+26,NetDwellingsRangeFrom,missing,
+26,NetDwellingsRangeTo,missing,
 27,FirstAddedDate,date,2017/11/01 00:00:00+00
 27,LastUpdatedDate,date,2019/01/01 00:00:00+00
-28,PermissionDate,date,2010/03/11 00:00:00+00
+27,LastUpdatedDate,default,2020-07-19
+27,NetDwellingsRangeFrom,missing,
+27,NetDwellingsRangeTo,missing,
 28,FirstAddedDate,date,2017/11/01 00:00:00+00
 28,LastUpdatedDate,date,2017/12/01 00:00:00+00
-28,EndDate,date,2019/12/01 00:00:00+00
-29,PermissionDate,date,2013/11/12 00:00:00+00
+28,LastUpdatedDate,default,2020-07-19
+28,NetDwellingsRangeFrom,missing,
+28,NetDwellingsRangeTo,missing,
 29,FirstAddedDate,date,2017/11/01 00:00:00+00
 29,LastUpdatedDate,date,2017/12/01 00:00:00+00
-30,PermissionDate,date,2018/03/29 00:00:00+00
+29,LastUpdatedDate,default,2020-07-19
+29,NetDwellingsRangeFrom,missing,
+29,NetDwellingsRangeTo,missing,
 30,FirstAddedDate,date,2017/11/01 00:00:00+00
 30,LastUpdatedDate,date,2019/01/01 00:00:00+00
-31,PermissionDate,date,2015/01/27 00:00:00+00
+30,LastUpdatedDate,default,2020-07-19
+30,NetDwellingsRangeFrom,missing,
+30,NetDwellingsRangeTo,missing,
 31,FirstAddedDate,date,2017/11/01 00:00:00+00
 31,LastUpdatedDate,date,2017/12/01 00:00:00+00
-32,PermissionDate,date,2014/10/09 00:00:00+00
+31,LastUpdatedDate,default,2020-07-19
+31,NetDwellingsRangeFrom,missing,
+31,NetDwellingsRangeTo,missing,
 32,FirstAddedDate,date,2017/11/01 00:00:00+00
 32,LastUpdatedDate,date,2017/12/01 00:00:00+00
-32,EndDate,date,2019/12/01 00:00:00+00
-33,PermissionDate,date,2014/04/29 00:00:00+00
+32,LastUpdatedDate,default,2020-07-19
+32,NetDwellingsRangeFrom,missing,
+32,NetDwellingsRangeTo,missing,
 33,FirstAddedDate,date,2017/11/01 00:00:00+00
 33,LastUpdatedDate,date,2019/12/01 00:00:00+00
-34,PermissionDate,date,2015/06/04 00:00:00+00
+33,LastUpdatedDate,default,2020-07-19
+33,NetDwellingsRangeFrom,missing,
+33,NetDwellingsRangeTo,missing,
 34,FirstAddedDate,date,2017/11/01 00:00:00+00
 34,LastUpdatedDate,date,2017/12/01 00:00:00+00
-35,PermissionDate,date,2014/05/28 00:00:00+00
+34,LastUpdatedDate,default,2020-07-19
+34,NetDwellingsRangeFrom,missing,
+34,NetDwellingsRangeTo,missing,
 35,FirstAddedDate,date,2017/11/01 00:00:00+00
 35,LastUpdatedDate,date,2019/12/01 00:00:00+00
-36,PermissionDate,date,2015/09/10 00:00:00+00
+35,LastUpdatedDate,default,2020-07-19
+35,NetDwellingsRangeFrom,missing,
+35,NetDwellingsRangeTo,missing,
+36,HazardousSubstances,HazardousSubstances,Y
 36,FirstAddedDate,date,2017/11/01 00:00:00+00
 36,LastUpdatedDate,date,2019/12/01 00:00:00+00
-37,PermissionDate,date,2015/05/19 00:00:00+00
+36,LastUpdatedDate,default,2020-07-19
+36,NetDwellingsRangeFrom,missing,
+36,NetDwellingsRangeTo,missing,
 37,FirstAddedDate,date,2017/11/01 00:00:00+00
 37,LastUpdatedDate,date,2017/12/01 00:00:00+00
-38,PermissionDate,date,2015/05/05 00:00:00+00
+37,LastUpdatedDate,default,2020-07-19
+37,NetDwellingsRangeFrom,missing,
+37,NetDwellingsRangeTo,missing,
 38,FirstAddedDate,date,2017/11/01 00:00:00+00
 38,LastUpdatedDate,date,2019/12/01 00:00:00+00
-39,PermissionDate,date,2016/07/07 00:00:00+00
+38,LastUpdatedDate,default,2020-07-19
+38,NetDwellingsRangeFrom,missing,
+38,NetDwellingsRangeTo,missing,
 39,FirstAddedDate,date,2017/11/01 00:00:00+00
 39,LastUpdatedDate,date,2017/12/01 00:00:00+00
-40,PermissionDate,date,2016/03/11 00:00:00+00
+39,LastUpdatedDate,default,2020-07-19
+39,NetDwellingsRangeFrom,missing,
+39,NetDwellingsRangeTo,missing,
 40,FirstAddedDate,date,2017/11/01 00:00:00+00
 40,LastUpdatedDate,date,2017/12/01 00:00:00+00
-40,EndDate,date,2019/12/01 00:00:00+00
-41,PermissionDate,date,2016/03/16 00:00:00+00
+40,LastUpdatedDate,default,2020-07-19
+40,NetDwellingsRangeFrom,missing,
+40,NetDwellingsRangeTo,missing,
 41,FirstAddedDate,date,2017/11/01 00:00:00+00
 41,LastUpdatedDate,date,2017/12/01 00:00:00+00
-42,PermissionDate,date,2016/07/07 00:00:00+00
+41,LastUpdatedDate,default,2020-07-19
+41,NetDwellingsRangeFrom,missing,
+41,NetDwellingsRangeTo,missing,
 42,FirstAddedDate,date,2017/11/01 00:00:00+00
 42,LastUpdatedDate,date,2017/12/01 00:00:00+00
-42,EndDate,date,2019/12/01 00:00:00+00
-43,PermissionDate,date,2016/10/06 00:00:00+00
+42,LastUpdatedDate,default,2020-07-19
+42,NetDwellingsRangeFrom,missing,
+42,NetDwellingsRangeTo,missing,
 43,FirstAddedDate,date,2017/11/01 00:00:00+00
 43,LastUpdatedDate,date,2017/12/01 00:00:00+00
-43,EndDate,date,2019/12/01 00:00:00+00
-44,PermissionDate,date,2016/04/26 00:00:00+00
+43,LastUpdatedDate,default,2020-07-19
+43,NetDwellingsRangeFrom,missing,
+43,NetDwellingsRangeTo,missing,
 44,FirstAddedDate,date,2017/11/01 00:00:00+00
 44,LastUpdatedDate,date,2017/12/01 00:00:00+00
-45,PermissionDate,date,2016/06/17 00:00:00+00
+44,LastUpdatedDate,default,2020-07-19
+44,NetDwellingsRangeFrom,missing,
+44,NetDwellingsRangeTo,missing,
 45,FirstAddedDate,date,2017/11/01 00:00:00+00
 45,LastUpdatedDate,date,2017/12/01 00:00:00+00
-46,PermissionDate,date,2016/12/22 00:00:00+00
+45,LastUpdatedDate,default,2020-07-19
+45,NetDwellingsRangeFrom,missing,
+45,NetDwellingsRangeTo,missing,
 46,FirstAddedDate,date,2017/11/01 00:00:00+00
 46,LastUpdatedDate,date,2017/12/01 00:00:00+00
-47,PermissionDate,date,2017/12/14 00:00:00+00
+46,LastUpdatedDate,default,2020-07-19
+46,NetDwellingsRangeFrom,missing,
+46,NetDwellingsRangeTo,missing,
 47,FirstAddedDate,date,2017/11/01 00:00:00+00
 47,LastUpdatedDate,date,2019/01/01 00:00:00+00
-48,PermissionDate,date,2017/12/08 00:00:00+00
+47,LastUpdatedDate,default,2020-07-19
+47,NetDwellingsRangeFrom,missing,
+47,NetDwellingsRangeTo,missing,
 48,FirstAddedDate,date,2017/11/01 00:00:00+00
 48,LastUpdatedDate,date,2019/01/01 00:00:00+00
-48,EndDate,date,2019/12/01 00:00:00+00
+48,LastUpdatedDate,default,2020-07-19
+48,NetDwellingsRangeFrom,missing,
+48,NetDwellingsRangeTo,missing,
 49,FirstAddedDate,date,2017/12/01 00:00:00+00
 49,LastUpdatedDate,date,2019/12/01 00:00:00+00
+49,LastUpdatedDate,default,2020-07-19
+49,NetDwellingsRangeFrom,missing,
+49,NetDwellingsRangeTo,missing,
 50,FirstAddedDate,date,2017/12/01 00:00:00+00
 50,LastUpdatedDate,date,2019/12/01 00:00:00+00
+50,LastUpdatedDate,default,2020-07-19
+50,NetDwellingsRangeFrom,missing,
+50,NetDwellingsRangeTo,missing,
 51,FirstAddedDate,date,2017/12/01 00:00:00+00
 51,LastUpdatedDate,date,2019/12/01 00:00:00+00
+51,LastUpdatedDate,default,2020-07-19
+51,NetDwellingsRangeFrom,missing,
+51,NetDwellingsRangeTo,missing,
 52,FirstAddedDate,date,2017/12/01 00:00:00+00
 52,LastUpdatedDate,date,2019/12/01 00:00:00+00
+52,LastUpdatedDate,default,2020-07-19
+52,NetDwellingsRangeFrom,missing,
+52,NetDwellingsRangeTo,missing,
+53,HazardousSubstances,HazardousSubstances,Y
 53,FirstAddedDate,date,2017/12/01 00:00:00+00
 53,LastUpdatedDate,date,2019/12/01 00:00:00+00
+53,LastUpdatedDate,default,2020-07-19
+53,NetDwellingsRangeFrom,missing,
+53,NetDwellingsRangeTo,missing,
 54,FirstAddedDate,date,2017/12/01 00:00:00+00
 54,LastUpdatedDate,date,2019/12/01 00:00:00+00
+54,LastUpdatedDate,default,2020-07-19
+54,NetDwellingsRangeFrom,missing,
+54,NetDwellingsRangeTo,missing,
 55,FirstAddedDate,date,2017/12/01 00:00:00+00
 55,LastUpdatedDate,date,2019/12/01 00:00:00+00
+55,LastUpdatedDate,default,2020-07-19
+55,NetDwellingsRangeFrom,missing,
+55,NetDwellingsRangeTo,missing,
 56,FirstAddedDate,date,2017/12/01 00:00:00+00
 56,LastUpdatedDate,date,2019/12/01 00:00:00+00
+56,LastUpdatedDate,default,2020-07-19
+56,NetDwellingsRangeFrom,missing,
+56,NetDwellingsRangeTo,missing,
 57,FirstAddedDate,date,2017/12/01 00:00:00+00
 57,LastUpdatedDate,date,2019/12/01 00:00:00+00
+57,LastUpdatedDate,default,2020-07-19
+57,NetDwellingsRangeFrom,missing,
+57,NetDwellingsRangeTo,missing,
 58,FirstAddedDate,date,2017/12/01 00:00:00+00
 58,LastUpdatedDate,date,2019/12/01 00:00:00+00
+58,LastUpdatedDate,default,2020-07-19
+58,NetDwellingsRangeFrom,missing,
+58,NetDwellingsRangeTo,missing,
 59,FirstAddedDate,date,2017/11/01 00:00:00+00
 59,LastUpdatedDate,date,2019/12/01 00:00:00+00
+59,LastUpdatedDate,default,2020-07-19
+59,NetDwellingsRangeFrom,missing,
+59,NetDwellingsRangeTo,missing,
 60,FirstAddedDate,date,2017/11/01 00:00:00+00
 60,LastUpdatedDate,date,2019/12/01 00:00:00+00
+60,LastUpdatedDate,default,2020-07-19
+60,NetDwellingsRangeFrom,missing,
+60,NetDwellingsRangeTo,missing,
 61,FirstAddedDate,date,2017/11/01 00:00:00+00
 61,LastUpdatedDate,date,2019/12/01 00:00:00+00
+61,LastUpdatedDate,default,2020-07-19
+61,NetDwellingsRangeFrom,missing,
+61,NetDwellingsRangeTo,missing,
 62,FirstAddedDate,date,2017/11/01 00:00:00+00
 62,LastUpdatedDate,date,2019/12/01 00:00:00+00
+62,LastUpdatedDate,default,2020-07-19
+62,NetDwellingsRangeFrom,missing,
+62,NetDwellingsRangeTo,missing,
 63,FirstAddedDate,date,2017/11/01 00:00:00+00
 63,LastUpdatedDate,date,2019/12/01 00:00:00+00
-64,PermissionDate,date,2017/08/30 00:00:00+00
+63,LastUpdatedDate,default,2020-07-19
+63,NetDwellingsRangeFrom,missing,
+63,NetDwellingsRangeTo,missing,
 64,FirstAddedDate,date,2019/01/01 00:00:00+00
 64,LastUpdatedDate,date,2019/01/01 00:00:00+00
-65,PermissionDate,date,2017/09/26 00:00:00+00
+64,LastUpdatedDate,default,2020-07-19
+64,NetDwellingsRangeFrom,missing,
+64,NetDwellingsRangeTo,missing,
 65,FirstAddedDate,date,2019/01/01 00:00:00+00
 65,LastUpdatedDate,date,2019/01/01 00:00:00+00
-66,PermissionDate,date,2017/10/06 00:00:00+00
+65,LastUpdatedDate,default,2020-07-19
+65,NetDwellingsRangeFrom,missing,
+65,NetDwellingsRangeTo,missing,
 66,FirstAddedDate,date,2019/01/01 00:00:00+00
 66,LastUpdatedDate,date,2019/01/01 00:00:00+00
-67,PermissionDate,date,2017/10/18 00:00:00+00
+66,LastUpdatedDate,default,2020-07-19
+66,NetDwellingsRangeFrom,missing,
+66,NetDwellingsRangeTo,missing,
 67,FirstAddedDate,date,2019/01/01 00:00:00+00
 67,LastUpdatedDate,date,2019/01/01 00:00:00+00
-68,PermissionDate,date,2018/09/19 00:00:00+00
+67,LastUpdatedDate,default,2020-07-19
+67,NetDwellingsRangeFrom,missing,
+67,NetDwellingsRangeTo,missing,
 68,FirstAddedDate,date,2019/01/01 00:00:00+00
 68,LastUpdatedDate,date,2019/12/01 00:00:00+00
-69,PermissionDate,date,2017/04/27 00:00:00+00
+68,LastUpdatedDate,default,2020-07-19
+68,NetDwellingsRangeFrom,missing,
+68,NetDwellingsRangeTo,missing,
 69,FirstAddedDate,date,2019/01/01 00:00:00+00
 69,LastUpdatedDate,date,2019/01/01 00:00:00+00
-69,EndDate,date,2019/12/01 00:00:00+00
-70,PermissionDate,date,2017/10/20 00:00:00+00
+69,LastUpdatedDate,default,2020-07-19
+69,NetDwellingsRangeFrom,missing,
+69,NetDwellingsRangeTo,missing,
 70,FirstAddedDate,date,2019/01/01 00:00:00+00
 70,LastUpdatedDate,date,2019/01/01 00:00:00+00
-71,PermissionDate,date,2018/03/29 00:00:00+00
+70,LastUpdatedDate,default,2020-07-19
+70,NetDwellingsRangeFrom,missing,
+70,NetDwellingsRangeTo,missing,
 71,FirstAddedDate,date,2019/01/01 00:00:00+00
 71,LastUpdatedDate,date,2019/01/01 00:00:00+00
-72,PermissionDate,date,2018/12/13 00:00:00+00
+71,LastUpdatedDate,default,2020-07-19
+71,NetDwellingsRangeFrom,missing,
+71,NetDwellingsRangeTo,missing,
 72,FirstAddedDate,date,2019/02/01 00:00:00+00
 72,LastUpdatedDate,date,2019/02/01 00:00:00+00
-73,PermissionDate,date,2018/10/09 00:00:00+00
+72,LastUpdatedDate,default,2020-07-19
+72,NetDwellingsRangeFrom,missing,
+72,NetDwellingsRangeTo,missing,
 73,FirstAddedDate,date,2019/02/01 00:00:00+00
 73,LastUpdatedDate,date,2019/02/01 00:00:00+00
-74,PermissionDate,date,2018/01/31 00:00:00+00
+73,LastUpdatedDate,default,2020-07-19
+73,NetDwellingsRangeFrom,missing,
+73,NetDwellingsRangeTo,missing,
 74,FirstAddedDate,date,2019/02/01 00:00:00+00
 74,LastUpdatedDate,date,2019/02/01 00:00:00+00
-75,PermissionDate,date,2018/04/20 00:00:00+00
+74,LastUpdatedDate,default,2020-07-19
+74,NetDwellingsRangeFrom,missing,
+74,NetDwellingsRangeTo,missing,
 75,FirstAddedDate,date,2019/02/01 00:00:00+00
 75,LastUpdatedDate,date,2019/02/01 00:00:00+00
-76,PermissionDate,date,2018/06/28 00:00:00+00
+75,LastUpdatedDate,default,2020-07-19
+75,NetDwellingsRangeFrom,missing,
+75,NetDwellingsRangeTo,missing,
 76,FirstAddedDate,date,2019/02/01 00:00:00+00
 76,LastUpdatedDate,date,2019/02/01 00:00:00+00
-77,PermissionDate,date,2018/12/19 00:00:00+00
+76,LastUpdatedDate,default,2020-07-19
+76,NetDwellingsRangeFrom,missing,
+76,NetDwellingsRangeTo,missing,
 77,FirstAddedDate,date,2019/02/01 00:00:00+00
 77,LastUpdatedDate,date,2019/02/01 00:00:00+00
+77,LastUpdatedDate,default,2020-07-19
+77,NetDwellingsRangeFrom,missing,
+77,NetDwellingsRangeTo,missing,
 78,FirstAddedDate,date,2019/07/01 00:00:00+00
 78,LastUpdatedDate,date,2019/12/01 00:00:00+00
+78,LastUpdatedDate,default,2020-07-19
+78,NetDwellingsRangeFrom,missing,
+78,NetDwellingsRangeTo,missing,
 79,FirstAddedDate,date,2017/11/01 00:00:00+00
 79,LastUpdatedDate,date,2019/12/01 00:00:00+00
-80,PermissionDate,date,2018/05/11 00:00:00+00
+79,LastUpdatedDate,default,2020-07-19
+79,NetDwellingsRangeFrom,missing,
+79,NetDwellingsRangeTo,missing,
 80,FirstAddedDate,date,2019/12/01 00:00:00+00
 80,LastUpdatedDate,date,2019/12/01 00:00:00+00
-81,PermissionDate,date,2019/02/26 00:00:00+00
+80,LastUpdatedDate,default,2020-07-19
+80,NetDwellingsRangeFrom,missing,
+80,NetDwellingsRangeTo,missing,
 81,FirstAddedDate,date,2019/12/01 00:00:00+00
 81,LastUpdatedDate,date,2019/12/01 00:00:00+00
-82,PermissionDate,date,2010/05/19 00:00:00+00
+81,LastUpdatedDate,default,2020-07-19
+81,NetDwellingsRangeFrom,missing,
+81,NetDwellingsRangeTo,missing,
 82,FirstAddedDate,date,2019/12/01 00:00:00+00
 82,LastUpdatedDate,date,2019/12/01 00:00:00+00
-83,PermissionDate,date,2017/04/25 00:00:00+00
+82,LastUpdatedDate,default,2020-07-19
+82,NetDwellingsRangeFrom,missing,
+82,NetDwellingsRangeTo,missing,
 83,FirstAddedDate,date,2019/12/01 00:00:00+00
 83,LastUpdatedDate,date,2019/12/01 00:00:00+00
-84,PermissionDate,date,2018/03/13 00:00:00+00
+83,LastUpdatedDate,default,2020-07-19
+83,NetDwellingsRangeFrom,missing,
+83,NetDwellingsRangeTo,missing,
 84,FirstAddedDate,date,2019/12/01 00:00:00+00
 84,LastUpdatedDate,date,2019/12/01 00:00:00+00
-85,PermissionDate,date,2017/10/09 00:00:00+00
+84,LastUpdatedDate,default,2020-07-19
+84,NetDwellingsRangeFrom,missing,
+84,NetDwellingsRangeTo,missing,
 85,FirstAddedDate,date,2019/12/01 00:00:00+00
 85,LastUpdatedDate,date,2019/12/01 00:00:00+00
-86,PermissionDate,date,2018/12/05 00:00:00+00
+85,LastUpdatedDate,default,2020-07-19
+85,NetDwellingsRangeFrom,missing,
+85,NetDwellingsRangeTo,missing,
 86,FirstAddedDate,date,2019/12/01 00:00:00+00
 86,LastUpdatedDate,date,2019/12/01 00:00:00+00
-87,PermissionDate,date,2019/02/28 00:00:00+00
+86,LastUpdatedDate,default,2020-07-19
+86,NetDwellingsRangeFrom,missing,
+86,NetDwellingsRangeTo,missing,
 87,FirstAddedDate,date,2019/12/01 00:00:00+00
 87,LastUpdatedDate,date,2019/12/01 00:00:00+00
-88,PermissionDate,date,2019/07/05 00:00:00+00
+87,LastUpdatedDate,default,2020-07-19
+87,NetDwellingsRangeFrom,missing,
+87,NetDwellingsRangeTo,missing,
 88,FirstAddedDate,date,2019/12/01 00:00:00+00
 88,LastUpdatedDate,date,2019/12/01 00:00:00+00
-89,PermissionDate,date,2019/10/17 00:00:00+00
+88,LastUpdatedDate,default,2020-07-19
+88,NetDwellingsRangeFrom,missing,
+88,NetDwellingsRangeTo,missing,
 89,FirstAddedDate,date,2019/12/01 00:00:00+00
 89,LastUpdatedDate,date,2019/12/01 00:00:00+00
+89,LastUpdatedDate,default,2020-07-19
+89,NetDwellingsRangeFrom,missing,
+89,NetDwellingsRangeTo,missing,

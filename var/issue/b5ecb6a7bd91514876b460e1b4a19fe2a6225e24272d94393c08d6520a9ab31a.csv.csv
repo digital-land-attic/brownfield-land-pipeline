@@ -1,1 +1,6 @@
 row-number,field,issue-type,value
+1,OwnershipStatus,OwnershipStatus,unknown ownership
+1,NetDwellingsRangeFrom,default,34
+1,NetDwellingsRangeTo,default,34
+2,NetDwellingsRangeFrom,default,5
+2,NetDwellingsRangeTo,default,5

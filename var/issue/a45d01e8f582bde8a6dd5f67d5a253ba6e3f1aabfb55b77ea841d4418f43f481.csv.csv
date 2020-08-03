@@ -1,15 +1,29 @@
 row-number,field,issue-type,value
+1,NetDwellingsRangeFrom,default,8
 1,"GeoX,GeoY",out of range,"3826867,36297"
+2,NetDwellingsRangeFrom,default,10
 2,"GeoX,GeoY",out of range,"3827901,3.661E+4"
+3,NetDwellingsRangeFrom,default,14
 3,"GeoX,GeoY",out of range,"3827112,3.705E+4"
+4,NetDwellingsRangeFrom,default,25
 4,"GeoX,GeoY",out of range,"3826211,35477"
+5,NetDwellingsRangeFrom,default,11
 5,"GeoX,GeoY",out of range,"3825795,35042"
+6,NetDwellingsRangeFrom,default,29
 6,"GeoX,GeoY",out of range,"3826205,35641"
+7,NetDwellingsRangeFrom,default,13
 7,"GeoX,GeoY",out of range,"3825647,34922"
+8,NetDwellingsRangeFrom,default,35
 8,"GeoX,GeoY",out of range,"3826186,35731"
+9,NetDwellingsRangeFrom,default,14
 9,"GeoX,GeoY",out of range,"3827112,36895"
+10,NetDwellingsRangeFrom,default,51
 10,"GeoX,GeoY",out of range,"3828257,36693"
+11,NetDwellingsRangeFrom,default,152
 11,"GeoX,GeoY",out of range,"3827603,3.796E+4"
+12,NetDwellingsRangeFrom,default,150
 12,"GeoX,GeoY",out of range,"3826761,36846"
+13,NetDwellingsRangeFrom,default,126
 13,"GeoX,GeoY",out of range,"3825756,34901"
+14,NetDwellingsRangeFrom,default,300
 14,"GeoX,GeoY",out of range,"3826238,34862"

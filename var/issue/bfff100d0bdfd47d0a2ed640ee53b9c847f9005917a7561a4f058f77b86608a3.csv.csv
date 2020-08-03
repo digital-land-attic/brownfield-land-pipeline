@@ -1,1 +1,43 @@
 row-number,field,issue-type,value
+1,OwnershipStatus,OwnershipStatus,not owned by public authority
+1,NetDwellingsRangeFrom,default,50
+2,OwnershipStatus,OwnershipStatus,not owned by public authority
+2,NetDwellingsRangeFrom,default,17
+3,OwnershipStatus,OwnershipStatus,not owned by public authority
+3,NetDwellingsRangeFrom,default,35
+4,OwnershipStatus,OwnershipStatus,not owned by public authority
+4,NetDwellingsRangeFrom,default,8
+5,OwnershipStatus,OwnershipStatus,owned by public authority
+5,NetDwellingsRangeFrom,default,60
+6,OwnershipStatus,OwnershipStatus,not owned by public authority
+6,NetDwellingsRangeFrom,default,36
+7,OwnershipStatus,OwnershipStatus,not owned by public authority
+7,NetDwellingsRangeFrom,default,173
+8,OwnershipStatus,OwnershipStatus,not owned by public authority
+8,NetDwellingsRangeFrom,default,85
+9,OwnershipStatus,OwnershipStatus,not owned by public authority
+9,NetDwellingsRangeFrom,default,28
+10,OwnershipStatus,OwnershipStatus,not owned by public authority
+10,NetDwellingsRangeFrom,default,9
+11,OwnershipStatus,OwnershipStatus,not owned by public authority
+11,NetDwellingsRangeFrom,default,6
+12,OwnershipStatus,OwnershipStatus,not owned by public authority
+12,NetDwellingsRangeFrom,default,15
+12,NetDwellingsRangeTo,default,15
+13,OwnershipStatus,OwnershipStatus,not owned by public authority
+13,NetDwellingsRangeFrom,default,24
+14,OwnershipStatus,OwnershipStatus,not owned by public authority
+14,NetDwellingsRangeFrom,default,6
+14,NetDwellingsRangeTo,default,6
+15,OwnershipStatus,OwnershipStatus,not owned by public authority
+15,NetDwellingsRangeFrom,default,62
+15,NetDwellingsRangeTo,default,62
+16,OwnershipStatus,OwnershipStatus,not owned by public authority
+16,NetDwellingsRangeFrom,default,5
+17,OwnershipStatus,OwnershipStatus,not owned by public authority
+17,NetDwellingsRangeFrom,default,25
+18,OwnershipStatus,OwnershipStatus,not owned by public authority
+18,NetDwellingsRangeFrom,default,35
+18,NetDwellingsRangeTo,default,35
+19,OwnershipStatus,OwnershipStatus,not owned by public authority
+19,NetDwellingsRangeFrom,default,27

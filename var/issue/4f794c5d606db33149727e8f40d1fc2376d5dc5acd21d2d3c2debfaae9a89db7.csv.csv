@@ -1,1 +1,180 @@
 row-number,field,issue-type,value
+1,NetDwellingsRangeFrom,default,300
+2,NetDwellingsRangeFrom,default,92
+3,NetDwellingsRangeFrom,default,79
+4,NetDwellingsRangeFrom,default,30
+5,NetDwellingsRangeFrom,default,110
+6,NetDwellingsRangeFrom,default,120
+7,NetDwellingsRangeFrom,default,248
+8,NetDwellingsRangeFrom,default,200
+9,NetDwellingsRangeFrom,default,180
+10,NetDwellingsRangeFrom,default,160
+11,NetDwellingsRangeFrom,default,52
+12,NetDwellingsRangeFrom,default,88
+12,NetDwellingsRangeTo,default,88
+13,NetDwellingsRangeFrom,default,742
+13,NetDwellingsRangeTo,default,742
+14,NetDwellingsRangeFrom,default,300
+15,NetDwellingsRangeFrom,default,323
+16,NetDwellingsRangeFrom,default,400
+17,OwnershipStatus,OwnershipStatus,unknown ownership
+17,NetDwellingsRangeFrom,default,145
+18,OwnershipStatus,OwnershipStatus,unknown ownership
+18,NetDwellingsRangeFrom,default,73
+18,NetDwellingsRangeTo,default,73
+19,NetDwellingsRangeFrom,default,62
+20,OwnershipStatus,OwnershipStatus,unknown ownership
+20,NetDwellingsRangeFrom,default,60
+21,NetDwellingsRangeFrom,default,664
+22,NetDwellingsRangeFrom,default,638
+23,NetDwellingsRangeFrom,default,87
+23,NetDwellingsRangeTo,default,87
+24,OwnershipStatus,OwnershipStatus,unknown ownership
+24,NetDwellingsRangeFrom,default,87
+25,NetDwellingsRangeFrom,default,1341
+25,NetDwellingsRangeTo,default,1341
+26,NetDwellingsRangeFrom,default,400
+27,OwnershipStatus,OwnershipStatus,unknown ownership
+27,NetDwellingsRangeFrom,default,9
+28,NetDwellingsRangeFrom,default,44
+29,NetDwellingsRangeFrom,default,44
+30,NetDwellingsRangeFrom,default,5
+31,OwnershipStatus,OwnershipStatus,unknown ownership
+31,NetDwellingsRangeFrom,default,26
+32,NetDwellingsRangeFrom,default,57
+33,NetDwellingsRangeFrom,default,46
+34,NetDwellingsRangeFrom,default,141
+35,NetDwellingsRangeFrom,default,13
+36,NetDwellingsRangeFrom,default,80
+37,NetDwellingsRangeFrom,default,108
+38,OwnershipStatus,OwnershipStatus,unknown ownership
+38,NetDwellingsRangeFrom,default,10
+38,NetDwellingsRangeTo,default,10
+39,NetDwellingsRangeFrom,default,20
+40,OwnershipStatus,OwnershipStatus,unknown ownership
+40,NetDwellingsRangeFrom,default,31
+41,NetDwellingsRangeFrom,default,9
+42,NetDwellingsRangeFrom,default,27
+42,NetDwellingsRangeTo,default,27
+43,NetDwellingsRangeFrom,default,18
+43,NetDwellingsRangeTo,default,18
+44,OwnershipStatus,OwnershipStatus,unknown ownership
+44,NetDwellingsRangeFrom,default,11
+44,NetDwellingsRangeTo,default,11
+45,NetDwellingsRangeFrom,default,60
+46,NetDwellingsRangeFrom,default,6
+46,NetDwellingsRangeTo,default,6
+47,NetDwellingsRangeFrom,default,9
+48,OwnershipStatus,OwnershipStatus,unknown ownership
+48,NetDwellingsRangeFrom,default,12
+48,NetDwellingsRangeTo,default,12
+49,OwnershipStatus,OwnershipStatus,unknown ownership
+49,NetDwellingsRangeFrom,default,24
+49,NetDwellingsRangeTo,default,24
+50,NetDwellingsRangeFrom,default,162
+50,NetDwellingsRangeTo,default,162
+51,OwnershipStatus,OwnershipStatus,unknown ownership
+51,NetDwellingsRangeFrom,default,6
+51,NetDwellingsRangeTo,default,6
+52,OwnershipStatus,OwnershipStatus,unknown ownership
+52,NetDwellingsRangeFrom,default,12
+52,NetDwellingsRangeTo,default,12
+53,OwnershipStatus,OwnershipStatus,unknown ownership
+53,NetDwellingsRangeFrom,default,5
+53,NetDwellingsRangeTo,default,5
+54,OwnershipStatus,OwnershipStatus,unknown ownership
+54,NetDwellingsRangeFrom,default,17
+54,NetDwellingsRangeTo,default,17
+55,NetDwellingsRangeFrom,default,12
+55,NetDwellingsRangeTo,default,12
+56,OwnershipStatus,OwnershipStatus,unknown ownership
+56,NetDwellingsRangeFrom,default,28
+56,NetDwellingsRangeTo,default,28
+57,OwnershipStatus,OwnershipStatus,unknown ownership
+57,NetDwellingsRangeFrom,default,50
+57,NetDwellingsRangeTo,default,50
+58,NetDwellingsRangeFrom,default,7
+58,NetDwellingsRangeTo,default,7
+59,NetDwellingsRangeFrom,default,7
+59,NetDwellingsRangeTo,default,7
+60,OwnershipStatus,OwnershipStatus,unknown ownership
+60,NetDwellingsRangeFrom,default,8
+60,NetDwellingsRangeTo,default,8
+61,OwnershipStatus,OwnershipStatus,unknown ownership
+61,NetDwellingsRangeFrom,default,43
+61,NetDwellingsRangeTo,default,43
+62,NetDwellingsRangeFrom,default,12
+62,NetDwellingsRangeTo,default,12
+63,NetDwellingsRangeFrom,default,41
+63,NetDwellingsRangeTo,default,41
+64,NetDwellingsRangeFrom,default,76
+64,NetDwellingsRangeTo,default,76
+65,NetDwellingsRangeFrom,default,5
+65,NetDwellingsRangeTo,default,5
+66,OwnershipStatus,OwnershipStatus,unknown ownership
+66,NetDwellingsRangeFrom,default,15
+66,NetDwellingsRangeTo,default,15
+67,OwnershipStatus,OwnershipStatus,unknown ownership
+67,NetDwellingsRangeFrom,default,1
+67,NetDwellingsRangeTo,default,1
+68,NetDwellingsRangeFrom,default,32
+68,NetDwellingsRangeTo,default,32
+69,NetDwellingsRangeFrom,default,140
+69,NetDwellingsRangeTo,default,140
+70,NetDwellingsRangeFrom,default,10
+70,NetDwellingsRangeTo,default,10
+70,LastUpdatedDate,default,2018-12-07
+71,NetDwellingsRangeFrom,default,14
+71,NetDwellingsRangeTo,default,14
+71,LastUpdatedDate,default,2018-12-07
+72,NetDwellingsRangeFrom,default,7
+72,NetDwellingsRangeTo,default,7
+72,LastUpdatedDate,default,2018-12-07
+73,NetDwellingsRangeFrom,default,16
+73,NetDwellingsRangeTo,default,16
+73,LastUpdatedDate,default,2018-12-07
+74,NetDwellingsRangeFrom,default,24
+74,NetDwellingsRangeTo,default,24
+74,LastUpdatedDate,default,2018-12-07
+75,NetDwellingsRangeFrom,default,12
+75,NetDwellingsRangeTo,default,12
+75,LastUpdatedDate,default,2018-12-07
+76,NetDwellingsRangeFrom,default,6
+76,NetDwellingsRangeTo,default,6
+76,LastUpdatedDate,default,2018-12-07
+77,NetDwellingsRangeFrom,default,7
+77,NetDwellingsRangeTo,default,7
+77,LastUpdatedDate,default,2018-12-07
+78,NetDwellingsRangeFrom,default,14
+78,NetDwellingsRangeTo,default,14
+78,LastUpdatedDate,default,2018-12-07
+79,NetDwellingsRangeFrom,default,5
+79,NetDwellingsRangeTo,default,5
+79,LastUpdatedDate,default,2018-12-07
+80,NetDwellingsRangeFrom,default,9
+80,NetDwellingsRangeTo,default,9
+80,LastUpdatedDate,default,2018-12-07
+81,NetDwellingsRangeFrom,default,43
+81,NetDwellingsRangeTo,default,43
+81,LastUpdatedDate,default,2018-12-07
+82,NetDwellingsRangeFrom,default,8
+82,NetDwellingsRangeTo,default,8
+82,LastUpdatedDate,default,2018-12-07
+83,NetDwellingsRangeFrom,default,24
+83,NetDwellingsRangeTo,default,24
+83,LastUpdatedDate,default,2018-12-07
+84,NetDwellingsRangeFrom,default,6
+84,NetDwellingsRangeTo,default,6
+84,LastUpdatedDate,default,2018-12-07
+85,NetDwellingsRangeFrom,default,14
+85,NetDwellingsRangeTo,default,14
+85,LastUpdatedDate,default,2018-12-07
+86,NetDwellingsRangeFrom,default,12
+86,NetDwellingsRangeTo,default,12
+86,LastUpdatedDate,default,2018-12-07
+87,NetDwellingsRangeFrom,default,92
+87,NetDwellingsRangeTo,default,92
+87,LastUpdatedDate,default,2018-12-07
+88,NetDwellingsRangeFrom,default,14
+88,NetDwellingsRangeTo,default,14
+88,LastUpdatedDate,default,2018-12-07

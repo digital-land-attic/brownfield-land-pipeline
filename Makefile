@@ -38,6 +38,9 @@ DATASET_FILES=dataset/$(DATASET_NAME).csv
 
 # schema for collected files, and transformation pipeline
 SCHEMA=schema/$(DATASET_NAME).json
+SPECIFICATION_DIR=specification/specification/
+PIPELINE_DIR=pipeline/
+PIPELINE_NAME=$(DATASET_NAME)
 
 # collection log
 LOG_FILES:=$(wildcard collection/log/*/*.json)
@@ -67,9 +70,9 @@ ISSUE_FILES := $(subst $(CONVERTED_DIR),$(ISSUE_DIR),$(CONVERTED_FILES))
 TRANSFORMED_FILES:= $(subst $(CONVERTED_DIR),$(TRANSFORMED_DIR),$(CONVERTED_FILES))
 
 # data needed for normalisation
-NORMALISE_DATA:=\
-	$(PATCH_DIR)/null.csv\
-	$(PATCH_DIR)/skip.csv
+# NORMALISE_DATA:=\
+# 	$(PATCH_DIR)/null.csv\
+# 	$(PATCH_DIR)/skip.csv
 
 # data needed for harmonisation
 #
@@ -77,8 +80,9 @@ NORMALISE_DATA:=\
 # $(INDEX_DIR)/resource-organisation.csv
 #
 HARMONISE_DATA=\
-	$(CACHE_DIR)/organisation.csv\
-	$(PATCH_DIR)/enum.csv
+	$(CACHE_DIR)/organisation.csv
+
+	# $(PATCH_DIR)/enum.csv
 
 # generated indexes
 # TBD: replace with sqlite3
@@ -234,13 +238,13 @@ $(CONVERTED_DIR)%.csv: $(RESOURCE_DIR)%
 	@mkdir -p $(CONVERTED_DIR)
 	digital-land convert  $< $@
 
-$(NORMALISED_DIR)%.csv: $(CONVERTED_DIR)%.csv $(NORMALISE_DATA)
+$(NORMALISED_DIR)%.csv: $(CONVERTED_DIR)%.csv
 	@mkdir -p $(NORMALISED_DIR)
-	digital-land normalise $< $@
+	digital-land normalise $(PIPELINE_NAME) $< $@ $(PIPELINE_DIR)
 
-$(MAPPED_DIR)%.csv: $(NORMALISED_DIR)%.csv $(SCHEMA)
+$(MAPPED_DIR)%.csv: $(NORMALISED_DIR)%.csv $(PIPELINE_DIR)
 	@mkdir -p $(MAPPED_DIR)
-	digital-land map $< $@ $(SCHEMA)
+	digital-land map $(PIPELINE_NAME) $< $@ $(SPECIFICATION_DIR) $(PIPELINE_DIR)
 
 $(HARMONISED_DIR)%.csv: $(MAPPED_DIR)%.csv $(SCHEMA) $(HARMONISE_DATA)
 	@mkdir -p $(HARMONISED_DIR) $(ISSUE_DIR)
@@ -270,6 +274,8 @@ clear-cache:
 
 init::
 	pip3 install --upgrade -r requirements.txt
+	git submodule init
+	git submodule update
 
 prune:
 	rm -rf ./var $(VALIDATION_DIR)

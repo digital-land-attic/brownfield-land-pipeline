@@ -248,7 +248,7 @@ $(MAPPED_DIR)%.csv: $(NORMALISED_DIR)%.csv $(PIPELINE_DIR)
 
 $(HARMONISED_DIR)%.csv: $(MAPPED_DIR)%.csv $(SCHEMA) $(HARMONISE_DATA)
 	@mkdir -p $(HARMONISED_DIR) $(ISSUE_DIR)
-	digital-land harmonise $< $@ $(SCHEMA) $(ISSUE_DIR)
+	digital-land harmonise $(PIPELINE_NAME) $< $@ $(SCHEMA) $(ISSUE_DIR) $(SPECIFICATION_DIR) $(PIPELINE_DIR)
 
 $(TRANSFORMED_DIR)%.csv: $(HARMONISED_DIR)%.csv $(SCHEMA)
 	@mkdir -p $(TRANSFORMED_DIR)

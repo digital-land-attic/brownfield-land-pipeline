@@ -181,7 +181,6 @@ $(NATIONAL_DATASET_ENTRIES): bin/entries.py $(TRANSFORMED_FILES) $(SCHEMA) index
 
 $(COLLECTION_INDEX): $(LOG_FILES)
 	@mkdir -p $(INDEX_DIR)
-	# python3 bin/index.py $(DATASET_NAME)
 	digital-land index
 
 $(COLLECTION_INDEXES): $(COLLECTION_INDEX)
@@ -246,9 +245,9 @@ $(MAPPED_DIR)%.csv: $(NORMALISED_DIR)%.csv $(PIPELINE_DIR)
 	@mkdir -p $(MAPPED_DIR)
 	digital-land map $(PIPELINE_NAME) $< $@ $(SPECIFICATION_DIR) $(PIPELINE_DIR)
 
-$(HARMONISED_DIR)%.csv: $(MAPPED_DIR)%.csv $(SCHEMA) $(HARMONISE_DATA)
+$(HARMONISED_DIR)%.csv: $(MAPPED_DIR)%.csv $(HARMONISE_DATA)
 	@mkdir -p $(HARMONISED_DIR) $(ISSUE_DIR)
-	digital-land harmonise $(PIPELINE_NAME) $< $@ $(SCHEMA) $(ISSUE_DIR) $(SPECIFICATION_DIR) $(PIPELINE_DIR)
+	digital-land harmonise $(PIPELINE_NAME) $< $@ $(ISSUE_DIR) $(SPECIFICATION_DIR) $(PIPELINE_DIR)
 
 $(TRANSFORMED_DIR)%.csv: $(HARMONISED_DIR)%.csv $(SCHEMA)
 	@mkdir -p $(TRANSFORMED_DIR)

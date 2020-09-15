@@ -1,0 +1,71 @@
+row-number,field,issue-type,value
+1,NetDwellingsRangeTo,integer,No defined maximum
+1,NetDwellingsRangeTo,default,15
+2,NetDwellingsRangeTo,integer,No defined maximum
+2,NetDwellingsRangeTo,default,15
+3,NetDwellingsRangeTo,integer,No defined maximum
+3,NetDwellingsRangeTo,default,750
+4,NetDwellingsRangeTo,integer,No defined maximum
+4,NetDwellingsRangeTo,default,120
+5,NetDwellingsRangeTo,integer,No defined maximum
+5,NetDwellingsRangeTo,default,21
+6,NetDwellingsRangeTo,integer,No defined maximum
+7,LastUpdatedDate,default,2020-06-25
+8,NetDwellingsRangeTo,integer,No defined maximum
+8,NetDwellingsRangeTo,default,99
+9,LastUpdatedDate,default,2020-06-25
+10,NetDwellingsRangeTo,integer,No defined maximum
+10,NetDwellingsRangeTo,default,14
+11,NetDwellingsRangeTo,integer,No defined maximum
+11,NetDwellingsRangeTo,default,125
+12,NetDwellingsRangeTo,integer,No defined maximum
+12,NetDwellingsRangeTo,default,30
+13,NetDwellingsRangeTo,integer,No defined maximum
+13,NetDwellingsRangeTo,default,40
+14,NetDwellingsRangeTo,integer,No defined maximum
+14,NetDwellingsRangeTo,default,72
+15,NetDwellingsRangeTo,integer,No defined maximum
+15,NetDwellingsRangeTo,default,62
+16,LastUpdatedDate,default,2020-06-25
+17,NetDwellingsRangeTo,integer,No defined maximum
+17,NetDwellingsRangeTo,default,90
+18,NetDwellingsRangeTo,integer,No defined maximum
+18,NetDwellingsRangeTo,default,600
+19,LastUpdatedDate,default,2020-06-25
+20,NetDwellingsRangeTo,integer,No defined maximum
+20,NetDwellingsRangeTo,default,84
+21,NetDwellingsRangeTo,integer,No defined maximum
+21,NetDwellingsRangeTo,default,43
+22,NetDwellingsRangeTo,integer,No defined maximum
+22,NetDwellingsRangeTo,default,94
+23,NetDwellingsRangeTo,integer,No defined maximum
+23,NetDwellingsRangeTo,default,13
+24,NetDwellingsRangeTo,integer,No defined maximum
+24,NetDwellingsRangeTo,default,47
+25,NetDwellingsRangeTo,integer,No defined maximum
+25,NetDwellingsRangeTo,default,42
+26,NetDwellingsRangeTo,integer,No defined maximum
+26,NetDwellingsRangeTo,default,35
+27,LastUpdatedDate,default,2020-06-25
+28,NetDwellingsRangeTo,integer,No defined maximum
+28,NetDwellingsRangeTo,default,6
+29,NetDwellingsRangeTo,integer,No defined maximum
+29,NetDwellingsRangeTo,default,7
+30,NetDwellingsRangeTo,integer,No defined maximum
+30,NetDwellingsRangeTo,default,11
+31,NetDwellingsRangeFrom,default,14
+31,NetDwellingsRangeTo,default,14
+32,NetDwellingsRangeFrom,default,99
+32,NetDwellingsRangeTo,default,99
+33,NetDwellingsRangeFrom,default,9
+33,NetDwellingsRangeTo,default,9
+34,NetDwellingsRangeFrom,default,41
+34,NetDwellingsRangeTo,default,41
+35,NetDwellingsRangeFrom,default,130
+35,NetDwellingsRangeTo,default,130
+36,NetDwellingsRangeFrom,default,42
+36,NetDwellingsRangeTo,default,42
+37,NetDwellingsRangeFrom,default,6
+37,NetDwellingsRangeTo,default,6
+38,NetDwellingsRangeFrom,default,30
+38,NetDwellingsRangeTo,default,30

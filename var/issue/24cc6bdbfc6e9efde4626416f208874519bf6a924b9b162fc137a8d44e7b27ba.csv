@@ -1,0 +1,52 @@
+row-number,field,issue-type,value
+1,NetDwellingsRangeFrom,default,121
+1,NetDwellingsRangeTo,default,121
+2,NetDwellingsRangeFrom,default,154
+2,NetDwellingsRangeTo,default,154
+3,NetDwellingsRangeFrom,default,200
+3,NetDwellingsRangeTo,default,200
+4,NetDwellingsRangeFrom,default,24
+4,NetDwellingsRangeTo,default,24
+5,NetDwellingsRangeFrom,default,43
+5,NetDwellingsRangeTo,default,43
+6,NetDwellingsRangeFrom,default,50
+6,NetDwellingsRangeTo,default,50
+7,PlanningHistory,uri,PE Application 2013 132230
+7,NetDwellingsRangeFrom,default,70
+7,NetDwellingsRangeTo,default,70
+9,NetDwellingsRangeFrom,default,320
+9,NetDwellingsRangeTo,default,320
+10,NetDwellingsRangeFrom,default,15
+10,NetDwellingsRangeTo,default,15
+11,MinNetDwellings,integer,61 cluster flats and 16 studio flats
+12,NetDwellingsRangeFrom,default,50
+12,NetDwellingsRangeTo,default,50
+13,NetDwellingsRangeFrom,default,4
+13,NetDwellingsRangeTo,default,4
+14,PlanningHistory,uri,152730
+15,NetDwellingsRangeFrom,default,40
+15,NetDwellingsRangeTo,default,40
+16,MinNetDwellings,integer,24 two bedroom flats
+17,NetDwellingsRangeFrom,default,85
+17,NetDwellingsRangeTo,default,85
+18,NetDwellingsRangeFrom,default,40
+18,NetDwellingsRangeTo,default,40
+19,NetDwellingsRangeFrom,default,360
+19,NetDwellingsRangeTo,default,360
+20,NetDwellingsRangeFrom,default,24
+20,NetDwellingsRangeTo,default,24
+21,MinNetDwellings,integer,24 apartments
+22,MinNetDwellings,integer,39 apartments
+23,PlanningHistory,uri,101864 | http://www.planning.colchester.gov.uk/WAM/findCaseFile.do?appNumber=071522&appType&=Planning | http://www.planning.colchester.gov.uk/WAM/findCaseFile.do?appNumber=F/COL/06/1526&appType&=Planning
+23,MinNetDwellings,integer,12 apartments
+24,MinNetDwellings,integer,6-15 flats/ maisonettes
+25,NetDwellingsRangeFrom,default,100
+25,NetDwellingsRangeTo,default,100
+27,MinNetDwellings,integer,7 three bedroom dwellings
+28,MinNetDwellings,integer,5 dwellings
+29,MinNetDwellings,integer,24 sheltered apartments
+31,PlanningHistory,uri,"144693
+160551"
+33,NetDwellingsRangeFrom,default,8
+33,NetDwellingsRangeTo,default,8
+34,MinNetDwellings,integer,24 residential units

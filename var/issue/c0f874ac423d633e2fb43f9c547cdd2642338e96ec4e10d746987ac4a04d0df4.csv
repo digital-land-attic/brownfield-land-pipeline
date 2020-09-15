@@ -1,0 +1,65 @@
+row-number,field,issue-type,value
+1,MinNetDwellings,integer,162.25
+2,NetDwellingsRangeFrom,default,93
+2,NetDwellingsRangeTo,default,93
+3,NetDwellingsRangeFrom,default,15
+3,NetDwellingsRangeTo,default,15
+4,MinNetDwellings,integer,1.5
+5,LastUpdatedDate,default,2020-06-25
+6,MinNetDwellings,integer,9.75
+7,LastUpdatedDate,default,2020-06-25
+8,NetDwellingsRangeFrom,default,29
+8,NetDwellingsRangeTo,default,29
+9,MinNetDwellings,integer,156.5
+10,NetDwellingsRangeFrom,default,95
+10,NetDwellingsRangeTo,default,95
+11,LastUpdatedDate,default,2020-06-25
+12,NetDwellingsRangeFrom,default,12
+12,NetDwellingsRangeTo,default,12
+13,LastUpdatedDate,default,2020-06-25
+14,MinNetDwellings,integer,2.25 06/2005/1124 for 25 apartments has now lapsed. CCP allocation SP4.6
+15,LastUpdatedDate,default,2020-06-25
+16,MinNetDwellings,integer,45 lapsed.
+17,MinNetDwellings,integer,2 06/2004/0757 change of use from offices to 6 apartments. Various permissions but none implemented.
+18,MinNetDwellings,integer,1 06/2017/0074 change of use of part of ground floor anf first floor to 1 apartment
+19,MinNetDwellings,integer,1.5 06/2017/0251 for 19 apartments.
+20,MinNetDwellings,integer,8.25 06/2007/1092 for conversion to 45 apartments Not implemented
+21,MinNetDwellings,integer,32.5 PLP Site HS1.3. Still in employment use - redevelopment unlikely in short term.
+22,MinNetDwellings,integer,7.25 Site still vacant. No pp.
+23,LastUpdatedDate,default,2020-06-25
+24,MinNetDwellings,integer,12.5 PLP Site HS1.12 No pp.
+25,MinNetDwellings,integer,43.75 CCP Policy OP1 - Corporation Street. No pp. Still operational railway land?
+26,LastUpdatedDate,default,2020-06-25
+27,MinNetDwellings,integer,3.5 of appeal decision for adj property on Laurel St (06/2011/00297).
+28,LastUpdatedDate,default,2020-06-25
+29,MinNetDwellings,integer,2.75 06/2002/0438 lapsed for student accommodation not implemented.
+30,MinNetDwellings,integer,0.75 06/2011/0911 for Student accommodation has now lapsed. Time ext to 06/2008/0889
+31,MinNetDwellings,integer,6.25
+32,LastUpdatedDate,default,2020-06-25
+33,LastUpdatedDate,default,2020-06-25
+34,MinNetDwellings,integer,2.25 Mission building
+35,LastUpdatedDate,default,2020-06-25
+36,MinNetDwellings,integer,1.5 06/2008/0140 Student accom. PP lapsed
+37,MinNetDwellings,integer,3.75 06/2016/1165 conversion of offices to 14 apartments
+38,LastUpdatedDate,default,2020-06-25
+39,MinNetDwellings,integer,"0 and offices (B1) at upper floors, to student accommodation"
+40,MinNetDwellings,integer,7.25 Local Plan Allocation HS1.6. 06/2014/0972 erection of 11 townhouses
+41,LastUpdatedDate,default,2020-06-25
+42,MinNetDwellings,integer,0 06/2013/0591 Prior notification submission for conversion from B1 offices to C3 residential.
+43,LastUpdatedDate,default,2020-06-25
+44,MinNetDwellings,integer,0 residential.
+45,MinNetDwellings,integer,0 06/2013/0752 Conversion of upper floors and attic to 9 flats.
+46,MinNetDwellings,integer,2 06/2014/0084 Change of use from B1 offices to 8 apartments (C3).
+47,LastUpdatedDate,default,2020-06-25
+48,MinNetDwellings,integer,0 (Class C3)
+49,NetDwellingsRangeFrom,default,0
+49,NetDwellingsRangeTo,default,0
+50,MinNetDwellings,integer,25 06/2014/0028 Erection of 14 dwellings following demolition of existing utility building.
+51,MinNetDwellings,integer,87.25 06/2015/0173 Erection of 7 dwellings following demolition of exisiting kennels etc.
+52,MinNetDwellings,integer,0.25 06/2015/0564 Conversion and extension of dwelling to create 7 bedsits.
+53,MinNetDwellings,integer,37.5 Local Plan Allocation HS1.1
+54,MinNetDwellings,integer,107.5 Local Plan Allocation HS1.2 Not all of site will come forward in 5 yrs. Housing Zone site.
+55,LastUpdatedDate,default,2020-06-25
+56,MinNetDwellings,integer,17.75 Local Plan Allocation HS1.7 & 06/2014/0494 Erection of three storey terrace of 4no. town houses
+57,MinNetDwellings,integer,5 SP4.3
+58,MinNetDwellings,integer,10 SP4.4

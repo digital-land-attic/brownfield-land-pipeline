@@ -1,0 +1,8 @@
+row-number,field,issue-type,value
+1,NetDwellingsRangeFrom,default,7
+1,NetDwellingsRangeTo,default,7
+1,LastUpdatedDate,default,2020-06-25
+2,PlanningHistory,uri,http://www.scilly.gov.uk/planning-application/planning-application-p15059 | http://www.scilly.gov.uk/planning-application/planning-application-p16072
+2,NetDwellingsRangeFrom,default,26
+2,NetDwellingsRangeTo,default,26
+2,LastUpdatedDate,default,2020-06-25

@@ -1,0 +1,109 @@
+row-number,field,issue-type,value
+1,SiteplanURL,uri,Chester Road South Service Station siteplan
+1,PlanningHistory,uri,17/0617/OUTL
+2,SiteplanURL,uri,Lea Street School siteplan
+2,NetDwellingsRangeTo,default,24
+3,SiteplanURL,uri,Former Polish Club siteplan
+3,PlanningHistory,uri,15/0487/FULL
+3,NetDwellingsRangeTo,default,8
+4,SiteplanURL,uri,78 Cherry Orchard siteplan
+4,PlanningHistory,uri,19/0210/FULL
+5,SiteplanURL,uri,Railway Corner siteplan
+6,SiteplanURL,uri,93-94 New Road siteplan
+6,PlanningHistory,uri,19/0467/OUTL
+6,NetDwellingsRangeTo,default,8
+7,SiteplanURL,uri,Former British Heart Foundation Market Street siteplan
+7,NetDwellingsRangeTo,default,10
+8,SiteplanURL,uri,Frank Stone Building siteplan
+8,NetDwellingsRangeTo,default,16
+9,SiteplanURL,uri,Former Parkers Arms Site siteplan
+9,PlanningHistory,uri,19/0033/FULL
+10,SiteplanURL,uri,Timber Yard siteplan
+10,NetDwellingsRangeTo,default,55
+11,SiteplanURL,uri,Rock Works siteplan
+11,NetDwellingsRangeTo,default,20
+12,SiteplanURL,uri,Vicar Street siteplan
+13,SiteplanURL,uri,Blakebrook School and Woodfield House siteplan
+13,PlanningHistory,uri,19/0485/FULL
+13,NetDwellingsRangeTo,default,9
+14,SiteplanURL,uri,Land at Mill Street siteplan
+14,PlanningHistory,uri,17/0200/FULL
+15,SiteplanURL,uri,Kidderminster Fire Station siteplan
+15,NetDwellingsRangeTo,default,40
+16,SiteplanURL,uri,Boucher Building Green Street siteplan
+16,NetDwellingsRangeTo,default,10
+17,SiteplanURL,uri,Bull Ring siteplan
+17,PlanningHistory,uri,17/3006/PNRES
+18,SiteplanURL,uri,Tower Buildings siteplan
+18,PlanningHistory,uri,17/3051/PNRES
+19,SiteplanURL,uri,Rowland Hill Centre siteplan
+20,SiteplanURL,uri,Churchfields and Limekiln Bridge siteplan
+20,PlanningHistory,uri,18/0285/OUTL
+21,SiteplanURL,uri,Churchfields and Limekiln Bridge siteplan
+21,NetDwellingsRangeTo,default,80
+22,SiteplanURL,uri,Sladen School siteplan
+23,SiteplanURL,uri,Ambulance station and Oasis siteplan
+23,NetDwellingsRangeTo,default,12
+24,SiteplanURL,uri,British Sugar phase 2 siteplan
+24,PlanningHistory,uri,18/0446/FULL
+25,SiteplanURL,uri,Rifle Range Shops siteplan
+25,NetDwellingsRangeTo,default,12
+26,SiteplanURL,uri,78 Mill Street and BT building siteplan
+26,NetDwellingsRangeTo,default,13
+27,SiteplanURL,uri,78 Mill Street and BT building siteplan
+27,PlanningHistory,uri,19/3023/PNRES
+28,SiteplanURL,uri,Stourminster site siteplan
+28,PlanningHistory,uri,19/0521/FULL
+29,SiteplanURL,uri,Bridge Street siteplan
+30,SiteplanURL,uri,Carpets of Worth Cheapside siteplan
+30,NetDwellingsRangeTo,default,72
+31,SiteplanURL,uri,Swan Hotel and Working Mens Club siteplan
+31,NetDwellingsRangeTo,default,20
+32,SiteplanURL,uri,Land adjacent Toll House siteplan
+32,NetDwellingsRangeTo,default,6
+33,SiteplanURL,uri,Queens Road Shops siteplan
+33,NetDwellingsRangeTo,default,14
+34,SiteplanURL,uri,Squirrel Inn siteplan
+34,PlanningHistory,uri,18/0659/FULL
+34,NetDwellingsRangeTo,default,7
+35,SiteplanURL,uri,Yew Tree Walk siteplan
+35,NetDwellingsRangeTo,default,85
+36,SiteplanURL,uri,Carpets of Worth Cheapside siteplan
+36,NetDwellingsRangeTo,default,170
+37,SiteplanURL,uri,County Buildings siteplan
+37,NetDwellingsRangeTo,default,40
+38,SiteplanURL,uri,Baldwin Road siteplan
+38,PlanningHistory,uri,WF/0481/05
+39,SiteplanURL,uri,Steatite Way siteplan
+39,PlanningHistory,uri,19/0150/FULL
+39,NetDwellingsRangeTo,default,106
+40,SiteplanURL,uri,Worcester Road Garage siteplan
+40,NetDwellingsRangeTo,default,15
+41,SiteplanURL,uri,Sandy Lane Titton siteplan
+41,NetDwellingsRangeTo,default,13
+42,SiteplanURL,uri,Robbins Depot siteplan
+42,NetDwellingsRangeTo,default,12
+43,SiteplanURL,uri,Chichester Caravans siteplan
+43,PlanningHistory,uri,17/0662/RESE
+43,NetDwellingsRangeTo,default,28
+44,SiteplanURL,uri,106 Minster Road siteplan
+45,SiteplanURL,uri,Lea Castle Hospital siteplan
+45,PlanningHistory,uri,17/0205/OUTL
+46,SiteplanURL,uri,Sion Hill School siteplan
+46,PlanningHistory,uri,18/0529/FULL
+47,SiteplanURL,uri,Yieldingtree Packers siteplan
+47,PlanningHistory,uri,17/0764/FULL
+48,SiteplanURL,uri,Bewdley Fire Station siteplan
+48,NetDwellingsRangeTo,default,15
+49,SiteplanURL,uri,Clows Top siteplan
+49,PlanningHistory,uri,19/0283/PIP
+50,SiteplanURL,uri,Bliss Gate Inn siteplan
+50,NetDwellingsRangeTo,default,6
+51,SiteplanURL,uri,Bellmans Cross siteplan
+51,NetDwellingsRangeTo,default,20
+52,SiteplanURL,uri,Captains siteplan
+53,SiteplanURL,uri,Wolverley Lodge siteplan
+53,PlanningHistory,uri,18/0748/PIP
+54,SiteplanURL,uri,"52.373918, -2.222310"
+54,LastUpdatedDate,default,2020-06-25
+54,OrganisationURI,default,http://opendatacommunities.org/id/district-council/wyre-forest

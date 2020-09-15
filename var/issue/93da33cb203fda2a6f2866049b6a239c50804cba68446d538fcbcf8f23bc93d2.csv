@@ -1,0 +1,179 @@
+row-number,field,issue-type,value
+1,PermissionDate,date,1970/01/01 00:00:00+00
+1,NetDwellingsRangeTo,default,31
+2,PermissionDate,date,1970/01/01 00:00:00+00
+2,NetDwellingsRangeTo,default,9
+3,PermissionDate,date,1970/01/01 00:00:00+00
+3,NetDwellingsRangeTo,default,8
+4,PermissionDate,date,1970/01/01 00:00:00+00
+4,NetDwellingsRangeTo,default,10
+5,PermissionDate,date,1970/01/01 00:00:00+00
+5,NetDwellingsRangeTo,default,16
+6,PermissionDate,date,1970/01/01 00:00:00+00
+6,NetDwellingsRangeTo,default,7
+7,PermissionDate,date,1970/01/01 00:00:00+00
+7,NetDwellingsRangeTo,default,37
+8,PermissionDate,date,1970/01/01 00:00:00+00
+8,NetDwellingsRangeTo,default,55
+9,PermissionDate,date,1970/01/01 00:00:00+00
+9,NetDwellingsRangeTo,default,6
+10,PermissionDate,date,1970/01/01 00:00:00+00
+10,NetDwellingsRangeTo,default,30
+11,PermissionDate,date,1970/01/01 00:00:00+00
+11,NetDwellingsRangeTo,default,73
+12,PermissionDate,date,1970/01/01 00:00:00+00
+12,NetDwellingsRangeTo,default,66
+13,PermissionDate,date,1970/01/01 00:00:00+00
+13,NetDwellingsRangeTo,default,35
+14,PermissionDate,date,1970/01/01 00:00:00+00
+14,NetDwellingsRangeTo,default,80
+15,PermissionDate,date,1970/01/01 00:00:00+00
+15,NetDwellingsRangeTo,default,29
+16,PermissionDate,date,2019/07/26 00:00:00+00
+16,NetDwellingsRangeTo,default,250
+17,PermissionDate,date,1970/01/01 00:00:00+00
+17,NetDwellingsRangeTo,default,11
+18,PermissionDate,date,1970/01/01 00:00:00+00
+18,NetDwellingsRangeTo,default,7
+19,PermissionDate,date,1970/01/01 00:00:00+00
+19,NetDwellingsRangeTo,default,100
+20,PermissionDate,date,1970/01/01 00:00:00+00
+20,NetDwellingsRangeTo,default,31
+21,PermissionDate,date,1970/01/01 00:00:00+00
+21,NetDwellingsRangeTo,default,66
+22,PermissionDate,date,1970/01/01 00:00:00+00
+22,NetDwellingsRangeTo,default,32
+23,PermissionDate,date,1970/01/01 00:00:00+00
+23,NetDwellingsRangeTo,default,39
+24,PermissionDate,date,1970/01/01 00:00:00+00
+24,NetDwellingsRangeTo,default,30
+25,PermissionDate,date,1970/01/01 00:00:00+00
+25,NetDwellingsRangeTo,default,75
+26,PermissionDate,date,2005/11/24 00:00:00+00
+26,NetDwellingsRangeTo,default,48
+27,PermissionDate,date,2018/01/18 00:00:00+00
+27,NetDwellingsRangeTo,default,6
+28,PermissionDate,date,2010/03/11 00:00:00+00
+28,NetDwellingsRangeTo,default,500
+29,PermissionDate,date,2013/11/12 00:00:00+00
+29,NetDwellingsRangeTo,default,71
+30,PermissionDate,date,2018/03/29 00:00:00+00
+30,NetDwellingsRangeTo,default,9
+31,PermissionDate,date,2015/01/27 00:00:00+00
+31,NetDwellingsRangeTo,default,8
+32,PermissionDate,date,2014/10/09 00:00:00+00
+32,NetDwellingsRangeTo,default,10
+33,PermissionDate,date,2014/04/29 00:00:00+00
+33,NetDwellingsRangeTo,default,39
+34,PermissionDate,date,2015/06/04 00:00:00+00
+34,NetDwellingsRangeTo,default,60
+35,PermissionDate,date,2014/05/28 00:00:00+00
+35,NetDwellingsRangeTo,default,35
+36,PermissionDate,date,2015/09/10 00:00:00+00
+36,NetDwellingsRangeTo,default,750
+37,PermissionDate,date,2015/05/19 00:00:00+00
+37,NetDwellingsRangeTo,default,6
+38,PermissionDate,date,2015/05/05 00:00:00+00
+38,NetDwellingsRangeTo,default,14
+39,PermissionDate,date,2016/07/07 00:00:00+00
+39,NetDwellingsRangeTo,default,5
+40,PermissionDate,date,2016/03/11 00:00:00+00
+40,NetDwellingsRangeTo,default,38
+41,PermissionDate,date,2016/03/16 00:00:00+00
+41,NetDwellingsRangeTo,default,36
+42,PermissionDate,date,2016/07/07 00:00:00+00
+42,NetDwellingsRangeTo,default,31
+43,PermissionDate,date,2016/10/06 00:00:00+00
+43,NetDwellingsRangeTo,default,5
+44,PermissionDate,date,2016/04/26 00:00:00+00
+44,NetDwellingsRangeTo,default,185
+45,PermissionDate,date,2016/06/17 00:00:00+00
+45,NetDwellingsRangeTo,default,26
+46,PermissionDate,date,2016/12/22 00:00:00+00
+46,NetDwellingsRangeTo,default,6
+47,PermissionDate,date,2017/12/14 00:00:00+00
+47,NetDwellingsRangeTo,default,12
+48,PermissionDate,date,2017/12/08 00:00:00+00
+48,NetDwellingsRangeTo,default,6
+49,PermissionDate,date,1970/01/01 00:00:00+00
+49,NetDwellingsRangeTo,default,102
+50,PermissionDate,date,1970/01/01 00:00:00+00
+50,NetDwellingsRangeTo,default,100
+51,PermissionDate,date,1970/01/01 00:00:00+00
+51,NetDwellingsRangeTo,default,30
+52,PermissionDate,date,1970/01/01 00:00:00+00
+52,NetDwellingsRangeTo,default,74
+53,PermissionDate,date,1970/01/01 00:00:00+00
+53,NetDwellingsRangeTo,default,98
+54,PermissionDate,date,1970/01/01 00:00:00+00
+54,NetDwellingsRangeTo,default,56
+55,PermissionDate,date,1970/01/01 00:00:00+00
+55,NetDwellingsRangeTo,default,54
+56,PermissionDate,date,1970/01/01 00:00:00+00
+56,NetDwellingsRangeTo,default,98
+57,PermissionDate,date,1970/01/01 00:00:00+00
+57,NetDwellingsRangeTo,default,70
+58,PermissionDate,date,1970/01/01 00:00:00+00
+58,NetDwellingsRangeTo,default,29
+59,PermissionDate,date,1970/01/01 00:00:00+00
+59,NetDwellingsRangeTo,default,190
+60,PermissionDate,date,1970/01/01 00:00:00+00
+60,NetDwellingsRangeTo,default,30
+61,PermissionDate,date,1970/01/01 00:00:00+00
+61,NetDwellingsRangeTo,default,13
+62,PermissionDate,date,1970/01/01 00:00:00+00
+62,NetDwellingsRangeTo,default,16
+63,PermissionDate,date,1970/01/01 00:00:00+00
+63,NetDwellingsRangeTo,default,25
+64,PermissionDate,date,2017/08/30 00:00:00+00
+64,NetDwellingsRangeTo,default,9
+65,PermissionDate,date,2017/09/26 00:00:00+00
+65,NetDwellingsRangeTo,default,10
+66,PermissionDate,date,2017/10/06 00:00:00+00
+66,NetDwellingsRangeTo,default,5
+67,PermissionDate,date,2017/10/18 00:00:00+00
+67,NetDwellingsRangeTo,default,6
+68,PermissionDate,date,2018/09/19 00:00:00+00
+68,NetDwellingsRangeTo,default,9
+69,PermissionDate,date,2017/04/27 00:00:00+00
+69,NetDwellingsRangeTo,default,8
+70,PermissionDate,date,2017/10/20 00:00:00+00
+70,NetDwellingsRangeTo,default,18
+71,PermissionDate,date,2018/03/29 00:00:00+00
+71,NetDwellingsRangeTo,default,29
+72,PermissionDate,date,2018/12/13 00:00:00+00
+72,NetDwellingsRangeTo,default,5
+73,PermissionDate,date,2018/10/09 00:00:00+00
+73,NetDwellingsRangeTo,default,6
+74,PermissionDate,date,2018/01/31 00:00:00+00
+74,NetDwellingsRangeTo,default,6
+75,PermissionDate,date,2018/04/20 00:00:00+00
+75,NetDwellingsRangeTo,default,5
+76,PermissionDate,date,2018/06/28 00:00:00+00
+76,NetDwellingsRangeTo,default,6
+77,PermissionDate,date,2018/12/19 00:00:00+00
+77,NetDwellingsRangeTo,default,12
+78,PermissionDate,date,1970/01/01 00:00:00+00
+78,NetDwellingsRangeTo,default,12
+79,PermissionDate,date,1970/01/01 00:00:00+00
+79,NetDwellingsRangeTo,default,20
+80,PermissionDate,date,2018/05/11 00:00:00+00
+80,NetDwellingsRangeTo,default,5
+81,PermissionDate,date,2019/02/26 00:00:00+00
+81,NetDwellingsRangeTo,default,5
+82,PermissionDate,date,2010/05/19 00:00:00+00
+82,NetDwellingsRangeTo,default,6
+83,PermissionDate,date,2017/04/25 00:00:00+00
+83,NetDwellingsRangeTo,default,7
+84,PermissionDate,date,2018/03/13 00:00:00+00
+84,NetDwellingsRangeTo,default,5
+85,PermissionDate,date,2017/10/09 00:00:00+00
+85,NetDwellingsRangeTo,default,8
+86,PermissionDate,date,2018/12/05 00:00:00+00
+86,NetDwellingsRangeTo,default,5
+87,PermissionDate,date,2019/02/28 00:00:00+00
+87,NetDwellingsRangeTo,default,6
+88,PermissionDate,date,2019/07/05 00:00:00+00
+88,NetDwellingsRangeTo,default,9
+89,PermissionDate,date,2019/10/17 00:00:00+00
+89,NetDwellingsRangeTo,default,7

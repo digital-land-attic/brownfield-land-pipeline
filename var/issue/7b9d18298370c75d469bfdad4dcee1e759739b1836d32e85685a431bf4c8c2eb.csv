@@ -1,0 +1,99 @@
+row-number,field,issue-type,value
+1,SiteplanURL,uri,Site Plan BL01
+1,NetDwellingsRangeFrom,default,30
+1,NetDwellingsRangeTo,default,30
+2,SiteplanURL,uri,Site Plan BL02
+2,NetDwellingsRangeFrom,default,23
+2,NetDwellingsRangeTo,default,23
+3,SiteplanURL,uri,Site Plan BL03
+3,NetDwellingsRangeFrom,default,60
+3,NetDwellingsRangeTo,default,60
+4,SiteplanURL,uri,Site Plan BL04
+4,NetDwellingsRangeFrom,default,36
+4,NetDwellingsRangeTo,default,36
+5,SiteplanURL,uri,Site Plan BL05
+5,NetDwellingsRangeFrom,default,100
+5,NetDwellingsRangeTo,default,100
+6,SiteplanURL,uri,Site Plan BL06
+6,PlanningHistory,uri,Planning History
+6,NetDwellingsRangeFrom,default,12
+6,NetDwellingsRangeTo,default,12
+7,SiteplanURL,uri,Site Plan BL07
+7,PlanningHistory,uri,Planning History
+7,NetDwellingsRangeFrom,default,36
+7,NetDwellingsRangeTo,default,36
+8,SiteplanURL,uri,Site Plan BL08
+8,PlanningHistory,uri,Planning History
+8,NetDwellingsRangeFrom,default,6
+8,NetDwellingsRangeTo,default,6
+9,SiteplanURL,uri,Site Plan BL09
+9,PlanningHistory,uri,Planning History
+9,NetDwellingsRangeFrom,default,205
+9,NetDwellingsRangeTo,default,205
+10,SiteplanURL,uri,Site Plan BL10
+10,PlanningHistory,uri,Planning History
+10,NetDwellingsRangeFrom,default,275
+10,NetDwellingsRangeTo,default,275
+11,SiteplanURL,uri,Site Plan BL11
+11,PlanningHistory,uri,Planning History
+11,NetDwellingsRangeFrom,default,5
+11,NetDwellingsRangeTo,default,5
+12,SiteplanURL,uri,Site Plan BL12
+12,PlanningHistory,uri,Planning History
+12,NetDwellingsRangeFrom,default,14
+12,NetDwellingsRangeTo,default,14
+13,SiteplanURL,uri,Site Plan BL13
+13,PlanningHistory,uri,Planning History
+13,NetDwellingsRangeFrom,default,10
+13,NetDwellingsRangeTo,default,10
+14,SiteplanURL,uri,Site Plan BL14
+14,PlanningHistory,uri,Planning History
+14,NetDwellingsRangeFrom,default,5
+14,NetDwellingsRangeTo,default,5
+15,SiteplanURL,uri,Site Plan BL15
+15,PlanningHistory,uri,Planning History
+15,NetDwellingsRangeFrom,default,6
+15,NetDwellingsRangeTo,default,6
+16,SiteplanURL,uri,Site Plan BL16
+16,PlanningHistory,uri,Planning History
+16,NetDwellingsRangeFrom,default,260
+16,NetDwellingsRangeTo,default,260
+17,SiteplanURL,uri,Site PLan BL17
+17,PlanningHistory,uri,Planning History
+17,NetDwellingsRangeFrom,default,13
+17,NetDwellingsRangeTo,default,13
+18,SiteplanURL,uri,Site Plan BL18
+18,PlanningHistory,uri,Planning History
+18,NetDwellingsRangeFrom,default,33
+18,NetDwellingsRangeTo,default,33
+19,SiteplanURL,uri,Site Plan BL19
+19,PlanningHistory,uri,Planning History
+19,NetDwellingsRangeFrom,default,7
+19,NetDwellingsRangeTo,default,7
+20,SiteplanURL,uri,Site Plan BL20
+20,PlanningHistory,uri,Planning History
+20,NetDwellingsRangeFrom,default,5
+20,NetDwellingsRangeTo,default,5
+21,SiteplanURL,uri,Site Plan BL21
+21,PlanningHistory,uri,Planning History
+21,NetDwellingsRangeFrom,default,9
+21,NetDwellingsRangeTo,default,9
+22,SiteplanURL,uri,Site Plan BL22
+22,PlanningHistory,uri,Planning History
+22,NetDwellingsRangeFrom,default,8
+22,NetDwellingsRangeTo,default,8
+23,SiteplanURL,uri,Site Plan BL23
+23,PlanningHistory,uri,Planning History
+23,NetDwellingsRangeFrom,default,5
+23,NetDwellingsRangeTo,default,5
+24,SiteplanURL,uri,Site Plan BL24
+24,PlanningHistory,uri,Planning history
+24,NetDwellingsRangeFrom,default,25
+24,NetDwellingsRangeTo,default,25
+25,SiteplanURL,uri,Site Plan BL25
+25,PlanningHistory,uri,Planning History
+25,NetDwellingsRangeFrom,default,5
+25,NetDwellingsRangeTo,default,5
+26,PlanningHistory,uri,Planning History
+26,NetDwellingsRangeFrom,default,12
+26,NetDwellingsRangeTo,default,12

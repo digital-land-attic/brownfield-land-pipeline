@@ -1,0 +1,10 @@
+row-number,field,issue-type,value
+1,PlanningHistory,uri,Planning Application - 11/90621/OUTODA (Outline Permission)
+1,NetDwellingsRangeFrom,default,300
+1,NetDwellingsRangeTo,default,300
+2,PlanningHistory,uri,Planning Application - 11/90621/OUTODA (Outline Permission)
+2,NetDwellingsRangeFrom,default,400
+2,NetDwellingsRangeTo,default,400
+3,PlanningHistory,uri,Planning Application - 17/00364/FUL (Full Application)
+3,NetDwellingsRangeFrom,default,300
+3,NetDwellingsRangeTo,default,300

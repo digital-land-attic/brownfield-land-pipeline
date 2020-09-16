@@ -33,6 +33,7 @@ row-number,field,issue-type,value
 32,LastUpdatedDate,default,2020-06-25
 33,LastUpdatedDate,default,2020-06-25
 34,LastUpdatedDate,default,2020-06-25
+34,"GeoX,GeoY",Failed to convert point to decimal %s,"['52.200.96', '-2.202640']"
 35,LastUpdatedDate,default,2020-06-25
 36,LastUpdatedDate,default,2020-06-25
 37,LastUpdatedDate,default,2020-06-25

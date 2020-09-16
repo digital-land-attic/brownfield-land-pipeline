@@ -84,6 +84,7 @@ row-number,field,issue-type,value
 38,NetDwellingsRangeFrom,integer,Net Dwellings Range From
 38,NetDwellingsRangeTo,integer,Net Dwellings Range To
 38,OrganisationURI,default,http://opendatacommunities.org/id/district-council/cherwell
+38,"GeoX,GeoY",Failed to convert point to decimal %s,"['GeoX', 'GeoY']"
 39,NetDwellingsRangeFrom,default,0
 39,NetDwellingsRangeTo,default,0
 40,NetDwellingsRangeFrom,default,0

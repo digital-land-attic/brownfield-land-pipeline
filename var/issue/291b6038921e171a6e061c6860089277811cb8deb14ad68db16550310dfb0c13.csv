@@ -194,6 +194,7 @@ row-number,field,issue-type,value
 39,NetDwellingsRangeFrom,default,6
 39,NetDwellingsRangeTo,default,6
 39,LastUpdatedDate,default,2020-06-25
+39,"GeoX,GeoY",Failed to convert point to decimal %s,"['51.397435,', '0.012417']"
 40,SiteplanURL,uri,Link to the map of 136 Main Road Biggin Hill associated with the full planning permission 17/02291/FULL1
 40,PlanningHistory,uri,Link to full planning application 17/02291/FULL1 at 136 Main Road Biggin Hill
 40,NetDwellingsRangeFrom,default,7

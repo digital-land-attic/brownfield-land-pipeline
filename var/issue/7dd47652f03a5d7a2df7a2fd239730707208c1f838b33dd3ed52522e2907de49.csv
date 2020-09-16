@@ -3,43 +3,60 @@ row-number,field,issue-type,value
 1,NetDwellingsRangeTo,default,9
 2,NetDwellingsRangeFrom,default,70
 2,NetDwellingsRangeTo,default,70
+2,"GeoX,GeoY",Failed to convert point to decimal %s,"['558,600.24', '265,677.88']"
 3,NetDwellingsRangeFrom,default,7
 3,NetDwellingsRangeTo,default,7
 4,NetDwellingsRangeFrom,default,10
 4,NetDwellingsRangeTo,default,10
+4,"GeoX,GeoY",Failed to convert point to decimal %s,"['554,101.44', '280,502.27']"
 5,NetDwellingsRangeFrom,default,50
 5,NetDwellingsRangeTo,default,50
+5,"GeoX,GeoY",Failed to convert point to decimal %s,"['554,307.97', '280,630.23']"
 6,NetDwellingsRangeFrom,default,100
 6,NetDwellingsRangeTo,default,100
+6,"GeoX,GeoY",Failed to convert point to decimal %s,"['554,215.59', '279,497.92']"
 7,NetDwellingsRangeFrom,default,77
 7,NetDwellingsRangeTo,default,77
+7,"GeoX,GeoY",Failed to convert point to decimal %s,"['554,903.85', '281,897.67']"
 8,NetDwellingsRangeFrom,default,11
 8,NetDwellingsRangeTo,default,11
+8,"GeoX,GeoY",Failed to convert point to decimal %s,"['553,780.03', '280,015.20']"
 9,NetDwellingsRangeFrom,default,58
 9,NetDwellingsRangeTo,default,58
+9,"GeoX,GeoY",Failed to convert point to decimal %s,"['554,787.33', '280,369.83']"
 10,NetDwellingsRangeFrom,default,7
 10,NetDwellingsRangeTo,default,7
 11,NetDwellingsRangeFrom,default,150
 11,NetDwellingsRangeTo,default,150
+11,"GeoX,GeoY",Failed to convert point to decimal %s,"['562,419.77', '270,513.56']"
 12,NetDwellingsRangeFrom,default,9
 12,NetDwellingsRangeTo,default,9
+12,"GeoX,GeoY",Failed to convert point to decimal %s,"['562,593.60', '270,185.55']"
 13,NetDwellingsRangeFrom,default,50
 13,NetDwellingsRangeTo,default,50
+13,"GeoX,GeoY",Failed to convert point to decimal %s,"['557,463.88', '287,169.43']"
 14,NetDwellingsRangeFrom,default,9
 14,NetDwellingsRangeTo,default,9
 15,NetDwellingsRangeFrom,default,17
 15,NetDwellingsRangeTo,default,17
+15,"GeoX,GeoY",Failed to convert point to decimal %s,"['559,009.52', '274,237.35']"
 16,NetDwellingsRangeFrom,default,10
 16,NetDwellingsRangeTo,default,10
+16,"GeoX,GeoY",Failed to convert point to decimal %s,"['559,517.90', '273,059.24']"
 17,NetDwellingsRangeFrom,default,10
 17,NetDwellingsRangeTo,default,10
+17,"GeoX,GeoY",Failed to convert point to decimal %s,"['559,383.19', '273,483.10']"
 18,NetDwellingsRangeFrom,default,41
 18,NetDwellingsRangeTo,default,41
+18,"GeoX,GeoY",Failed to convert point to decimal %s,"['560,308.91', '273,432.76']"
 19,NetDwellingsRangeFrom,default,90
 19,NetDwellingsRangeTo,default,90
+19,"GeoX,GeoY",Failed to convert point to decimal %s,"['558,764.44', '273,382.21']"
 20,NetDwellingsRangeFrom,default,12
 20,NetDwellingsRangeTo,default,12
+20,"GeoX,GeoY",Failed to convert point to decimal %s,"['555,920.95', '262,416.49']"
 21,NetDwellingsRangeFrom,default,7
 21,NetDwellingsRangeTo,default,7
 22,NetDwellingsRangeFrom,default,10
 22,NetDwellingsRangeTo,default,10
+22,"GeoX,GeoY",Failed to convert point to decimal %s,"['546,316.22', '279,827.88']"

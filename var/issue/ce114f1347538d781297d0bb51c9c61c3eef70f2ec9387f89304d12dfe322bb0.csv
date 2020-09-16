@@ -72,6 +72,7 @@ row-number,field,issue-type,value
 35,NetDwellingsRangeTo,default,40
 36,NetDwellingsRangeFrom,default,150
 36,NetDwellingsRangeTo,default,150
+36,"GeoX,GeoY",Failed to convert point to decimal %s,"['622935\r\n(ref for 12/00143/ET only)', '309079\r\n(ref for 12/00143/ET only)']"
 37,PlanningHistory,uri,https://https://www.norwich.gov.uk/info/20199/local_plan/1544/city_centre_site_specific_allocations/19
 37,NetDwellingsRangeFrom,default,10
 37,NetDwellingsRangeTo,default,10

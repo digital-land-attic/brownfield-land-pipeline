@@ -195,5 +195,6 @@ row-number,field,issue-type,value
 97,NetDwellingsRangeTo,default,1
 98,NetDwellingsRangeFrom,default,20
 98,NetDwellingsRangeTo,default,20
+98,"GeoX,GeoY",Failed to convert point to decimal %s,"['-1.761850871', '52.1694480333,']"
 99,NetDwellingsRangeFrom,default,3
 99,NetDwellingsRangeTo,default,3

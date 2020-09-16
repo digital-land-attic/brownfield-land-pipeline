@@ -1,5 +1,6 @@
 # Digital Land brownfield land collection
 
+[![Run brownfield land pipeline](https://github.com/digital-land/brownfield-land-pipeline/workflows/Run%20brownfield%20land%20pipeline/badge.svg)](https://github.com/digital-land/brownfield-land-pipeline/actions?query=workflow%3A%22Run+brownfield+land+pipeline%22)
 [![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/digital-land/brownfield-land/blob/master/LICENSE)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://black.readthedocs.io/en/stable/)
 

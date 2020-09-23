@@ -1,7 +1,7 @@
 pipeline,field,replacement-field
 brownfield-land,OrganisationURI,organisation
 brownfield-land,SiteReference,site
-brownfield-land,SiteNameAddress,address-text
+brownfield-land,SiteNameAddress,site-address
 brownfield-land,GeoX,longitude
 brownfield-land,GeoY,latitude
 brownfield-land,SiteplanURL,site-plan-url
@@ -19,5 +19,5 @@ brownfield-land,Notes,notes
 brownfield-land,FirstAddedDate,start-date
 brownfield-land,LastUpdatedDate,entry-date
 brownfield-land,EndDate,end-date
-brownfield-land,DevelopmentDescription,notes
-brownfield-land,SiteInformation,notes
+brownfield-land,DevelopmentDescription,
+brownfield-land,SiteInformation,

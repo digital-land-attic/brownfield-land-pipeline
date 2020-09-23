@@ -115,11 +115,10 @@ COUNTS=\
 	$(COUNT_DIR)PermissionType.csv\
 	$(COUNT_DIR)Deliverable.csv
 
-INDEXES=\
-	$(COLLECTION_INDEX)\
-	$(COLLECTION_INDEXES)
-
 #  TODO: figure out what to do with these...
+	# INDEXES=\
+	# $(COLLECTION_INDEX)\
+	# $(COLLECTION_INDEXES)
 	# $(PIPELINE_INDEXES)\
 	# $(COUNTS)
 
@@ -139,7 +138,7 @@ collect:
 
 # restart the make process to pick-up collected files
 second-pass:
-	@$(MAKE) --no-print-directory harmonise dataset index
+	@$(MAKE) --no-print-directory harmonise dataset
 
 validate: $(VALIDATION_FILES)
 	@:
@@ -153,7 +152,7 @@ normalise: $(NORMALISED_FILES)
 map: $(MAPPED_FILES)
 	@:
 
-harmonise: $(COLLECTION_INDEX) $(HARMONISED_FILES)
+harmonise: $(HARMONISED_FILES)
 	@:
 
 transform: $(TRANSFORMED_FILES)
@@ -179,11 +178,11 @@ $(NATIONAL_DATASET_ENTRIES): bin/entries.py $(TRANSFORMED_FILES) $(SCHEMA) index
 	@mkdir -p $(INDEX_DIR)
 	python3 bin/entries.py $(TRANSFORMED_DIR) $@
 
-$(COLLECTION_INDEX): $(LOG_FILES)
-	@mkdir -p $(INDEX_DIR)
-	digital-land index
+# $(COLLECTION_INDEX): $(LOG_FILES)
+# 	@mkdir -p $(INDEX_DIR)
+# 	digital-land index
 
-$(COLLECTION_INDEXES): $(COLLECTION_INDEX)
+# $(COLLECTION_INDEXES): $(COLLECTION_INDEX)
 
 #
 #  pipeline indexes
@@ -249,9 +248,9 @@ $(HARMONISED_DIR)%.csv: $(MAPPED_DIR)%.csv $(HARMONISE_DATA)
 	@mkdir -p $(HARMONISED_DIR) $(ISSUE_DIR)
 	digital-land harmonise $(PIPELINE_NAME) $< $@ $(ISSUE_DIR) $(SPECIFICATION_DIR) $(PIPELINE_DIR)
 
-$(TRANSFORMED_DIR)%.csv: $(HARMONISED_DIR)%.csv $(SCHEMA)
+$(TRANSFORMED_DIR)%.csv: $(HARMONISED_DIR)%.csv
 	@mkdir -p $(TRANSFORMED_DIR)
-	digital-land transform  $< $@ $(SCHEMA)
+	digital-land transform $(PIPELINE_NAME) $< $@ $(SPECIFICATION_DIR) $(PIPELINE_DIR)
 
 $(FIXED_CONVERTED_FILES):
 	@mkdir -p $(CONVERTED_DIR)

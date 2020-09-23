@@ -138,7 +138,7 @@ collect:
 
 # restart the make process to pick-up collected files
 second-pass:
-	@$(MAKE) --no-print-directory harmonise dataset
+	@$(MAKE) --no-print-directory harmonise
 
 validate: $(VALIDATION_FILES)
 	@:
@@ -158,25 +158,25 @@ harmonise: $(HARMONISED_FILES)
 transform: $(TRANSFORMED_FILES)
 	@:
 
-entries: $(NATIONAL_DATASET_ENTRIES) $(TRANSFORMED_FILES)
-	@:
+# entries: $(NATIONAL_DATASET_ENTRIES) $(TRANSFORMED_FILES)
+# 	@:
 
-dataset: $(NATIONAL_DATASET_RECORDS)
-	@:
+# dataset: $(NATIONAL_DATASET_RECORDS)
+# 	@:
 
-index: $(INDEXES)
-	@:
+# index: $(INDEXES)
+# 	@:
 
 #
 #  collection indexes
 #
-$(NATIONAL_DATASET_RECORDS): bin/dataset.py $(NATIONAL_DATASET_ENTRIES) $(SCHEMA)
-	@mkdir -p $(INDEX_DIR)
-	python3 bin/dataset.py $(NATIONAL_DATASET_ENTRIES) $@
+# $(NATIONAL_DATASET_RECORDS): bin/dataset.py $(NATIONAL_DATASET_ENTRIES) $(SCHEMA)
+# 	@mkdir -p $(INDEX_DIR)
+# 	python3 bin/dataset.py $(NATIONAL_DATASET_ENTRIES) $@
 
-$(NATIONAL_DATASET_ENTRIES): bin/entries.py $(TRANSFORMED_FILES) $(SCHEMA) index/resource-organisation.csv
-	@mkdir -p $(INDEX_DIR)
-	python3 bin/entries.py $(TRANSFORMED_DIR) $@
+# $(NATIONAL_DATASET_ENTRIES): bin/entries.py $(TRANSFORMED_FILES) $(SCHEMA) index/resource-organisation.csv
+# 	@mkdir -p $(INDEX_DIR)
+# 	python3 bin/entries.py $(TRANSFORMED_DIR) $@
 
 # $(COLLECTION_INDEX): $(LOG_FILES)
 # 	@mkdir -p $(INDEX_DIR)

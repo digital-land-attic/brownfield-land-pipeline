@@ -3,7 +3,8 @@ name: Run brownfield land pipeline
 on:
   push:
     paths-ignore:
-      - 'collection/**'
+      - 'collection/resource/**'
+      - 'collection/log/**'
       - 'index/**'
       - 'var/**'
     branches:

@@ -16,7 +16,7 @@ endpoint,endpoint-url,start-date,end-date
 035221aa7f7ff460fd08b3612e5c05b48d1fea1e2453d1e8f56e91ac93dc6ce9,https://www.lakedistrict.gov.uk/planning/planningpolicies/brownfield-land-register2/ldnpa_brownfieldregister_2017-12-14_rev1.csv,2017-12-14,
 035538e79df78d7564f052a0aa3c3fe2d4b12044fc49f9dec9ea12fe7f031098,https://www.newforestnpa.gov.uk/app/uploads/2018/01/npark_E26000009_brownfieldregister_Dec2018_v2.csv,,
 0355597adcbb22ab4cc1c8bd5933a7dfb369a291d126fae137e7236e6e6979ec,https://www.basildon.gov.uk/media/8751/Basildon-Council-Brownfield-Land-Register-Part-1-2018/CSV/Basildon_Council_-_Brownfield_Land_Register_Part_1_2018.csv,,
-03b5752813b86ef91819480eea702a652ef349adb0912df30542eb5b894e14f4,https://www.hyndburnbc.gov.uk/download-package/brownfield-register/?wpdmdl=5825&ind=Prkk2ws_DD_q0ukA1Dal-sw5Yx0GsOTba9GLOVfE16PqtB3Lu0Hx1LXFlGkQBGjwoRBHS7A3ynwJK0hQGReU5Q,,
+03b5752813b86ef91819480eea702a652ef349adb0912df30542eb5b894e14f4,https://www.hyndburnbc.gov.uk/download-package/brownfield-register/?wpdmdl=5825&ind=Prkk2ws_DD_q0ukA1Dal-sw5Yx0GsOTba9GLOVfE16PqtB3Lu0Hx1LXFlGkQBGjwoRBHS7A3ynwJK0hQGReU5Q,,2020-09-23
 045c64c77fe77a89d29ab26b93c831949e757554424b65e076fbd87f1e655887,https://www.lichfielddc.gov.uk/Inspire-data-sets/Lichfield%20District%20Council%20Brownfield%20Land%20Register/Brownfield%20Land%20Register%202017.csv,2017-12-21,2019-10-20
 0467425a3684994a47e296ad85459dbc12ac97ce7dec7cec16550cc185f2880d,https://www.north-herts.gov.uk/sites/northherts-cms/files/Brownfield%20Register%202018.csv,,
 047170c620072b1145c4f194f40aee64401ca3c86678beb73440c4573eb0e38e,http://www.scilly.gov.uk/sites/default/files/document/planning/Isles%20of%20Scilly%20Brownfield%20Land%20Register%20v1.0.xlsm,,
@@ -497,7 +497,7 @@ endpoint,endpoint-url,start-date,end-date
 94753774413ca9b612c348dd66ae7625c0ccf9080a982676e218a4c3be91fe4a,http://www.elmbridge.gov.uk/EasySiteWeb/GatewayLink.aspx?alId=4071,,2019-11-01
 948f012fb683a258df84f489f8262c921100e391833050b4c533b9f2b37393f8,https://maps.cheshireeast.gov.uk/ce/inspire/brownfield-land.csv,2019-12-20,
 95b7b491b16d9a7994cc0ff44a6f448e8186846471ce56bc2c86a112779c42a9,http://www.harlow.gov.uk/sites/harlow-cms/files/files/documents/files/harlow_brownfieldregister_2017-12-31_rev1.csv,2017-12-31,2019-12-05
-95eab64c5f102381ca7c14e3a0be0df38f54655b13e1e46a8588b02766521773,https://www.hyndburnbc.gov.uk/download-package/brownfield-register/?wpdmdl=5825&ind=dYo36xPUfWz-TJF8vWLWbWUMqXXsh0SLv8fl-iBwPXejcMGfPOdcYmQNhJcKLMv9AA08OTd6X-PkNCqMgAsE4w,2019-12-19,
+95eab64c5f102381ca7c14e3a0be0df38f54655b13e1e46a8588b02766521773,https://www.hyndburnbc.gov.uk/download-package/brownfield-register/?wpdmdl=5825&ind=dYo36xPUfWz-TJF8vWLWbWUMqXXsh0SLv8fl-iBwPXejcMGfPOdcYmQNhJcKLMv9AA08OTd6X-PkNCqMgAsE4w,2019-12-19,2020-09-23
 96154d3602791b6ff036cbb05ae9fd81078c75678f421a2378d4a8e41fa87d61,http://www.newforestnpa.gov.uk/app/uploads/2018/01/npark_E26000009_brownfieldregister_2017_12_20_rev5__002_.csv,2017-12-20,2019-10-20
 96b8cc3ae34d35209cc5a5260b99b041896b0108ea6a2fe78779b05e2b5849fa,http://www.newark-sherwooddc.gov.uk/media/newarkandsherwood/imagesandfiles/planningpolicy/pdfs/brownfieldlandregister/NewarkandSherwood_2017-12-20_rev3.xlsm,2017-12-20,
 977696313fc9d69121e07683c7f423c62ca7fa43f01715300abdcf24fa69038c,https://www.aylesburyvaledc.gov.uk/sites/default/files/page_downloads/aylesbury_vale_brownfield_register_2018-12-06_rev2.csv,2018-12-06,

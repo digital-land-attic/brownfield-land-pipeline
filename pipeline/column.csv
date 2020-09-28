@@ -28,13 +28,13 @@ brownfield-land,,SiteRefere,SiteReference
 brownfield-land,,Site reference,SiteReference
 brownfield-land,,"SiteReference (also SHLAA Reference)",SiteReference
 brownfield-land,,Site Ref,SiteReference
+brownfield-land,,Siteref,SiteReference
 brownfield-land,,Address,SiteNameAddress
 brownfield-land,,Location / Address,SiteNameAddress
 brownfield-land,,Location___Address,SiteNameAddress
 brownfield-land,,NAME AND ADDRESS OF SITE,SiteNameAddress
 brownfield-land,,Site Address,SiteNameAddress
 brownfield-land,,Site Name & Address,SiteNameAddress
-brownfield-land,,Site Name Address,SiteNameAddress
 brownfield-land,,"Site Name, Address",SiteNameAddress
 brownfield-land,,"Site Name, Address, Postcode",SiteNameAddress
 brownfield-land,,Site name/address,SiteNameAddress
@@ -75,6 +75,7 @@ brownfield-land,,SiteplanUR,SiteplanURL
 brownfield-land,,SiteplanURI,SiteplanURL
 brownfield-land,,Weblink,SiteplanURL
 brownfield-land,,AREA (HA),Hectares
+brownfield-land,,Area (ha),Hectares
 brownfield-land,,Area of Land in Hectares,Hectares
 brownfield-land,,Developable area (ha),Hectares
 brownfield-land,,Hectares (gross),Hectares
@@ -83,6 +84,7 @@ brownfield-land,,Site Area in ha,Hectares
 brownfield-land,,Site area (ha),Hectares
 brownfield-land,,Total area (Hectares),Hectares
 brownfield-land,,Total site area (hectares),Hectares
+brownfield-land,,Ownership,OwnershipStatus
 brownfield-land,,OwenrshipStatus,OwnershipStatus
 brownfield-land,,"Ownership: PA_owner, not PA_own., mixed_o'ship, unknown",OwnershipStatus
 brownfield-land,,"Hazardous Substances [as identifiied in Appl. form]",HazardousSubstances
@@ -91,15 +93,14 @@ brownfield-land,,PLANNING STATUS,PlanningStatus
 brownfield-land,,MINHOMES,MinNetDwellings
 brownfield-land,,Min dwellings,MinNetDwellings
 brownfield-land,,MINIMUM NET DWELLINGS,MinNetDwellings
+brownfield-land,,Minimum net dwellings,MinNetDwellings
+brownfield-land,,MinHomes,MinNetDwellings
 brownfield-land,,Max dwellings,NetDwellingsRangeTo
 brownfield-land,,MAXIMUM NET DWELLINGS,NetDwellingsRangeTo
-brownfield-land,,DevelopmentDescription,Notes
-brownfield-land,,SiteInformation,Notes
 brownfield-land,,Date first entered on the register,FirstAddedDate
 brownfield-land,,DATE ENTERED ON REGISTER,FirstAddedDate
 brownfield-land,,FirstAdded,FirstAddedDate
-brownfield-land,,First Added Date,FirstAddedDate
 brownfield-land,,LastUpdate,LastUpdatedDate
+brownfield-land,,Last Update,LastUpdatedDate
 brownfield-land,,DATE LAST UPDATED,LastUpdatedDate
 brownfield-land,,Date last updated on the register,LastUpdatedDate
-brownfield-land,,Last Updated Date,LastUpdatedDate

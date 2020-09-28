@@ -16,19 +16,25 @@ entries = []
 
 if __name__ == "__main__":
 
-    for row in csv.DictReader(open("index/resource-organisation.csv", newline="")):
-        resource_date[row["resource"]] = row["start-date"]
+    try:
+        for row in csv.DictReader(open("index/resource-organisation.csv", newline="")):
+            resource_date[row["resource"]] = row["start-date"]
 
-    for path in sorted(glob.glob(sys.argv[1] + "*.csv")):
-        for row in csv.DictReader(open(path, newline="")):
-            row["resource-date"] = resource_date[row["resource"]]
-            entries.append(row)
+        for path in sorted(glob.glob(sys.argv[1] + "*.csv")):
+            for row in csv.DictReader(open(path, newline="")):
+                row["resource-date"] = resource_date[row["resource"]]
+                entries.append(row)
 
-    schema = json.load(open("schema/brownfield-land.json"))
-    fieldnames = ["resource-date"] + schema["digital-land"]["fields"]
+        schema = json.load(open("schema/brownfield-land.json"))
+        fieldnames = ["resource-date"] + schema["digital-land"]["fields"]
 
-    writer = csv.DictWriter(open(sys.argv[2], "w", newline=""), fieldnames=fieldnames)
-    writer.writeheader()
+        writer = csv.DictWriter(open(sys.argv[2], "w", newline=""), fieldnames=fieldnames)
+        writer.writeheader()
 
-    for row in sorted(entries, key=lambda e: (e['resource-date'], e["entry-date"], e["organisation"], e["site"])):
-        writer.writerow(row)
+        for row in sorted(entries, key=lambda e: (e['resource-date'], e["entry-date"], e["organisation"], e["site"])):
+            writer.writerow(row)
+    except Exception as e:
+        print("-------------")
+        print(e)
+        print("-------------")
+        __import__('pdb').post_mortem()

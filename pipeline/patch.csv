@@ -3,6 +3,10 @@ brownfield-land,,,"^<*[Nn][Uu][Ll][Ll]>*$",
 brownfield-land,,,"^#*[Nn]/?[Aa]$",
 brownfield-land,,,"^\?*$",
 brownfield-land,,,"^-+$",
+brownfield-land,,GeoX,"(-?\d+\.\d+)w$","\1"
+brownfield-land,,GeoX,"(-?\d+\.\d+)\,$","\1"
+brownfield-land,3b08e37cd8d9263627609d72c3b2b2c6c0cfb3a120e42f0504ef45d158d674ea,GeoX,"(-?\d+\.\d+)\.(\d+)$","\1\2"
+brownfield-land,,GeoY,"(-?\d+\.\d+)n$","\1"
 brownfield-land,,Hectares,"(\S*)\s*[Hh]ectares?$","\1"
 brownfield-land,,Hectares,"(\S*)\s*ha$","\1"
 brownfield-land,,Deliverable,completed,

@@ -277,6 +277,7 @@ if __name__ == "__main__":
                 or resources[entry["resource"]]["end-date"] < date
             ):
                 resources[entry["resource"]]["end-date"] = date
+    __import__('pdb').set_trace()
 
     for resource in resources:
         if resources[resource].get("end-date", None) == last_date:

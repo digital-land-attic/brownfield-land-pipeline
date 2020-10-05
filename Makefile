@@ -238,19 +238,19 @@ $(CONVERTED_DIR)%.csv: $(RESOURCE_DIR)%
 
 $(NORMALISED_DIR)%.csv: $(CONVERTED_DIR)%.csv
 	@mkdir -p $(NORMALISED_DIR)
-	digital-land normalise $(PIPELINE_NAME) $< $@ $(PIPELINE_DIR)
+	digital-land normalise $(PIPELINE_NAME) $< $@
 
 $(MAPPED_DIR)%.csv: $(NORMALISED_DIR)%.csv $(PIPELINE_DIR)
 	@mkdir -p $(MAPPED_DIR)
-	digital-land map $(PIPELINE_NAME) $< $@ $(SPECIFICATION_DIR) $(PIPELINE_DIR)
+	digital-land map $(PIPELINE_NAME) $< $@
 
 $(HARMONISED_DIR)%.csv: $(MAPPED_DIR)%.csv $(HARMONISE_DATA)
 	@mkdir -p $(HARMONISED_DIR) $(ISSUE_DIR)
-	digital-land harmonise $(PIPELINE_NAME) $< $@ $(ISSUE_DIR) $(SPECIFICATION_DIR) $(PIPELINE_DIR)
+	digital-land harmonise $(PIPELINE_NAME) $< $@
 
 $(TRANSFORMED_DIR)%.csv: $(HARMONISED_DIR)%.csv
 	@mkdir -p $(TRANSFORMED_DIR)
-	digital-land transform $(PIPELINE_NAME) $< $@ $(SPECIFICATION_DIR) $(PIPELINE_DIR)
+	digital-land transform $(PIPELINE_NAME) $< $@
 
 $(FIXED_CONVERTED_FILES):
 	@mkdir -p $(CONVERTED_DIR)

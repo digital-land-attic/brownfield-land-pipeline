@@ -234,7 +234,7 @@ $(MAPPED_DATASET): $(MAPPED_FILES) bin/csvcat.sh bin/csvescape.py
 #
 $(CONVERTED_DIR)%.csv: $(RESOURCE_DIR)%
 	@mkdir -p $(CONVERTED_DIR)
-	digital-land convert  $< $@
+	digital-land convert $(PIPELINE_NAME) $< $@
 
 $(NORMALISED_DIR)%.csv: $(CONVERTED_DIR)%.csv
 	@mkdir -p $(NORMALISED_DIR)
@@ -254,7 +254,7 @@ $(TRANSFORMED_DIR)%.csv: $(HARMONISED_DIR)%.csv
 
 $(FIXED_CONVERTED_FILES):
 	@mkdir -p $(CONVERTED_DIR)
-	digital-land convert $(subst $(CONVERTED_DIR),$(FIXED_DIR),$@) $@
+	digital-land convert $(PIPELINE_NAME) $(subst $(CONVERTED_DIR),$(FIXED_DIR),$@) $@
 
 # local copies of registers
 $(CACHE_DIR)/organisation.csv:

@@ -234,27 +234,27 @@ $(MAPPED_DATASET): $(MAPPED_FILES) bin/csvcat.sh bin/csvescape.py
 #
 $(CONVERTED_DIR)%.csv: $(RESOURCE_DIR)%
 	@mkdir -p $(CONVERTED_DIR)
-	digital-land convert $(PIPELINE_NAME) $< $@
+	digital-land --pipeline-name $(PIPELINE_NAME) convert $< $@
 
 $(NORMALISED_DIR)%.csv: $(CONVERTED_DIR)%.csv
 	@mkdir -p $(NORMALISED_DIR)
-	digital-land normalise $(PIPELINE_NAME) $< $@
+	digital-land --pipeline-name $(PIPELINE_NAME) normalise $< $@
 
 $(MAPPED_DIR)%.csv: $(NORMALISED_DIR)%.csv $(PIPELINE_DIR)
 	@mkdir -p $(MAPPED_DIR)
-	digital-land map $(PIPELINE_NAME) $< $@
+	digital-land --pipeline-name $(PIPELINE_NAME) map $< $@
 
 $(HARMONISED_DIR)%.csv: $(MAPPED_DIR)%.csv $(HARMONISE_DATA)
 	@mkdir -p $(HARMONISED_DIR) $(ISSUE_DIR)
-	digital-land harmonise $(PIPELINE_NAME) $< $@
+	digital-land --pipeline-name $(PIPELINE_NAME) harmonise $< $@
 
 $(TRANSFORMED_DIR)%.csv: $(HARMONISED_DIR)%.csv
 	@mkdir -p $(TRANSFORMED_DIR)
-	digital-land transform $(PIPELINE_NAME) $< $@
+	digital-land --pipeline-name $(PIPELINE_NAME) transform $< $@
 
 $(FIXED_CONVERTED_FILES):
 	@mkdir -p $(CONVERTED_DIR)
-	digital-land convert $(PIPELINE_NAME) $(subst $(CONVERTED_DIR),$(FIXED_DIR),$@) $@
+	digital-land --pipeline-name $(PIPELINE_NAME) convert $(subst $(CONVERTED_DIR),$(FIXED_DIR),$@) $@
 
 # local copies of registers
 $(CACHE_DIR)/organisation.csv:

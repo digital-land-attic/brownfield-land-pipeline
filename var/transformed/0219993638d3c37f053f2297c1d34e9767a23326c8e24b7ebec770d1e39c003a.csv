@@ -1,262 +1,262 @@
-entry-date,organisation,site,site-address,site-plan-url,deliverable,ownership,planning-permission-status,planning-permission-type,hazardous-substances,latitude,longitude,hectares,minimum-net-dwellings,maximum-net-dwellings,start-date,end-date,notes,resource
-2017/12/19,local-authority-eng:PTE,PDL/0001/17,"Land To The Rear Of 105
+address,address-text,addressbase-custodian,amount,attribution,billing-authority,cardinality,category,census-area,citizen-name,citizen-names,clinical-commissioning-group,collection,combined-authority,company,conservation-area,contact,contribution-funding-status,contribution-purpose,copyright,country,dataset,datatype,datetime,default-field,deliverable,description,developer-agreement,developer-agreement-contribution,developer-agreement-transaction,developer-agreement-type,development-corporation,development-metric,development-plan,development-plan-document,development-plan-status,development-plan-timetable,development-plan-type,development-policies,development-policy,development-policy-area,development-policy-categories,development-policy-category,document,document-url,documentation-url,elapsed,end-date,endpoint,endpoint-url,entry-date,esd-inventory,field,fields,further-education-college-region-uk,further-education-college-uk,geography,geographies,geometry,government-domain,government-organisation,government-service,hash,hazardous-substances,hectares,hostname,identifier,internal-drainage-board,item,jobcentre,jobcentre-district,jobcentre-group,json,key-field,legal-instrument,legislation,licence,local-authority-eng,local-authority-nir,local-authority-sct,local-authority-type,local-resilience-forum,maximum-net-dwellings,minimum-net-dwellings,name,name-cy,national-park-authority,notes,number,official-name,official-name-cy,opendatacommunities-area,opendatacommunities-organisation,organisation,organisations,ownership-status,parameter,parameters,parent-field,pattern,phase,pipeline,planning-application,planning-permission-date,planning-permission-history,planning-permission-status,planning-permission-type,plugin,point,principal-local-authority,prison-estate,provenance,public-authority,purpose,region,regional-park-authority,register,registration-district,registry,replacement-field,request-headers,resource,response-headers,schema,school-type-eng,separator,shielding-hub,short-name,site,site-address,site-plan-url,source,specification,start-date,statistical-geographies,statistical-geography,statistical-geography-county-eng,statistical-geography-local-government-district-nir,statistical-geography-london-borough-eng,statistical-geography-metropolitan-district-eng,statistical-geography-non-metropolitan-district-eng,statistical-geography-registration-district-eng,statistical-geography-registration-district-wls,statistical-geography-unitary-authority-eng,statistical-geography-unitary-authority-wls,status,strategic,street,string,territory,text,transport-authority,twitter,typology,uk,units,url,value,website,wikidata-item
+,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,2017/12/19,,,,,,,,,,,,,,2.8,,,,,,,,,,,,,,,,,,8,8,,,,,,,,,,local-authority-eng:PTE,,,,,,,,,,2010-11-30,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=P0N3VCML0CW00,permissioned,full planning permission,,,,,,,,,,,,,,,,,,,,,,PDL/0001/17,"Land To The Rear Of 105
 Oxney Road
-Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0N3VCML0CW00,yes,,permissioned,full planning permission,,52.589761,-0.209359,2.8,8,8,2017/12/19,,,0219993638d3c37f053f2297c1d34e9767a23326c8e24b7ebec770d1e39c003a
-2017/12/19,local-authority-eng:PTE,PDL/0002/17,"16 - 18 Manor House Street
-Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0N4EVML0CW00,yes,,permissioned,full planning permission,,52.577342,-0.242821,0.7,6,6,2017/12/19,,,0219993638d3c37f053f2297c1d34e9767a23326c8e24b7ebec770d1e39c003a
-2017/12/19,local-authority-eng:PTE,PDL/0003/17,"3 - 7 Oxford Road
+Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0N3VCML0CW00,,,2017/12/19,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,2017/12/19,,,,,,,,,,,,,,0.7,,,,,,,,,,,,,,,,,,6,6,,,,,,,,,,local-authority-eng:PTE,,,,,,,,,,2016-11-16,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=P0N4EVML0CW00,permissioned,full planning permission,,,,,,,,,,,,,,,,,,,,,,PDL/0002/17,"16 - 18 Manor House Street
+Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0N4EVML0CW00,,,2017/12/19,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,2017/12/19,,,,,,,,,,,,,,1.3,,,,,,,,,,,,,,,,,,8,8,,,,,,,,,,local-authority-eng:PTE,,,,,,,,,,2016-07-08,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=P0N5U4ML0CW00,permissioned,full planning permission,,,,,,,,,,,,,,,,,,,,,,PDL/0003/17,"3 - 7 Oxford Road
 Millfield
 Peterborough
-PE1 3BL",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0N5U4ML0CW00,yes,,permissioned,full planning permission,,52.588264,-0.246281,1.3,8,8,2017/12/19,,,0219993638d3c37f053f2297c1d34e9767a23326c8e24b7ebec770d1e39c003a
-2017/12/19,local-authority-eng:PTE,PDL/0004/17,"38 Elm Street
+PE1 3BL",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0N5U4ML0CW00,,,2017/12/19,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,2017/12/19,,,,,,,,,,,,,,0.9,,,,,,,,,,,,,,,,,,10,10,,,,,,,,,,local-authority-eng:PTE,,,,,,,,,,2011-06-30,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=P0N6A0ML0CW00,permissioned,full planning permission,,,,,,,,,,,,,,,,,,,,,,PDL/0004/17,"38 Elm Street
 Woodston
-Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0N6A0ML0CW00,yes,,permissioned,full planning permission,,52.561333,-0.246721,0.9,10,10,2017/12/19,,,0219993638d3c37f053f2297c1d34e9767a23326c8e24b7ebec770d1e39c003a
-2017/12/19,local-authority-eng:PTE,PDL/0005/17,"659 Lincoln Road
+Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0N6A0ML0CW00,,,2017/12/19,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,2017/12/19,,,,,,,,,,,,,,1.9,,,,,,,,,,,,,,,,,,23,23,,,,,,,,,,local-authority-eng:PTE,,,,,,,,,,2007-06-28,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=P0N7BTML0CW00,permissioned,full planning permission,,,,,,,,,,,,,,,,,,,,,,PDL/0005/17,"659 Lincoln Road
 Peterborough
-PE1 3HA",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0N7BTML0CW00,yes,,permissioned,full planning permission,,52.59383,-0.256084,1.9,23,23,2017/12/19,,,0219993638d3c37f053f2297c1d34e9767a23326c8e24b7ebec770d1e39c003a
-2017/12/19,local-authority-eng:PTE,PDL/0006/17,"78 High Street
+PE1 3HA",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0N7BTML0CW00,,,2017/12/19,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,2017/12/19,,,,,,,,,,,,,,1.9,,,,,,,,,,,,,,,,,,5,5,,,,,,,,,,local-authority-eng:PTE,,,,,,,,,,2009-11-25,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=P0N7JDML0CW00,permissioned,full planning permission,,,,,,,,,,,,,,,,,,,,,,PDL/0006/17,"78 High Street
 Eye
 Peterborough
-PE6 7UY",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0N7JDML0CW00,yes,,permissioned,full planning permission,,52.608586,-0.193822,1.9,5,5,2017/12/19,,,0219993638d3c37f053f2297c1d34e9767a23326c8e24b7ebec770d1e39c003a
-2017/12/19,local-authority-eng:PTE,PDL/0007/17,"83 Oxney Road
+PE6 7UY",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0N7JDML0CW00,,,2017/12/19,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,2017/12/19,,,,,,,,,,,,,,1.6,,,,,,,,,,,,,,,,,,5,5,,,,,,,,,,local-authority-eng:PTE,,,,,,,,,,2016-10-19,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=P0N7O9ML0CW00,permissioned,outline planning permission,,,,,,,,,,,,,,,,,,,,,,PDL/0007/17,"83 Oxney Road
 Peterborough
-PE1 5NG",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0N7O9ML0CW00,yes,,permissioned,outline planning permission,,52.588917,-0.2118,1.6,5,5,2017/12/19,,,0219993638d3c37f053f2297c1d34e9767a23326c8e24b7ebec770d1e39c003a
-2017/12/19,local-authority-eng:PTE,PDL/0008/17,"85 Park Road
-Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0N8E2ML0CW00,yes,,permissioned,other,,52.578003,-0.241319,0.3,6,6,2017/12/19,,,0219993638d3c37f053f2297c1d34e9767a23326c8e24b7ebec770d1e39c003a
-2017/12/19,local-authority-eng:PTE,PDL/0009/17,"Land Adjacent To 39-41 Station Road
+PE1 5NG",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0N7O9ML0CW00,,,2017/12/19,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,2017/12/19,,,,,,,,,,,,,,0.3,,,,,,,,,,,,,,,,,,6,6,,,,,,,,,,local-authority-eng:PTE,,,,,,,,,,2016-11-23,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=P0N8E2ML0CW00,permissioned,other,,,,,,,,,,,,,,,,,,,,,,PDL/0008/17,"85 Park Road
+Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0N8E2ML0CW00,,,2017/12/19,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,2017/12/19,,,,,,,,,,,,,,4.7,,,,,,,,,,,,,,,,,,9,9,,,,,,,,,,local-authority-eng:PTE,,,,,,,,,,2017-01-30,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=P0N8LYML0CW00,permissioned,reserved matters approval,,,,,,,,,,,,,,,,,,,,,,PDL/0009/17,"Land Adjacent To 39-41 Station Road
 Thorney
-Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0N8LYML0CW00,yes,,permissioned,reserved matters approval,,52.624409,-0.10739,4.7,9,9,2017/12/19,,,0219993638d3c37f053f2297c1d34e9767a23326c8e24b7ebec770d1e39c003a
-2017/12/19,local-authority-eng:PTE,PDL/0010/17,"British Sugar
+Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0N8LYML0CW00,,,2017/12/19,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,2017/12/19,,,,,,,,,,,,,,24.6,,,,,,,,,,,,,,,,,,70,70,,,,,,,,,,local-authority-eng:PTE,,,,,,,,,,,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=P0N92GML0CW00,Not permissioned,,,,,,,,,,,,,,,,,,,,,,,PDL/0010/17,"British Sugar
 Oundle Road
 Woodston
 Peterborough
-PE2 9AY",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0N92GML0CW00,yes,,Not permissioned,,,52.563163,-0.259204,24.6,70,70,2017/12/19,,,0219993638d3c37f053f2297c1d34e9767a23326c8e24b7ebec770d1e39c003a
-2017/12/19,local-authority-eng:PTE,PDL/0011/17,"Car Park
+PE2 9AY",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0N92GML0CW00,,,2017/12/19,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,2017/12/19,,,,,,,,,,,,,,10,,,,,,,,,,,,,,,,,,16,16,,,,,,,,,,local-authority-eng:PTE,,,,,,,,,,2017-02-22,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=P0N9FVML0CW00,permissioned,full planning permission,,,,,,,,,,,,,,,,,,,,,,PDL/0011/17,"Car Park
 Hampton Court
 Westwood
-Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0N9FVML0CW00,yes,,permissioned,full planning permission,,52.590774,-0.268429,10,16,16,2017/12/19,,,0219993638d3c37f053f2297c1d34e9767a23326c8e24b7ebec770d1e39c003a
-2017/12/19,local-authority-eng:PTE,PDL/0012/17,"Coneygree Lodge
+Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0N9FVML0CW00,,,2017/12/19,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,2017/12/19,,,,,,,,,,,,,,3.5,,,,,,,,,,,,,,,,,,14,14,,,,,,,,,,local-authority-eng:PTE,,,,,,,,,,2013-08-29,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=P0N9N0ML0CW00,permissioned,full planning permission,,,,,,,,,,,,,,,,,,,,,,PDL/0012/17,"Coneygree Lodge
 Coneygree Road
 Stanground
-Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0N9N0ML0CW00,yes,,permissioned,full planning permission,,52.557718,-0.223749,3.5,14,14,2017/12/19,,,0219993638d3c37f053f2297c1d34e9767a23326c8e24b7ebec770d1e39c003a
-2017/12/19,local-authority-eng:PTE,PDL/0014/17,"Land At
+Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0N9N0ML0CW00,,,2017/12/19,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,2017/12/19,,,,,,,,,,,,,,67.9,,,,,,,,,,,,,,,,,,100,100,,,,,,,,,,local-authority-eng:PTE,,,,,,,,,,,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=P0NEXAML0CW00,Not permissioned,,,,,,,,,,,,,,,,,,,,,,,PDL/0014/17,"Land At
 East Station Road
 Fletton Quays
-Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0NEXAML0CW00,yes,,Not permissioned,,,52.566973,-0.238381,67.9,100,100,2017/12/19,,,0219993638d3c37f053f2297c1d34e9767a23326c8e24b7ebec770d1e39c003a
-2017/12/19,local-authority-eng:PTE,PDL/0015/17,"1 Grove Street
+Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0NEXAML0CW00,,,2017/12/19,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,2017/12/19,,,,,,,,,,,,,,0.7,,,,,,,,,,,,,,,,,,6,6,,,,,,,,,,local-authority-eng:PTE,,,,,,,,,,2015-07-31,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=O8CN74ML0CW00,permissioned,outline planning permission,,,,,,,,,,,,,,,,,,,,,,PDL/0015/17,"1 Grove Street
 Woodston
 Peterborough
-PE2 9AG",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O8CN74ML0CW00,yes,,permissioned,outline planning permission,,52.563682,-0.247483,0.7,6,6,2017/12/19,,,0219993638d3c37f053f2297c1d34e9767a23326c8e24b7ebec770d1e39c003a
-2017/12/19,local-authority-eng:PTE,PDL/0016/17,"Former John Mansfield School Remote Playing Field
+PE2 9AG",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O8CN74ML0CW00,,,2017/12/19,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,2017/12/19,,,,,,,,,,,,,,40.6,,,,,,,,,,,,,,,,,,116,116,,,,,,,,,,local-authority-eng:PTE,,,,,,,,,,2017-11-03,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=P0NFZ2ML0CW00,permissioned,full planning permission,,,,,,,,,,,,,,,,,,,,,,PDL/0016/17,"Former John Mansfield School Remote Playing Field
 Poplar Avenue
 Dogsthorpe
-Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0NFZ2ML0CW00,yes,,permissioned,full planning permission,,52.6017,-0.226607,40.6,116,116,2017/12/19,,,0219993638d3c37f053f2297c1d34e9767a23326c8e24b7ebec770d1e39c003a
-2017/12/19,local-authority-eng:PTE,PDL/0017/17,"Land To The West Of
+Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0NFZ2ML0CW00,,,2017/12/19,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,2017/12/19,,,,,,,,,,,,,,745.3,,,,,,,,,,,,,,,,,,2349,2349,,,,,,,,,,local-authority-eng:PTE,,,,,,,,,,1993-03-09,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=O851BHML0CW00,permissioned,outline planning permission,,,,,,,,,,,,,,,,,,,,,,PDL/0017/17,"Land To The West Of
 London Road
-Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O851BHML0CW00,yes,,permissioned,outline planning permission,,52.531007,-0.263837,745.3,2349,2349,2017/12/19,,,0219993638d3c37f053f2297c1d34e9767a23326c8e24b7ebec770d1e39c003a
-2017/12/19,local-authority-eng:PTE,PDL/0018/17,"Johnston Publishing
+Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O851BHML0CW00,,,2017/12/19,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,2017/12/19,,,,,,,,,,,,,,30.5,,,,,,,,,,,,,,,,,,86,86,,,,,,,,,,local-authority-eng:PTE,,,,,,,,,,2015-04-02,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=O879GOML0CW00,permissioned,full planning permission,,,,,,,,,,,,,,,,,,,,,,PDL/0018/17,"Johnston Publishing
 Oundle Road
 Woodston
 Peterborough
-PE2 9QR",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O879GOML0CW00,yes,,permissioned,full planning permission,,52.560637,-0.259835,30.5,86,86,2017/12/19,,,0219993638d3c37f053f2297c1d34e9767a23326c8e24b7ebec770d1e39c003a
-2017/12/19,local-authority-eng:PTE,PDL/0019/17,"117 Park Road
+PE2 9QR",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O879GOML0CW00,,,2017/12/19,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,2017/12/19,,,,,,,,,,,,,,1.1,,,,,,,,,,,,,,,,,,24,24,,,,,,,,,,local-authority-eng:PTE,,,,,,,,,,2016-07-05,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=O859STML0CW00,permissioned,other,,,,,,,,,,,,,,,,,,,,,,PDL/0019/17,"117 Park Road
 Peterborough
-PE1 2TR",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O859STML0CW00,yes,,permissioned,other,,52.5794,-0.240333,1.1,24,24,2017/12/19,,,0219993638d3c37f053f2297c1d34e9767a23326c8e24b7ebec770d1e39c003a
-2017/12/19,local-authority-eng:PTE,PDL/0020/17,"143 Oundle Road
+PE1 2TR",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O859STML0CW00,,,2017/12/19,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,2017/12/19,,,,,,,,,,,,,,1.3,,,,,,,,,,,,,,,,,,10,10,,,,,,,,,,local-authority-eng:PTE,,,,,,,,,,2015-01-12,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=O8CMQXML0CW00,permissioned,full planning permission,,,,,,,,,,,,,,,,,,,,,,PDL/0020/17,"143 Oundle Road
 Woodston
 Peterborough
-PE2 9PW",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O8CMQXML0CW00,yes,,permissioned,full planning permission,,52.565333,-0.252744,1.3,10,10,2017/12/19,,,0219993638d3c37f053f2297c1d34e9767a23326c8e24b7ebec770d1e39c003a
-2017/12/19,local-authority-eng:PTE,PDL/0021/17,"28 - 30 Priestgate
+PE2 9PW",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O8CMQXML0CW00,,,2017/12/19,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,2017/12/19,,,,,,,,,,,,,,1.2,,,,,,,,,,,,,,,,,,8,8,,,,,,,,,,local-authority-eng:PTE,,,,,,,,,,2015-07-09,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=O8CMX5ML0CW00,permissioned,full planning permission,,,,,,,,,,,,,,,,,,,,,,PDL/0021/17,"28 - 30 Priestgate
 Peterborough
-PE1 1JA",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O8CMX5ML0CW00,yes,,permissioned,full planning permission,,52.571618,-0.244806,1.2,8,8,2017/12/19,,,0219993638d3c37f053f2297c1d34e9767a23326c8e24b7ebec770d1e39c003a
-2017/12/19,local-authority-eng:PTE,PDL/0022/17,"48-50 Jubilee Street
+PE1 1JA",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O8CMX5ML0CW00,,,2017/12/19,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,2017/12/19,,,,,,,,,,,,,,1.5,,,,,,,,,,,,,,,,,,8,8,,,,,,,,,,local-authority-eng:PTE,,,,,,,,,,2016-06-03,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=O8CMKRML0CW00,permissioned,full planning permission,,,,,,,,,,,,,,,,,,,,,,PDL/0022/17,"48-50 Jubilee Street
 Woodston
 Peterborough
-PE2 9PH",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O8CMKRML0CW00,yes,,permissioned,full planning permission,,52.567202,-0.250235,1.5,8,8,2017/12/19,,,0219993638d3c37f053f2297c1d34e9767a23326c8e24b7ebec770d1e39c003a
-2017/12/19,local-authority-eng:PTE,PDL/0023/17,"88 Lincoln Road
+PE2 9PH",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O8CMKRML0CW00,,,2017/12/19,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,2017/12/19,,,,,,,,,,,,,,2.2,,,,,,,,,,,,,,,,,,26,26,,,,,,,,,,local-authority-eng:PTE,,,,,,,,,,2015-10-15,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=O8CLBPML0CW00,permissioned,full planning permission,,,,,,,,,,,,,,,,,,,,,,PDL/0023/17,"88 Lincoln Road
 Peterborough
-PE1 2SN",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O8CLBPML0CW00,yes,,permissioned,full planning permission,,52.579717,-0.244143,2.2,26,26,2017/12/19,,,0219993638d3c37f053f2297c1d34e9767a23326c8e24b7ebec770d1e39c003a
-2017/12/19,local-authority-eng:PTE,PDL/0024/17,"Car Park
+PE1 2SN",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O8CLBPML0CW00,,,2017/12/19,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,2017/12/19,,,,,,,,,,,,,,13.1,,,,,,,,,,,,,,,,,,25,25,,,,,,,,,,local-authority-eng:PTE,,,,,,,,,,,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=O5H4WAML0CW00,Not permissioned,,,,,,,,,,,,,,,,,,,,,,,PDL/0024/17,"Car Park
 Bishops Road
 Eastgate
-Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O5H4WAML0CW00,yes,,Not permissioned,,,52.57045,-0.237032,13.1,25,25,2017/12/19,,,0219993638d3c37f053f2297c1d34e9767a23326c8e24b7ebec770d1e39c003a
-2017/12/19,local-authority-eng:PTE,PDL/0025/17,"Bushfield House
+Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O5H4WAML0CW00,,,2017/12/19,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,2017/12/19,,,,,,,,,,,,,,5,,,,,,,,,,,,,,,,,,24,24,,,,,,,,,,local-authority-eng:PTE,,,,,,,,,,2014-01-31,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=O85CV6ML0CW00,permissioned,other,,,,,,,,,,,,,,,,,,,,,,PDL/0025/17,"Bushfield House
 Bushfield
 Orton Goldhay
 Peterborough
-PE2 5RQ",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O85CV6ML0CW00,yes,,permissioned,other,,52.544474,-0.302799,5,24,24,2017/12/19,,,0219993638d3c37f053f2297c1d34e9767a23326c8e24b7ebec770d1e39c003a
-2017/12/19,local-authority-eng:PTE,PDL/0026/17,"Cranmore House
+PE2 5RQ",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O85CV6ML0CW00,,,2017/12/19,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,2017/12/19,,,,,,,,,,,,,,9.5,,,,,,,,,,,,,,,,,,14,14,,,,,,,,,,local-authority-eng:PTE,,,,,,,,,,2015-04-02,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=O876QLML0CW00,permissioned,outline planning permission,,,,,,,,,,,,,,,,,,,,,,PDL/0026/17,"Cranmore House
 Thorney Road
 Eye
 Peterborough
-PE6 7UB",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O876QLML0CW00,yes,,permissioned,outline planning permission,,52.611064,-0.180117,9.5,14,14,2017/12/19,,,0219993638d3c37f053f2297c1d34e9767a23326c8e24b7ebec770d1e39c003a
-2017/12/19,local-authority-eng:PTE,PDL/0027/17,"Depot
+PE6 7UB",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O876QLML0CW00,,,2017/12/19,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,2017/12/19,,,,,,,,,,,,,,1.8,,,,,,,,,,,,,,,,,,6,6,,,,,,,,,,local-authority-eng:PTE,,,,,,,,,,2015-10-01,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=O8CM8BML0CW00,permissioned,full planning permission,,,,,,,,,,,,,,,,,,,,,,PDL/0027/17,"Depot
 Church Road
 Wittering
-Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O8CM8BML0CW00,yes,,permissioned,full planning permission,,52.608581,-0.44572,1.8,6,6,2017/12/19,,,0219993638d3c37f053f2297c1d34e9767a23326c8e24b7ebec770d1e39c003a
-2017/12/19,local-authority-eng:PTE,PDL/0028/17,"Dickens Street Car Park
+Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O8CM8BML0CW00,,,2017/12/19,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,2017/12/19,,,,,,,,,,,,,,6.4,,,,,,,,,,,,,,,,,,30,30,,,,,,,,,,local-authority-eng:PTE,,,,,,,,,,,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=O5TW9KML0CW00,Not permissioned,,,,,,,,,,,,,,,,,,,,,,,PDL/0028/17,"Dickens Street Car Park
 Dickens Street
 Eastfield
-Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O5TW9KML0CW00,yes,,Not permissioned,,,52.577345,-0.233966,6.4,30,30,2017/12/19,,,0219993638d3c37f053f2297c1d34e9767a23326c8e24b7ebec770d1e39c003a
-2017/12/19,local-authority-eng:PTE,PDL/0029/17,"Fletton Quays
+Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O5TW9KML0CW00,,,2017/12/19,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,2017/12/19,,,,,,,,,,,,,,22.4,,,,,,,,,,,,,,,,,,280,280,,,,,,,,,,local-authority-eng:PTE,,,,,,,,,,2016-10-27,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=O875DVML0CW00,permissioned,reserved matters approval,,,,,,,,,,,,,,,,,,,,,,PDL/0029/17,"Fletton Quays
 Land At East Station Road
-Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O875DVML0CW00,yes,,permissioned,reserved matters approval,,52.566973,-0.238381,22.4,280,280,2017/12/19,,,0219993638d3c37f053f2297c1d34e9767a23326c8e24b7ebec770d1e39c003a
-2017/12/19,local-authority-eng:PTE,PDL/0030/17,"Former Coal Yard
+Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O875DVML0CW00,,,2017/12/19,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,2017/12/19,,,,,,,,,,,,,,1.4,,,,,,,,,,,,,,,,,,7,7,,,,,,,,,,local-authority-eng:PTE,,,,,,,,,,2014-03-06,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=O85E1CML0CW00,permissioned,outline planning permission,,,,,,,,,,,,,,,,,,,,,,PDL/0030/17,"Former Coal Yard
 River Lane
-Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O85E1CML0CW00,yes,,permissioned,outline planning permission,,52.570474,-0.248924,1.4,7,7,2017/12/19,,,0219993638d3c37f053f2297c1d34e9767a23326c8e24b7ebec770d1e39c003a
-2017/12/19,local-authority-eng:PTE,PDL/0031/17,"Former Peterborough District Hospital
+Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O85E1CML0CW00,,,2017/12/19,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,2017/12/19,,,,,,,,,,,,,,93,,,,,,,,,,,,,,,,,,287,287,,,,,,,,,,local-authority-eng:PTE,,,,,,,,,,2014-10-31,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=O86YY7ML0CW00,permissioned,outline planning permission,,,,,,,,,,,,,,,,,,,,,,PDL/0031/17,"Former Peterborough District Hospital
 Thorpe Road
-Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O86YY7ML0CW00,yes,,permissioned,outline planning permission,,52.573687,-0.25464,93,287,287,2017/12/19,,,0219993638d3c37f053f2297c1d34e9767a23326c8e24b7ebec770d1e39c003a
-2017/12/19,local-authority-eng:PTE,PDL/0032/17,"Former Peterborough District Hospital
+Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O86YY7ML0CW00,,,2017/12/19,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,2017/12/19,,,,,,,,,,,,,,2.5,,,,,,,,,,,,,,,,,,7,7,,,,,,,,,,local-authority-eng:PTE,,,,,,,,,,2015-12-04,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=P0SR9ZML0CW00,permissioned,outline planning permission,,,,,,,,,,,,,,,,,,,,,,PDL/0032/17,"Former Peterborough District Hospital
 Thorpe Road
-Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0SR9ZML0CW00,yes,,permissioned,outline planning permission,,52.573687,-0.25464,2.5,7,7,2017/12/19,,,0219993638d3c37f053f2297c1d34e9767a23326c8e24b7ebec770d1e39c003a
-2017/12/19,local-authority-eng:PTE,PDL/0033/17,"Former Peterborough District Hospital
+Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0SR9ZML0CW00,,,2017/12/19,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,2017/12/19,,,,,,,,,,,,,,9.5,,,,,,,,,,,,,,,,,,43,43,,,,,,,,,,local-authority-eng:PTE,,,,,,,,,,2016-07-22,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=P0SRGOML0CW00,permissioned,reserved matters approval,,,,,,,,,,,,,,,,,,,,,,PDL/0033/17,"Former Peterborough District Hospital
 Thorpe Road
-Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0SRGOML0CW00,yes,,permissioned,reserved matters approval,,52.573687,-0.25464,9.5,43,43,2017/12/19,,,0219993638d3c37f053f2297c1d34e9767a23326c8e24b7ebec770d1e39c003a
-2017/12/19,local-authority-eng:PTE,PDL/0034/17,"Former Peterborough District Hospital
+Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0SRGOML0CW00,,,2017/12/19,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,2017/12/19,,,,,,,,,,,,,,17,,,,,,,,,,,,,,,,,,76,76,,,,,,,,,,local-authority-eng:PTE,,,,,,,,,,2017-03-10,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=P0SRRMML0CW00,permissioned,outline planning permission,,,,,,,,,,,,,,,,,,,,,,PDL/0034/17,"Former Peterborough District Hospital
 Thorpe Road
-Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0SRRMML0CW00,yes,,permissioned,outline planning permission,,52.573687,-0.25464,17,76,76,2017/12/19,,,0219993638d3c37f053f2297c1d34e9767a23326c8e24b7ebec770d1e39c003a
-2017/12/19,local-authority-eng:PTE,PDL/0035/17,"Former Peterborough District Hospital
+Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0SRRMML0CW00,,,2017/12/19,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,2017/12/19,,,,,,,,,,,,,,25,,,,,,,,,,,,,,,,,,56,56,,,,,,,,,,local-authority-eng:PTE,,,,,,,,,,2016-02-26,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=P0SS0MML0CW00,permissioned,reserved matters approval,,,,,,,,,,,,,,,,,,,,,,PDL/0035/17,"Former Peterborough District Hospital
 Thorpe Road
-Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0SS0MML0CW00,yes,,permissioned,reserved matters approval,,52.573687,-0.25464,25,56,56,2017/12/19,,,0219993638d3c37f053f2297c1d34e9767a23326c8e24b7ebec770d1e39c003a
-2017/12/19,local-authority-eng:PTE,PDL/0036/17,"Mega Car Centre
+Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0SS0MML0CW00,,,2017/12/19,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,2017/12/19,,,,,,,,,,,,,,6.7,,,,,,,,,,,,,,,,,,29,29,,,,,,,,,,local-authority-eng:PTE,,,,,,,,,,2014-08-07,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=O85FHTML0CW00,permissioned,full planning permission,,,,,,,,,,,,,,,,,,,,,,PDL/0036/17,"Mega Car Centre
 Midland Road
 West Town
-Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O85FHTML0CW00,yes,,permissioned,full planning permission,,52.574379,-0.252783,6.7,29,29,2017/12/19,,,0219993638d3c37f053f2297c1d34e9767a23326c8e24b7ebec770d1e39c003a
-2017/12/19,local-authority-eng:PTE,PDL/0037/17,"Great Northern Railway Hotel
+Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O85FHTML0CW00,,,2017/12/19,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,2017/12/19,,,,,,,,,,,,,,7.5,,,,,,,,,,,,,,,,,,6,6,,,,,,,,,,local-authority-eng:PTE,,,,,,,,,,2015-03-13,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=O8790WML0CW00,permissioned,outline planning permission,,,,,,,,,,,,,,,,,,,,,,PDL/0037/17,"Great Northern Railway Hotel
 Station Road
 Peterborough
-PE1 1QL",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O8790WML0CW00,yes,,permissioned,outline planning permission,,52.574684,-0.249125,7.5,6,6,2017/12/19,,,0219993638d3c37f053f2297c1d34e9767a23326c8e24b7ebec770d1e39c003a
-2017/12/19,local-authority-eng:PTE,PDL/0038/17,"Guthrie House
+PE1 1QL",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O8790WML0CW00,,,2017/12/19,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,2017/12/19,,,,,,,,,,,,,,1.5,,,,,,,,,,,,,,,,,,13,13,,,,,,,,,,local-authority-eng:PTE,,,,,,,,,,2015-04-01,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=P0SSU7ML0CW00,permissioned,full planning permission,,,,,,,,,,,,,,,,,,,,,,PDL/0038/17,"Guthrie House
 Rightwell East
 Bretton
-Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0SSU7ML0CW00,yes,,permissioned,full planning permission,,52.588223,-0.28338,1.5,13,13,2017/12/19,,,0219993638d3c37f053f2297c1d34e9767a23326c8e24b7ebec770d1e39c003a
-2017/12/19,local-authority-eng:PTE,PDL/0039/17,"Guthrie House
+Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0SSU7ML0CW00,,,2017/12/19,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,2017/12/19,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,5,5,,,,,,,,,,local-authority-eng:PTE,,,,,,,,,,2013-11-21,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=P0SSYHML0CW00,permissioned,other,,,,,,,,,,,,,,,,,,,,,,PDL/0039/17,"Guthrie House
 Rightwell East
 Bretton
-Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0SSYHML0CW00,yes,,permissioned,other,,52.588223,-0.28338,1,5,5,2017/12/19,,,0219993638d3c37f053f2297c1d34e9767a23326c8e24b7ebec770d1e39c003a
-2017/12/19,local-authority-eng:PTE,PDL/0040/17,"Hampton Leys
+Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0SSYHML0CW00,,,2017/12/19,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,2017/12/19,,,,,,,,,,,,,,276.4,,,,,,,,,,,,,,,,,,866,866,,,,,,,,,,local-authority-eng:PTE,,,,,,,,,,2016-09-16,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=P0STEFML0CW00,permissioned,reserved matters approval,,,,,,,,,,,,,,,,,,,,,,PDL/0040/17,"Hampton Leys
 London Road
-Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0STEFML0CW00,yes,,permissioned,reserved matters approval,,52.537699,-0.249963,276.4,866,866,2017/12/19,,,0219993638d3c37f053f2297c1d34e9767a23326c8e24b7ebec770d1e39c003a
-2017/12/19,local-authority-eng:PTE,PDL/0041/17,"Land To The South Of Tranche VG9
+Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0STEFML0CW00,,,2017/12/19,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,2017/12/19,,,,,,,,,,,,,,166,,,,,,,,,,,,,,,,,,350,350,,,,,,,,,,local-authority-eng:PTE,,,,,,,,,,2015-06-19,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=O873YNML0CW00,permissioned,outline planning permission,,,,,,,,,,,,,,,,,,,,,,PDL/0041/17,"Land To The South Of Tranche VG9
 County Road
 Hampton Vale
-Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O873YNML0CW00,yes,,permissioned,outline planning permission,,52.527611,-0.278742,166,350,350,2017/12/19,,,0219993638d3c37f053f2297c1d34e9767a23326c8e24b7ebec770d1e39c003a
-2017/12/19,local-authority-eng:PTE,PDL/0042/17,"Hempsted Parcel - NC1, NC3, NC4
+Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O873YNML0CW00,,,2017/12/19,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,2017/12/19,,,,,,,,,,,,,,18.6,,,,,,,,,,,,,,,,,,65,65,,,,,,,,,,local-authority-eng:PTE,,,,,,,,,,,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=O5TZYUML0CW00,Not permissioned,,,,,,,,,,,,,,,,,,,,,,,PDL/0042/17,"Hempsted Parcel - NC1, NC3, NC4
 Hicks Lane
 Woodston
 Peterborough
-PE7 0LL",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O5TZYUML0CW00,yes,,Not permissioned,,,52.55103,-0.246129,18.6,65,65,2017/12/19,,,0219993638d3c37f053f2297c1d34e9767a23326c8e24b7ebec770d1e39c003a
-2017/12/19,local-authority-eng:PTE,PDL/0043/17,"Hampton Vale Allotments
+PE7 0LL",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O5TZYUML0CW00,,,2017/12/19,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,2017/12/19,,,,,,,,,,,,,,37.8,,,,,,,,,,,,,,,,,,125,125,,,,,,,,,,local-authority-eng:PTE,,,,,,,,,,2015-04-10,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=P0SUS0ML0CW00,permissioned,full planning permission,,,,,,,,,,,,,,,,,,,,,,PDL/0043/17,"Hampton Vale Allotments
 Coriander Drive
 Hampton Vale
-Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0SUS0ML0CW00,yes,,permissioned,full planning permission,,52.529036,-0.28591,37.8,125,125,2017/12/19,,,0219993638d3c37f053f2297c1d34e9767a23326c8e24b7ebec770d1e39c003a
-2017/12/19,local-authority-eng:PTE,PDL/0044/17,"Land At
+Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0SUS0ML0CW00,,,2017/12/19,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,2017/12/19,,,,,,,,,,,,,,33.6,,,,,,,,,,,,,,,,,,55,55,,,,,,,,,,local-authority-eng:PTE,,,,,,,,,,2014-10-16,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=O8753ZML0CW00,permissioned,outline planning permission,,,,,,,,,,,,,,,,,,,,,,PDL/0044/17,"Land At
 Guilsborough Road
 Eye Green
-Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O8753ZML0CW00,yes,,permissioned,outline planning permission,,52.612981,-0.183124,33.6,55,55,2017/12/19,,,0219993638d3c37f053f2297c1d34e9767a23326c8e24b7ebec770d1e39c003a
-2017/12/19,local-authority-eng:PTE,PDL/0045/17,"Hempsted Opportunity Area
+Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O8753ZML0CW00,,,2017/12/19,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,2017/12/19,,,,,,,,,,,,,,2.5,,,,,,,,,,,,,,,,,,15,15,,,,,,,,,,local-authority-eng:PTE,,,,,,,,,,2016-11-25,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=O5TZPZML0CW00,permissioned,outline planning permission,,,,,,,,,,,,,,,,,,,,,,PDL/0045/17,"Hempsted Opportunity Area
 London Road
-Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O5TZPZML0CW00,yes,,permissioned,outline planning permission,,52.552393,-0.247712,2.5,15,15,2017/12/19,,,0219993638d3c37f053f2297c1d34e9767a23326c8e24b7ebec770d1e39c003a
-2017/12/19,local-authority-eng:PTE,PDL/0046/17,"Land To The North Of
+Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O5TZPZML0CW00,,,2017/12/19,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,2017/12/19,,,,,,,,,,,,,,13.4,,,,,,,,,,,,,,,,,,45,45,,,,,,,,,,local-authority-eng:PTE,,,,,,,,,,2016-10-27,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=P0UKDDML0CW00,permissioned,full planning permission,,,,,,,,,,,,,,,,,,,,,,PDL/0046/17,"Land To The North Of
 Brickburn Close
 Hampton Centre
-Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0UKDDML0CW00,yes,,permissioned,full planning permission,,52.537378,-0.258071,13.4,45,45,2017/12/19,,,0219993638d3c37f053f2297c1d34e9767a23326c8e24b7ebec770d1e39c003a
-2017/12/19,local-authority-eng:PTE,PDL/0047/17,"Hempsted Opportunity Area
+Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0UKDDML0CW00,,,2017/12/19,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,2017/12/19,,,,,,,,,,,,,,34.6,,,,,,,,,,,,,,,,,,95,95,,,,,,,,,,local-authority-eng:PTE,,,,,,,,,,2016-03-16,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=P0UKK1ML0CW00,permissioned,full planning permission,,,,,,,,,,,,,,,,,,,,,,PDL/0047/17,"Hempsted Opportunity Area
 London Road
-Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0UKK1ML0CW00,yes,,permissioned,full planning permission,,52.552393,-0.247712,34.6,95,95,2017/12/19,,,0219993638d3c37f053f2297c1d34e9767a23326c8e24b7ebec770d1e39c003a
-2017/12/19,local-authority-eng:PTE,PDL/0048/17,"1374 Lincoln Road
+Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0UKK1ML0CW00,,,2017/12/19,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,2017/12/19,,,,,,,,,,,,,,3.4,,,,,,,,,,,,,,,,,,5,5,,,,,,,,,,local-authority-eng:PTE,,,,,,,,,,2007-11-01,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=P0ULTYML0CW00,permissioned,full planning permission,,,,,,,,,,,,,,,,,,,,,,PDL/0048/17,"1374 Lincoln Road
 Peterborough
-PE4 6LS",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0ULTYML0CW00,yes,,permissioned,full planning permission,,52.615766,-0.282421,3.4,5,5,2017/12/19,,,0219993638d3c37f053f2297c1d34e9767a23326c8e24b7ebec770d1e39c003a
-2017/12/19,local-authority-eng:PTE,PDL/0049/17,"Land To The West Of
+PE4 6LS",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0ULTYML0CW00,,,2017/12/19,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,2017/12/19,,,,,,,,,,,,,,25.1,,,,,,,,,,,,,,,,,,130,130,,,,,,,,,,local-authority-eng:PTE,,,,,,,,,,2015-06-05,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=P0UM0WML0CW00,permissioned,reserved matters approval,,,,,,,,,,,,,,,,,,,,,,PDL/0049/17,"Land To The West Of
 London Road
-Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0UM0WML0CW00,yes,,permissioned,reserved matters approval,,52.531007,-0.263837,25.1,130,130,2017/12/19,,,0219993638d3c37f053f2297c1d34e9767a23326c8e24b7ebec770d1e39c003a
-2017/12/19,local-authority-eng:PTE,PDL/0050/17,"Lincoln Court
+Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0UM0WML0CW00,,,2017/12/19,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,2017/12/19,,,,,,,,,,,,,,0.4,,,,,,,,,,,,,,,,,,8,8,,,,,,,,,,local-authority-eng:PTE,,,,,,,,,,2016-09-12,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=P0UMIGML0CW00,permissioned,other,,,,,,,,,,,,,,,,,,,,,,PDL/0050/17,"Lincoln Court
 Lincoln Road
-Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0UMIGML0CW00,yes,,permissioned,other,,52.576573,-0.244313,0.4,8,8,2017/12/19,,,0219993638d3c37f053f2297c1d34e9767a23326c8e24b7ebec770d1e39c003a
-2017/12/19,local-authority-eng:PTE,PDL/0051/17,"Manor House
+Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0UMIGML0CW00,,,2017/12/19,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,2017/12/19,,,,,,,,,,,,,,2.8,,,,,,,,,,,,,,,,,,11,11,,,,,,,,,,local-authority-eng:PTE,,,,,,,,,,2017-03-14,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=P0UMPHML0CW00,permissioned,other,,,,,,,,,,,,,,,,,,,,,,PDL/0051/17,"Manor House
 57 Lincoln Road
 Peterborough
-PE1 2RR",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0UMPHML0CW00,yes,,permissioned,other,,52.577391,-0.243099,2.8,11,11,2017/12/19,,,0219993638d3c37f053f2297c1d34e9767a23326c8e24b7ebec770d1e39c003a
-2017/12/19,local-authority-eng:PTE,PDL/0052/17,"Mill Garage
+PE1 2RR",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0UMPHML0CW00,,,2017/12/19,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,2017/12/19,,,,,,,,,,,,,,2,,,,,,,,,,,,,,,,,,7,7,,,,,,,,,,local-authority-eng:PTE,,,,,,,,,,2003-09-25,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=P0UN9EML0CW00,permissioned,full planning permission,,,,,,,,,,,,,,,,,,,,,,PDL/0052/17,"Mill Garage
 The Causeway
 Thorney
-Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0UN9EML0CW00,yes,,permissioned,full planning permission,,52.621508,-0.112686,2,7,7,2017/12/19,,,0219993638d3c37f053f2297c1d34e9767a23326c8e24b7ebec770d1e39c003a
-2017/12/19,local-authority-eng:PTE,PDL/0053/17,"NCP Car Park
+Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0UN9EML0CW00,,,2017/12/19,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,2017/12/19,,,,,,,,,,,,,,1.9,,,,,,,,,,,,,,,,,,39,39,,,,,,,,,,local-authority-eng:PTE,,,,,,,,,,2015-11-03,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=O8CLXKML0CW00,permissioned,full planning permission,,,,,,,,,,,,,,,,,,,,,,PDL/0053/17,"NCP Car Park
 Brook Street
-Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O8CLXKML0CW00,yes,,permissioned,full planning permission,,52.575906,-0.237506,1.9,39,39,2017/12/19,,,0219993638d3c37f053f2297c1d34e9767a23326c8e24b7ebec770d1e39c003a
-2017/12/19,local-authority-eng:PTE,PDL/0054/17,"New Priestgate House
+Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O8CLXKML0CW00,,,2017/12/19,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,2017/12/19,,,,,,,,,,,,,,2.1,,,,,,,,,,,,,,,,,,7,7,,,,,,,,,,local-authority-eng:PTE,,,,,,,,,,2015-08-26,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=O8CLMBML0CW00,permissioned,full planning permission,,,,,,,,,,,,,,,,,,,,,,PDL/0054/17,"New Priestgate House
 57 Priestgate
-Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O8CLMBML0CW00,yes,,permissioned,full planning permission,,52.572178,-0.246849,2.1,7,7,2017/12/19,,,0219993638d3c37f053f2297c1d34e9767a23326c8e24b7ebec770d1e39c003a
-2017/12/19,local-authority-eng:PTE,PDL/0055/17,"North Westgate Development Area
+Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O8CLMBML0CW00,,,2017/12/19,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,2017/12/19,,,,,,,,,,,,,,45.5,,,,,,,,,,,,,,,,,,100,100,,,,,,,,,,local-authority-eng:PTE,,,,,,,,,,2015-10-02,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=O875WIML0CW00,permissioned,outline planning permission,,,,,,,,,,,,,,,,,,,,,,PDL/0055/17,"North Westgate Development Area
 Westgate
-Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O875WIML0CW00,yes,,permissioned,outline planning permission,,52.575118,-0.246216,45.5,100,100,2017/12/19,,,0219993638d3c37f053f2297c1d34e9767a23326c8e24b7ebec770d1e39c003a
-2017/12/19,local-authority-eng:PTE,PDL/0056/17,"Northern Section Of The East Of England Showground
+Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O875WIML0CW00,,,2017/12/19,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,2017/12/19,,,,,,,,,,,,,,62.5,,,,,,,,,,,,,,,,,,58,58,,,,,,,,,,local-authority-eng:PTE,,,,,,,,,,2003-05-23,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=P0UNSFML0CW00,permissioned,reserved matters approval,,,,,,,,,,,,,,,,,,,,,,PDL/0056/17,"Northern Section Of The East Of England Showground
 Oundle Road
 Alwalton
-Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0UNSFML0CW00,yes,,permissioned,reserved matters approval,,52.550643,-0.314154,62.5,58,58,2017/12/19,,,0219993638d3c37f053f2297c1d34e9767a23326c8e24b7ebec770d1e39c003a
-2017/12/19,local-authority-eng:PTE,PDL/0057/17,"Sewerage Works
+Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0UNSFML0CW00,,,2017/12/19,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,2017/12/19,,,,,,,,,,,,,,3.9,,,,,,,,,,,,,,,,,,18,18,,,,,,,,,,local-authority-eng:PTE,,,,,,,,,,2016-08-22,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=O879VAML0CW00,permissioned,full planning permission,,,,,,,,,,,,,,,,,,,,,,PDL/0057/17,"Sewerage Works
 Potters Way
 Fengate
-Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O879VAML0CW00,yes,,permissioned,full planning permission,,52.57003,-0.228195,3.9,18,18,2017/12/19,,,0219993638d3c37f053f2297c1d34e9767a23326c8e24b7ebec770d1e39c003a
-2017/12/19,local-authority-eng:PTE,PDL/0058/17,"Land To Rear Of 44-90 New Road
+Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O879VAML0CW00,,,2017/12/19,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,2017/12/19,,,,,,,,,,,,,,9.8,,,,,,,,,,,,,,,,,,45,45,,,,,,,,,,local-authority-eng:PTE,,,,,,,,,,2015-09-15,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=P0UP84ML0CW00,permissioned,full planning permission,,,,,,,,,,,,,,,,,,,,,,PDL/0058/17,"Land To Rear Of 44-90 New Road
 Woodston
 Peterborough
-PE2 9HB",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0UP84ML0CW00,yes,,permissioned,full planning permission,,52.561892,-0.255315,9.8,45,45,2017/12/19,,,0219993638d3c37f053f2297c1d34e9767a23326c8e24b7ebec770d1e39c003a
-2017/12/19,local-authority-eng:PTE,PDL/0059/17,"Land To Rear Of The Rose And Crown
+PE2 9HB",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0UP84ML0CW00,,,2017/12/19,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,2017/12/19,,,,,,,,,,,,,,7.3,,,,,,,,,,,,,,,,,,11,11,,,,,,,,,,local-authority-eng:PTE,,,,,,,,,,2013-04-05,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=O855LRML0CW00,permissioned,full planning permission,,,,,,,,,,,,,,,,,,,,,,PDL/0059/17,"Land To Rear Of The Rose And Crown
 2 Wisbech Road
 Thorney
 Peterborough
-PE6 0SB",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O855LRML0CW00,yes,,permissioned,full planning permission,,52.621754,-0.10777,7.3,11,11,2017/12/19,,,0219993638d3c37f053f2297c1d34e9767a23326c8e24b7ebec770d1e39c003a
-2017/12/19,local-authority-eng:PTE,PDL/0060/17,"Remus House
+PE6 0SB",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O855LRML0CW00,,,2017/12/19,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,2017/12/19,,,,,,,,,,,,,,3.8,,,,,,,,,,,,,,,,,,30,30,,,,,,,,,,local-authority-eng:PTE,,,,,,,,,,2016-09-20,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=P0UPIJML0CW00,permissioned,other,,,,,,,,,,,,,,,,,,,,,,PDL/0060/17,"Remus House
 Coltsfoot Drive
 Woodston
 Peterborough
-PE2 9BF",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0UPIJML0CW00,yes,,permissioned,other,,52.561125,-0.259402,3.8,30,30,2017/12/19,,,0219993638d3c37f053f2297c1d34e9767a23326c8e24b7ebec770d1e39c003a
-2017/12/19,local-authority-eng:PTE,PDL/0061/17,"St Nicholas Reception Home
+PE2 9BF",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0UPIJML0CW00,,,2017/12/19,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,2017/12/19,,,,,,,,,,,,,,2.6,,,,,,,,,,,,,,,,,,24,24,,,,,,,,,,local-authority-eng:PTE,,,,,,,,,,2007-03-30,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=P0UQ1CML0CW00,permissioned,full planning permission,,,,,,,,,,,,,,,,,,,,,,PDL/0061/17,"St Nicholas Reception Home
 South Parade
 West Town
-Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0UQ1CML0CW00,yes,,permissioned,full planning permission,,52.576424,-0.25977,2.6,24,24,2017/12/19,,,0219993638d3c37f053f2297c1d34e9767a23326c8e24b7ebec770d1e39c003a
-2017/12/19,local-authority-eng:PTE,PDL/0062/17,"The Heron
+Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0UQ1CML0CW00,,,2017/12/19,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,2017/12/19,,,,,,,,,,,,,,1.8,,,,,,,,,,,,,,,,,,8,8,,,,,,,,,,local-authority-eng:PTE,,,,,,,,,,2015-11-11,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=O8CMF4ML0CW00,permissioned,full planning permission,,,,,,,,,,,,,,,,,,,,,,PDL/0062/17,"The Heron
 Southfields Drive
 Stanground
 Peterborough
-PE2 8QB",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O8CMF4ML0CW00,yes,,permissioned,full planning permission,,52.55416,-0.219128,1.8,8,8,2017/12/19,,,0219993638d3c37f053f2297c1d34e9767a23326c8e24b7ebec770d1e39c003a
-2017/12/19,local-authority-eng:PTE,PDL/0063/17,"Tranche NC2
+PE2 8QB",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O8CMF4ML0CW00,,,2017/12/19,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,2017/12/19,,,,,,,,,,,,,,22.8,,,,,,,,,,,,,,,,,,69,69,,,,,,,,,,local-authority-eng:PTE,,,,,,,,,,2014-11-26,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=P0UQCXML0CW00,permissioned,full planning permission,,,,,,,,,,,,,,,,,,,,,,PDL/0063/17,"Tranche NC2
 London Road
-Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0UQCXML0CW00,yes,,permissioned,full planning permission,,52.553439,-0.247921,22.8,69,69,2017/12/19,,,0219993638d3c37f053f2297c1d34e9767a23326c8e24b7ebec770d1e39c003a
-2017/12/19,local-authority-eng:PTE,PDL/0065/17,"Varity House
+Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0UQCXML0CW00,,,2017/12/19,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,2017/12/19,,,,,,,,,,,,,,14.5,,,,,,,,,,,,,,,,,,14,14,,,,,,,,,,local-authority-eng:PTE,,,,,,,,,,2016-04-14,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=P0UQQJML0CW00,permissioned,full planning permission,,,,,,,,,,,,,,,,,,,,,,PDL/0065/17,"Varity House
 Vicarage Farm Road
 Fengate
-Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0UQQJML0CW00,yes,,permissioned,full planning permission,,52.579919,-0.209539,14.5,14,14,2017/12/19,,,0219993638d3c37f053f2297c1d34e9767a23326c8e24b7ebec770d1e39c003a
-2017/12/19,local-authority-eng:PTE,PDL/0066/17,"The Garden House
+Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0UQQJML0CW00,,,2017/12/19,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,2017/12/19,,,,,,,,,,,,,,2.1,,,,,,,,,,,,,,,,,,25,25,,,,,,,,,,local-authority-eng:PTE,,,,,,,,,,,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=P0UT3IML0CW00,Not permissioned,,,,,,,,,,,,,,,,,,,,,,,PDL/0066/17,"The Garden House
 Minster Precincts
 Peterborough
-PE1 1XS",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0UT3IML0CW00,yes,,Not permissioned,,,52.573428,-0.240779,2.1,25,25,2017/12/19,,,0219993638d3c37f053f2297c1d34e9767a23326c8e24b7ebec770d1e39c003a
-2017/12/19,local-authority-eng:PTE,PDL/0067/17,"Land To The Rear Of 142 - 148
+PE1 1XS",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0UT3IML0CW00,,,2017/12/19,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,2017/12/19,,,,,,,,,,,,,,6.1,,,,,,,,,,,,,,,,,,30,30,,,,,,,,,,local-authority-eng:PTE,,,,,,,,,,,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=P0WGX2ML0CW01,Not permissioned,,,,,,,,,,,,,,,,,,,,,,,PDL/0067/17,"Land To The Rear Of 142 - 148
 Fletton Avenue
 Fletton
-Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0WGX2ML0CW01,yes,,Not permissioned,,,52.559994,-0.237053,6.1,30,30,2017/12/19,,,0219993638d3c37f053f2297c1d34e9767a23326c8e24b7ebec770d1e39c003a
-2017/12/19,local-authority-eng:PTE,PDL/0068/17,"Land South Of Penwald Court
+Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0WGX2ML0CW01,,,2017/12/19,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,2017/12/19,,,,,,,,,,,,,,7.4,,,,,,,,,,,,,,,,,,14,14,,,,,,,,,,local-authority-eng:PTE,,,,,,,,,,2017-05-05,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=P0WH8UML0CW00,permissioned,full planning permission,,,,,,,,,,,,,,,,,,,,,,PDL/0068/17,"Land South Of Penwald Court
 Peakirk
 Peterborough
-PE6 7NN",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0WH8UML0CW00,yes,,permissioned,full planning permission,,52.63949,-0.276659,7.4,14,14,2017/12/19,,,0219993638d3c37f053f2297c1d34e9767a23326c8e24b7ebec770d1e39c003a
-2017/12/19,local-authority-eng:PTE,PDL/0069/17,"12 River Lane
+PE6 7NN",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P0WH8UML0CW00,,,2017/12/19,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,2017/12/19,,,,,,,,,,,,,,28.7,,,,,,,,,,,,,,,,,,50,50,,,,,,,,,,local-authority-eng:PTE,,,,,,,,,,,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=O8HZXHML0CW00,Not permissioned,,,,,,,,,,,,,,,,,,,,,,,PDL/0069/17,"12 River Lane
 Peterborough
-PE3 6AH",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O8HZXHML0CW00,yes,,Not permissioned,,,52.569477,-0.248433,28.7,50,50,2017/12/19,,,0219993638d3c37f053f2297c1d34e9767a23326c8e24b7ebec770d1e39c003a
-2017/12/19,local-authority-eng:PTE,PDL/0070/17,"Belle Vue Stables
+PE3 6AH",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=O8HZXHML0CW00,,,2017/12/19,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,2017/12/19,,,,,,,,,,,,,,8.6,,,,,,,,,,,,,,,,,,35,35,,,,,,,,,,local-authority-eng:PTE,,,,,,,,,,,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=P15OO9ML0CW00,Not permissioned,,,,,,,,,,,,,,,,,,,,,,,PDL/0070/17,"Belle Vue Stables
 Whittlesey Road
 Stanground
-Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P15OO9ML0CW00,yes,,Not permissioned,,,52.554026,-0.228146,8.6,35,35,2017/12/19,,,0219993638d3c37f053f2297c1d34e9767a23326c8e24b7ebec770d1e39c003a
-2017/12/19,local-authority-eng:PTE,PDL/0071/17,"North Westgate Opportunity Area
+Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P15OO9ML0CW00,,,2017/12/19,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,2017/12/19,,,,,,,,,,,,,,33.8,,,,,,,,,,,,,,,,,,200,200,,,,,,,,,,local-authority-eng:PTE,,,,,,,,,,,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=P15PMBML0CW00,Not permissioned,,,,,,,,,,,,,,,,,,,,,,,PDL/0071/17,"North Westgate Opportunity Area
 Westgate
-Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P15PMBML0CW00,yes,,Not permissioned,,,52.575118,-0.246216,33.8,200,200,2017/12/19,,,0219993638d3c37f053f2297c1d34e9767a23326c8e24b7ebec770d1e39c003a
-2017/12/19,local-authority-eng:PTE,PDL/0072/17,"Northminster Opportunity Area
-Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P15PRLML0CW00,yes,,Not permissioned,,,52.576202,-0.24114,89.1,150,150,2017/12/19,,,0219993638d3c37f053f2297c1d34e9767a23326c8e24b7ebec770d1e39c003a
-2017/12/19,local-authority-eng:PTE,PDL/0073/17,"Station East Opportunity Area
+Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P15PMBML0CW00,,,2017/12/19,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,2017/12/19,,,,,,,,,,,,,,89.1,,,,,,,,,,,,,,,,,,150,150,,,,,,,,,,local-authority-eng:PTE,,,,,,,,,,,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=P15PRLML0CW00,Not permissioned,,,,,,,,,,,,,,,,,,,,,,,PDL/0072/17,"Northminster Opportunity Area
+Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P15PRLML0CW00,,,2017/12/19,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,2017/12/19,,,,,,,,,,,,,,92.8,,,,,,,,,,,,,,,,,,400,400,,,,,,,,,,local-authority-eng:PTE,,,,,,,,,,,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=P15Q2DML0CW00,Not permissioned,,,,,,,,,,,,,,,,,,,,,,,PDL/0073/17,"Station East Opportunity Area
 Station Road
-Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P15Q2DML0CW00,yes,,Not permissioned,,,52.574502,-0.247731,92.8,400,400,2017/12/19,,,0219993638d3c37f053f2297c1d34e9767a23326c8e24b7ebec770d1e39c003a
-2017/12/19,local-authority-eng:PTE,PDL/0075/17,"Station West Opportunity Area
+Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P15Q2DML0CW00,,,2017/12/19,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,2017/12/19,,,,,,,,,,,,,,105.1,,,,,,,,,,,,,,,,,,200,200,,,,,,,,,,local-authority-eng:PTE,,,,,,,,,,,https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=relatedCases&keyVal=P15UPLML0CW01,Not permissioned,,,,,,,,,,,,,,,,,,,,,,,PDL/0075/17,"Station West Opportunity Area
 Midland Road
 West Town
-Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P15UPLML0CW01,yes,,Not permissioned,,,52.574715,-0.2524,105.1,200,200,2017/12/19,,,0219993638d3c37f053f2297c1d34e9767a23326c8e24b7ebec770d1e39c003a
+Peterborough",https://planpa.peterborough.gov.uk/online-applications/applicationDetails.do?activeTab=map&keyVal=P15UPLML0CW01,,,2017/12/19,,,,,,,,,,,,,,,,,,,,,,,,,,

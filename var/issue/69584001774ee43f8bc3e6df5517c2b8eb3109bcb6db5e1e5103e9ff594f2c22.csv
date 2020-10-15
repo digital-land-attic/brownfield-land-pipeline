@@ -135,8 +135,10 @@ row-number,field,issue-type,value
 399,NetDwellingsRangeTo,default,129
 400,NetDwellingsRangeFrom,default,46
 400,NetDwellingsRangeTo,default,46
+401,LastUpdatedDate,date,25/03/202
 401,NetDwellingsRangeFrom,default,54
 401,NetDwellingsRangeTo,default,54
+401,LastUpdatedDate,default,2017-12-20
 402,NetDwellingsRangeFrom,default,1
 402,NetDwellingsRangeTo,default,1
 403,NetDwellingsRangeFrom,default,10
@@ -236,8 +238,11 @@ row-number,field,issue-type,value
 447,NetDwellingsRangeFrom,default,1113
 447,NetDwellingsRangeTo,default,1113
 448,PermissionDate,date,Pending subject to legal agreement
+448,FirstAddedDate,date,43914
+448,LastUpdatedDate,date,43914
 448,NetDwellingsRangeFrom,default,724
 448,NetDwellingsRangeTo,default,724
+448,LastUpdatedDate,default,2020-06-25
 449,PermissionDate,date,Pending subject to legal agreement
 449,NetDwellingsRangeFrom,default,33
 449,NetDwellingsRangeTo,default,33

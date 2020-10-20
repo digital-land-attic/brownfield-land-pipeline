@@ -3,7 +3,7 @@ row-number,field,issue-type,value
 1,NetDwellingsRangeTo,default,8
 2,NetDwellingsRangeFrom,default,6
 2,NetDwellingsRangeTo,default,6
-3,PermissionDate,date,"2019-09-02
+3,PermissionDate,date,"2019-09-02
 2017-07-04"
 3,NetDwellingsRangeFrom,default,12
 3,NetDwellingsRangeTo,default,12

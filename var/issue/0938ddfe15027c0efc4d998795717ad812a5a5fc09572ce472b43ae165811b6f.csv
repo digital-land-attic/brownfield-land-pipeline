@@ -1,8 +1,10 @@
 row-number,field,issue-type,value
 1,NetDwellingsRangeFrom,default,7
 1,NetDwellingsRangeTo,default,7
+2,LastUpdatedDate,date,2018-21-21
 2,NetDwellingsRangeFrom,default,5
 2,NetDwellingsRangeTo,default,5
+2,LastUpdatedDate,default,2017-12-21
 3,NetDwellingsRangeFrom,default,6
 3,NetDwellingsRangeTo,default,6
 4,NetDwellingsRangeFrom,default,8

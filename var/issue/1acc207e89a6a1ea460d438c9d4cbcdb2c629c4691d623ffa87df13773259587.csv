@@ -5,8 +5,10 @@ row-number,field,issue-type,value
 2,NetDwellingsRangeTo,default,15
 3,NetDwellingsRangeFrom,default,8
 3,NetDwellingsRangeTo,default,8
+4,LastUpdatedDate,date,TBC
 4,NetDwellingsRangeFrom,default,5
 4,NetDwellingsRangeTo,default,5
+4,LastUpdatedDate,default,2017-04-06
 5,NetDwellingsRangeFrom,default,27
 5,NetDwellingsRangeTo,default,27
 6,NetDwellingsRangeFrom,default,6

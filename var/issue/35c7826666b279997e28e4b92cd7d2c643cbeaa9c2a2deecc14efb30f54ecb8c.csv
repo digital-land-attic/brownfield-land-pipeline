@@ -29,8 +29,8 @@ row-number,field,issue-type,value
 12,PlanningHistory,uri,18/00432/FUL
 12,NetDwellingsRangeFrom,default,72
 12,NetDwellingsRangeTo,default,72
-12,LastUpdatedDate,default,10/04/2019
+12,LastUpdatedDate,default,2019-04-10
 13,PlanningHistory,uri,18/00852/FUL
 13,NetDwellingsRangeFrom,default,5
 13,NetDwellingsRangeTo,default,5
-13,LastUpdatedDate,default,10/04/2019
+13,LastUpdatedDate,default,2019-04-10

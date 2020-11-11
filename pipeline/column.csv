@@ -85,6 +85,7 @@ brownfield-land,,Total area (Hectares),Hectares
 brownfield-land,,Total site area (hectares),Hectares
 brownfield-land,,OwenrshipStatus,OwnershipStatus
 brownfield-land,,"Ownership: PA_owner, not PA_own., mixed_o'ship, unknown",OwnershipStatus
+brownfield-land,,Ownership,OwnershipStatus
 brownfield-land,,"Hazardous Substances [as identifiied in Appl. form]",HazardousSubstances
 brownfield-land,,Planning Permission Status,PlanningStatus
 brownfield-land,,PLANNING STATUS,PlanningStatus

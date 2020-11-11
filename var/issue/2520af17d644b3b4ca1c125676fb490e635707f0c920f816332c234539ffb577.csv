@@ -3,14 +3,14 @@ row-number,field,issue-type,value
 1,NetDwellingsRangeFrom,default,12
 1,NetDwellingsRangeTo,default,12
 1,LastUpdatedDate,default,2020-06-25
-2,PlanningHistory,uri,"S/OUT/14/0833 | Outline application for a mixed use development comprising up to 100no. dwellings, car parking in association with stadium events, fire station and associated facilities, access works, landscaping and open space - Access not reserved - (Variation to outline permission S/12/1826).
-
+2,PlanningHistory,uri,"S/OUT/14/0833 | Outline application for a mixed use development comprising up to 100no. dwellings, car parking in association with stadium events, fire station and associated facilities, access works, landscaping and open space - Access not reserved - (Variation to outline permission S/12/1826).
+
 S/07/1365 | Outline application for the demolition of existing stadium and construction of new stadium, with youth training facilities, 16,745 sq.m. of business (B1) floorspace, a care home and 450 no. residential dwellings - Access not reserved."
 2,NetDwellingsRangeFrom,default,171
 2,NetDwellingsRangeTo,default,171
 2,LastUpdatedDate,default,2020-06-25
-3,PlanningHistory,uri,"S/OUT/15/1338 | Outline application for the demolition of 3no. existing dwellings and the erection of up to 10no. dwellings and associated works (All matters reserved).
-
+3,PlanningHistory,uri,"S/OUT/15/1338 | Outline application for the demolition of 3no. existing dwellings and the erection of up to 10no. dwellings and associated works (All matters reserved).
+
 S/RES/19/0446 | Reserved Matters application for the erection of 10no. dwellings and associated works following outline permission S/OUT/15/1338."
 3,NetDwellingsRangeFrom,default,10
 3,NetDwellingsRangeTo,default,10
@@ -43,16 +43,16 @@ S/RES/19/0446 | Reserved Matters application for the erection of 10no. dwellings
 10,NetDwellingsRangeFrom,default,6
 10,NetDwellingsRangeTo,default,6
 10,LastUpdatedDate,default,2020-06-25
-11,PlanningHistory,uri,"S/18/1903 | Erection of 19no. dwellings and associated works.
-
+11,PlanningHistory,uri,"S/18/1903 | Erection of 19no. dwellings and associated works.
+
 S/13/0167 | Outline application for the erection of 12 no. dwellings, with alterations to existing access, service road and parking spaces."
 11,NetDwellingsRangeFrom,default,19
 11,NetDwellingsRangeTo,default,19
 11,LastUpdatedDate,default,2020-06-25
-12,PlanningHistory,uri,"S/RES/18/1145 | Erection of 69no. dwellings with associated access, infrastructure, parking, landscaping and public open space - Reserved Matters from previous outline application S/18/1579.
-
-S/18/1579 | Demolition of existing hotel buildings and redevelopment to provide up to 70no. dwellings and associated ancillary works - Without complying with conditions 18, 19 and 20 from previous permission S/OUT/15/1985 (Resubmission).
-
+12,PlanningHistory,uri,"S/RES/18/1145 | Erection of 69no. dwellings with associated access, infrastructure, parking, landscaping and public open space - Reserved Matters from previous outline application S/18/1579.
+
+S/18/1579 | Demolition of existing hotel buildings and redevelopment to provide up to 70no. dwellings and associated ancillary works - Without complying with conditions 18, 19 and 20 from previous permission S/OUT/15/1985 (Resubmission).
+
 S/OUT/15/1985 | Outline application for the demolition of existing hotel buildings and redevelopment to provide up to 70no. dwellings and associated ancillary works."
 12,NetDwellingsRangeFrom,default,69
 12,NetDwellingsRangeTo,default,69
@@ -73,9 +73,9 @@ S/OUT/15/1985 | Outline application for the demolition of existing hotel buildin
 16,NetDwellingsRangeFrom,default,91
 16,NetDwellingsRangeTo,default,91
 16,LastUpdatedDate,default,2020-06-25
-17,PlanningHistory,uri,"S/19/1589 | Erection of 37no. apartments and 2no. commercial units for Class B1 or Class A2 or Class D1 Use and associated works - 
-Non-compliance with conditions 12, 13, 14 and 15 of previous permission S/18/1515
-
+17,PlanningHistory,uri,"S/19/1589 | Erection of 37no. apartments and 2no. commercial units for Class B1 or Class A2 or Class D1 Use and associated works - 
+Non-compliance with conditions 12, 13, 14 and 15 of previous permission S/18/1515
+
 S/13/0602 | Demolition of existing building and erection of 34 no. Apartments and 2 no. Commercial Units for Class B1 or Class A2 or Class D1 Use and associated works. (Revisions to planning permission S/11/1294)."
 17,NetDwellingsRangeFrom,default,37
 17,NetDwellingsRangeTo,default,37
@@ -84,8 +84,8 @@ S/13/0602 | Demolition of existing building and erection of 34 no. Apartments an
 18,NetDwellingsRangeFrom,default,4
 18,NetDwellingsRangeTo,default,4
 18,LastUpdatedDate,default,2020-06-25
-19,PlanningHistory,uri,"S/17/0286 | Erection of 13no. dwellings and associated works. (Variation of condition 22 of permission S/15/1190 regarding drawing numbers).
-
+19,PlanningHistory,uri,"S/17/0286 | Erection of 13no. dwellings and associated works. (Variation of condition 22 of permission S/15/1190 regarding drawing numbers).
+
 S/15/1190 | Erection of 13 no. dwellings and associated works.  Granted 27 April 2016"
 19,NetDwellingsRangeFrom,default,13
 19,NetDwellingsRangeTo,default,13
@@ -150,11 +150,11 @@ S/15/1190 | Erection of 13 no. dwellings and associated works.  Granted 27 April
 34,NetDwellingsRangeFrom,default,31
 34,NetDwellingsRangeTo,default,31
 34,LastUpdatedDate,default,2020-06-25
-35,PlanningHistory,uri,"S/18/1906 | Change of use of land from former factory site (use class B1) to lorry park (sui generis).
-Application Granted: 10 April 2019
-
-Outline application for the erection of up to 60 no. dwellings and associated works.
-Ref. : S/OUT/17/0069
+35,PlanningHistory,uri,"S/18/1906 | Change of use of land from former factory site (use class B1) to lorry park (sui generis).
+Application Granted: 10 April 2019
+
+Outline application for the erection of up to 60 no. dwellings and associated works.
+Ref. : S/OUT/17/0069
 Refused"
 35,NetDwellingsRangeFrom,default,50
 35,NetDwellingsRangeTo,default,50
@@ -169,12 +169,12 @@ Refused"
 38,NetDwellingsRangeFrom,default,5
 38,NetDwellingsRangeTo,default,5
 38,LastUpdatedDate,default,2020-06-25
-39,PlanningHistory,uri,"S/18/0971 | Erection of 1no. Dwelling and associated works
-Application Granted: 24 August 2018
-
-Application for the demolition of existing buildings and the erection of 8 no. two storey buildings. 
-Ref. : S/SP/12/1339
-Decision Issue Date: 23/08/2014
+39,PlanningHistory,uri,"S/18/0971 | Erection of 1no. Dwelling and associated works
+Application Granted: 24 August 2018
+
+Application for the demolition of existing buildings and the erection of 8 no. two storey buildings. 
+Ref. : S/SP/12/1339
+Decision Issue Date: 23/08/2014
 Permission lapsed in October 2017"
 39,NetDwellingsRangeFrom,default,8
 39,NetDwellingsRangeTo,default,8
@@ -183,35 +183,35 @@ Permission lapsed in October 2017"
 40,NetDwellingsRangeFrom,default,6
 40,NetDwellingsRangeTo,default,6
 40,LastUpdatedDate,default,2020-06-25
-41,PlanningHistory,uri,"S/RES/18/0202 | Erection of indoor ski, cinema, bowling and trampoline facilities (Class D2), shops, restaurants & cafes (Class A1 - A4), parking, landscaping, access and associated works - Reserved Matters from previous outline application S/OUT/15/0943. 
-Reserved Matters Approved: 30 November 2018
-
-Outline application for the erection of a leisure development of up to 160, 000 sq.m. To include the provision of an entertainment arena, indoor ski centre, cinema, hotel, retail, restaurants and cafes, access, parking and associated works. 
-Ref. : S/OUT/15/0943
+41,PlanningHistory,uri,"S/RES/18/0202 | Erection of indoor ski, cinema, bowling and trampoline facilities (Class D2), shops, restaurants & cafes (Class A1 - A4), parking, landscaping, access and associated works - Reserved Matters from previous outline application S/OUT/15/0943. 
+Reserved Matters Approved: 30 November 2018
+
+Outline application for the erection of a leisure development of up to 160, 000 sq.m. To include the provision of an entertainment arena, indoor ski centre, cinema, hotel, retail, restaurants and cafes, access, parking and associated works. 
+Ref. : S/OUT/15/0943
 Application Granted: 5th March 2018"
 41,LastUpdatedDate,default,2020-06-25
 42,PermissionDate,date,Decision pending
-42,PlanningHistory,uri,"Part of the site: Outline application for the erection of a mixed use development comprising up to 118 no. flats and main town centre uses Application approved at October 2017 Planning Committee subject to S106 and conditions.
-Ref. : S/OUT/17/0665
+42,PlanningHistory,uri,"Part of the site: Outline application for the erection of a mixed use development comprising up to 118 no. flats and main town centre uses Application approved at October 2017 Planning Committee subject to S106 and conditions.
+Ref. : S/OUT/17/0665
 Decision Issue Date: Pending."
 42,NetDwellingsRangeFrom,default,118
 42,NetDwellingsRangeTo,default,118
 42,LastUpdatedDate,default,2020-06-25
 43,PermissionDate,date,Decision pending
-43,PlanningHistory,uri,"Demolition of existing and erection of a two story buildings with retail (A1) and food & drink (A3) units.  Permission granted on appeal.
-Ref. : S/15/2017
-Decision Issued Date: 16/06/2016
-
-Demolition of existing tented market and erection of a 12 storey building comprising 101no. Flats, 4no. Class A3 (Food and Drink) units, 1no. Class A1 (Shop) unit. Application granted permission subject to S106 and conditions at October 2017 Planning Committee
-Ref. : S/17/0673
-Decision Issued Date: Pending.
-
-S/19/1565 | Demolition of existing tented market and erection of a two storey building comprising 4no. Class A3 (Food and Drink) units, 1no. Class A1 (Shop) unit and associated works.
+43,PlanningHistory,uri,"Demolition of existing and erection of a two story buildings with retail (A1) and food & drink (A3) units.  Permission granted on appeal.
+Ref. : S/15/2017
+Decision Issued Date: 16/06/2016
+
+Demolition of existing tented market and erection of a 12 storey building comprising 101no. Flats, 4no. Class A3 (Food and Drink) units, 1no. Class A1 (Shop) unit. Application granted permission subject to S106 and conditions at October 2017 Planning Committee
+Ref. : S/17/0673
+Decision Issued Date: Pending.
+
+S/19/1565 | Demolition of existing tented market and erection of a two storey building comprising 4no. Class A3 (Food and Drink) units, 1no. Class A1 (Shop) unit and associated works.
 Pending Determination"
 43,NetDwellingsRangeFrom,default,101
 43,NetDwellingsRangeTo,default,101
 43,LastUpdatedDate,default,2020-06-25
-44,PlanningHistory,uri,"S/OUT/14/2059 | Outline application for the erection of up to 115no. dwellings and associated works with access from Thornhill Road, footpath improvements and public open space. 
+44,PlanningHistory,uri,"S/OUT/14/2059 | Outline application for the erection of up to 115no. dwellings and associated works with access from Thornhill Road, footpath improvements and public open space. 
 Application withdrawn 15th May 2018"
 44,LastUpdatedDate,default,2020-06-25
 45,PlanningHistory,uri,No Recent Planning History
@@ -222,8 +222,8 @@ Application withdrawn 15th May 2018"
 46,NetDwellingsRangeFrom,default,5
 46,NetDwellingsRangeTo,default,5
 46,LastUpdatedDate,default,2020-06-25
-47,PlanningHistory,uri,"Change of use of second floor to Residential (Class C3) to provide 12 no. flats with external alterations. Permission has been granted.
-Ref. : S/17/0144
+47,PlanningHistory,uri,"Change of use of second floor to Residential (Class C3) to provide 12 no. flats with external alterations. Permission has been granted.
+Ref. : S/17/0144
 Decision Issued Date: 28/06/2017"
 47,NetDwellingsRangeFrom,default,12
 47,NetDwellingsRangeTo,default,12
@@ -236,12 +236,12 @@ Decision Issued Date: 28/06/2017"
 49,NetDwellingsRangeFrom,default,90
 49,NetDwellingsRangeTo,default,90
 49,LastUpdatedDate,default,2020-06-25
-50,PlanningHistory,uri,"Prior notification application for the change of use from offices (Class B1a) to dwellings (Class C3) (28no. flats). Permission has been given. 
-Ref. : S/PRIORC/17/0003
-Decision Issued Date: 21/02/2017
-
-Erection of a roof extension to create 2 additional floors containing 12 no. flats. Application granted.  
-Ref. : S/17/1109
+50,PlanningHistory,uri,"Prior notification application for the change of use from offices (Class B1a) to dwellings (Class C3) (28no. flats). Permission has been given. 
+Ref. : S/PRIORC/17/0003
+Decision Issued Date: 21/02/2017
+
+Erection of a roof extension to create 2 additional floors containing 12 no. flats. Application granted.  
+Ref. : S/17/1109
 Decision Issued Date: 28/06/2017"
 50,NetDwellingsRangeFrom,default,40
 50,NetDwellingsRangeTo,default,40
@@ -262,16 +262,16 @@ Decision Issued Date: 28/06/2017"
 54,NetDwellingsRangeFrom,default,10
 54,NetDwellingsRangeTo,default,10
 54,LastUpdatedDate,default,2020-06-25
-55,PlanningHistory,uri,"S/18/1474 | Change of use of part of ground and first floors from B1(a) (Business) to A3 (Cafe/Restaurant).
-Application Granted: 20 November 2018
-
+55,PlanningHistory,uri,"S/18/1474 | Change of use of part of ground and first floors from B1(a) (Business) to A3 (Cafe/Restaurant).
+Application Granted: 20 November 2018
+
 Prior Approval Notification for the change of use of part of ground and 1st floors and floors 2 - 12 from offices (Class B1(a)) to 136no. flats (Class C3). Prior approval not required. Ref. : S/PRIORC/15/0873 Decision Issued Date: 13/07/2015"
 55,NetDwellingsRangeFrom,default,86
 55,NetDwellingsRangeTo,default,86
 55,LastUpdatedDate,default,2020-06-25
-56,PlanningHistory,uri,"S/07/2805 | Redevelopment including the partial demolition, change of use and restoration of The Locarno and Old Town Hall buildings, the erection of extensions and new buildings, plus the provision of 3 no. units for mixed Class A3/ Class A4 use, outdoor seating areas in association with those uses, Registry of Births, Deaths and Marriages (Class B1), 115 no. apartments, car parking, access and landscaping works - granted 08 September 2008
-
-
+56,PlanningHistory,uri,"S/07/2805 | Redevelopment including the partial demolition, change of use and restoration of The Locarno and Old Town Hall buildings, the erection of extensions and new buildings, plus the provision of 3 no. units for mixed Class A3/ Class A4 use, outdoor seating areas in association with those uses, Registry of Births, Deaths and Marriages (Class B1), 115 no. apartments, car parking, access and landscaping works - granted 08 September 2008
+
+
 S/10/0883 | Redevelopment including the partial demolition, change of use and restoration of the Locarno and Old Town Hall buildings to facilitate the provision of an 117 no. bedroom hotel (Class C1), 1 no. unit for Class A1 or Class A3 use, 3 no. units for mixed Class A3/A4 use, outdoor seating areas for use in connection with the Class A3/Class A4 units, 84 no. Residential Apartments, car parking, access and landscaping works. Refused 10 February 2011"
 56,NetDwellingsRangeFrom,default,15
 56,NetDwellingsRangeTo,default,15
@@ -280,42 +280,42 @@ S/10/0883 | Redevelopment including the partial demolition, change of use and re
 57,NetDwellingsRangeFrom,default,36
 57,NetDwellingsRangeTo,default,36
 57,LastUpdatedDate,default,2020-06-25
-58,PlanningHistory,uri,"Prior Notification for the proposed demolition of multi-storey car park. Permission has been granted. 
-Ref. : S/DEM/15/0737
-Decision Issued Date: 04/06/2015
-
+58,PlanningHistory,uri,"Prior Notification for the proposed demolition of multi-storey car park. Permission has been granted. 
+Ref. : S/DEM/15/0737
+Decision Issued Date: 04/06/2015
+
 The multi-storey car park that was at the site has been demolished and since a new surface level car park has been installed"
 58,NetDwellingsRangeFrom,default,38
 58,NetDwellingsRangeTo,default,38
 58,LastUpdatedDate,default,2020-06-25
-59,PlanningHistory,uri,"Erection of a new roof over existing roof terrace and walkways. Permission has been granted.
-Ref. : S/SP/13/1910
+59,PlanningHistory,uri,"Erection of a new roof over existing roof terrace and walkways. Permission has been granted.
+Ref. : S/SP/13/1910
 Decision Issued Date: 28/02/2014"
 59,NetDwellingsRangeFrom,default,46
 59,NetDwellingsRangeTo,default,46
 59,LastUpdatedDate,default,2020-06-25
-60,PlanningHistory,uri,"Refurbishment of the existing carriage works for use as office (Class B1) use and associated works including partial demolition, alterations and new access from London Street. Permission has been granted.
-Ref. : S/16/1806 & S/LBC/16/1807
+60,PlanningHistory,uri,"Refurbishment of the existing carriage works for use as office (Class B1) use and associated works including partial demolition, alterations and new access from London Street. Permission has been granted.
+Ref. : S/16/1806 & S/LBC/16/1807
 Decision Issued Date: 03/02/2017"
 60,LastUpdatedDate,default,2020-06-25
-61,PlanningHistory,uri,"S/19/0442 | Demolition of rear ground floor office space and erection of five storey extension and third floor extension to existing building to provide an additional 24no. apartments.
-Application Granted: 24 October 2019
-
-S/LBC/18/0329 | External and internal refurbishment of existing offices. Pending determination.
+61,PlanningHistory,uri,"S/19/0442 | Demolition of rear ground floor office space and erection of five storey extension and third floor extension to existing building to provide an additional 24no. apartments.
+Application Granted: 24 October 2019
+
+S/LBC/18/0329 | External and internal refurbishment of existing offices. Pending determination.
 S/PRIORC/18/0544 | Prior notification application for the change of use from office (Class B1) to 31no. dwellinghouses (Class C3). Prior approval not required 24 May 2018"
 61,NetDwellingsRangeFrom,default,31
 61,NetDwellingsRangeTo,default,31
 61,LastUpdatedDate,default,2020-06-25
-62,PlanningHistory,uri,"S/06/2316 | Demolition of existing garages and print works and the erection of new building to facilitate the provision of 19 no. apartments (Class C3) with vehicular access, car parking, cycle parking, landscaping and associated works. Lapsed planning permission.
-
-S/PRIORC/17/1728 | Prior notification application for the change of use from warehouse (Class B8) to 6no. dwellings (Class C3).
-
+62,PlanningHistory,uri,"S/06/2316 | Demolition of existing garages and print works and the erection of new building to facilitate the provision of 19 no. apartments (Class C3) with vehicular access, car parking, cycle parking, landscaping and associated works. Lapsed planning permission.
+
+S/PRIORC/17/1728 | Prior notification application for the change of use from warehouse (Class B8) to 6no. dwellings (Class C3).
+
 S/18/0545 | Demolition of car park and storage buildings and erection of 14no. dwellings and associated works. Pending determination"
 62,NetDwellingsRangeFrom,default,14
 62,NetDwellingsRangeTo,default,14
 62,LastUpdatedDate,default,2020-06-25
-63,PlanningHistory,uri,"S/18/0447  Erection of 10 no. dwellings, conversion of existing store to provide 2 no. dwellings and associated works.  
-
+63,PlanningHistory,uri,"S/18/0447  Erection of 10 no. dwellings, conversion of existing store to provide 2 no. dwellings and associated works.  
+
 Application Granted: 25th November 2019"
 63,NetDwellingsRangeFrom,default,12
 63,NetDwellingsRangeTo,default,12
@@ -332,12 +332,12 @@ Application Granted: 25th November 2019"
 66,NetDwellingsRangeFrom,default,21
 66,NetDwellingsRangeTo,default,21
 66,LastUpdatedDate,default,2020-06-25
-67,PlanningHistory,uri,"Change of use from a Class A1 Retail to Class D1 Clinic. Variation of condition 3 from previous. Permission has been granted permission S/13/0025 regarding opening hours).
-Ref. :  S/14/1956
-Decision Issued Date: 07/01/2015
-
-Application for the erection of a single storey side extension. Permission has been granted.
-Ref. : S/16/0076
+67,PlanningHistory,uri,"Change of use from a Class A1 Retail to Class D1 Clinic. Variation of condition 3 from previous. Permission has been granted permission S/13/0025 regarding opening hours).
+Ref. :  S/14/1956
+Decision Issued Date: 07/01/2015
+
+Application for the erection of a single storey side extension. Permission has been granted.
+Ref. : S/16/0076
 Decision Issued Date: 18/03/2016"
 67,NetDwellingsRangeFrom,default,29
 67,NetDwellingsRangeTo,default,29
@@ -372,16 +372,16 @@ Decision Issued Date: 18/03/2016"
 75,LastUpdatedDate,default,2020-06-25
 76,PlanningHistory,uri,"Erection of 4 no. (Class A1) non-food retail units. (ref S/08/0478) granted 18 Jul 2008, now lapsed."
 76,LastUpdatedDate,default,2020-06-25
-77,PlanningHistory,uri,"Application for the erection of new retail facilities and provision of associated parking and works.
-Ref. : S/16/0505 Granted permission Thu 19 Oct 2017
-
-S/17/0211 | Erection of 2no. office buildings (Class B1a), provision of associated car parking, hard and soft landscaping and new vehicular accesses.
+77,PlanningHistory,uri,"Application for the erection of new retail facilities and provision of associated parking and works.
+Ref. : S/16/0505 Granted permission Thu 19 Oct 2017
+
+S/17/0211 | Erection of 2no. office buildings (Class B1a), provision of associated car parking, hard and soft landscaping and new vehicular accesses.
 Application Granted: 9 May 2017"
 77,LastUpdatedDate,default,2020-06-25
-78,PlanningHistory,uri,"S/16/0977 Erection of an ATM. (Retrospective).
-
-S/ADV/15/0445 Display of various illuminated and non-illuminated signs.
-
+78,PlanningHistory,uri,"S/16/0977 Erection of an ATM. (Retrospective).
+
+S/ADV/15/0445 Display of various illuminated and non-illuminated signs.
+
 S/ADV/16/0978 Display of illuminated ATM signage. (Retrospective)."
 78,NetDwellingsRangeFrom,default,7
 78,NetDwellingsRangeTo,default,7
@@ -396,25 +396,25 @@ S/ADV/16/0978 Display of illuminated ATM signage. (Retrospective)."
 81,NetDwellingsRangeFrom,default,9
 81,NetDwellingsRangeTo,default,9
 81,LastUpdatedDate,default,2020-06-25
-82,PlanningHistory,uri,"S/13/1537 Outline application for the erection of buildings for B1(c) (Business - Light Industry) and/or B2 (General Industry) and/or B8 (Storage or Distribution) uses - all matters reserved.
-
+82,PlanningHistory,uri,"S/13/1537 Outline application for the erection of buildings for B1(c) (Business - Light Industry) and/or B2 (General Industry) and/or B8 (Storage or Distribution) uses - all matters reserved.
+
 S/RES/17/0726 Erection of buildings for B1 and/or B2 and/or B8 Use. Reserved matters application from previous Outline permission S/13/1537. Granted 26 Jun 2017"
 82,LastUpdatedDate,default,2020-06-25
-83,PlanningHistory,uri,"S/13/1723
-
-Expired in 2017
-
-
-S/18/1667 | Change of use of retail unit (Use Class A1) to drinking establishment (Use Class A4), installation of new shop front and roof terrace, use of highway as outdoor drinking area and ancillary areas at rear
-
+83,PlanningHistory,uri,"S/13/1723
+
+Expired in 2017
+
+
+S/18/1667 | Change of use of retail unit (Use Class A1) to drinking establishment (Use Class A4), installation of new shop front and roof terrace, use of highway as outdoor drinking area and ancillary areas at rear
+
 Application Refused: 11 December 2018"
 83,NetDwellingsRangeFrom,default,6
 83,NetDwellingsRangeTo,default,6
 83,LastUpdatedDate,default,2020-06-25
 84,PlanningHistory,uri,S/14/1283 Erection of 10no. two storey industrial units and associated works.
 84,LastUpdatedDate,default,2020-06-25
-85,PlanningHistory,uri,"S/RES/14/2137 Demolition of existing energy centre and erection of a mixed use four storey building with a convenience retail store (Class A1) on the ground floor with 18no. apartments above and 16no. houses and associated works.
-
+85,PlanningHistory,uri,"S/RES/14/2137 Demolition of existing energy centre and erection of a mixed use four storey building with a convenience retail store (Class A1) on the ground floor with 18no. apartments above and 16no. houses and associated works.
+
 S/OUT/05/1720 Proposal Outline application for the erection of 616 no. dwellings, nursing home, health centre, dispensing pharmacy and associated works - Means of Access and Strategic Landscaping not reserved."
 85,NetDwellingsRangeFrom,default,34
 85,NetDwellingsRangeTo,default,34
@@ -423,25 +423,25 @@ S/OUT/05/1720 Proposal Outline application for the erection of 616 no. dwellings
 86,NetDwellingsRangeFrom,default,6
 86,NetDwellingsRangeTo,default,6
 86,LastUpdatedDate,default,2020-06-25
-87,PlanningHistory,uri,"S/15/0133 Change of use from working man's club (Class D2) to residential (Class C3) to provide 10no. self contained apartments and associated works.
-
+87,PlanningHistory,uri,"S/15/0133 Change of use from working man's club (Class D2) to residential (Class C3) to provide 10no. self contained apartments and associated works.
+
 Permission expired 2/4/18"
 87,NetDwellingsRangeFrom,default,10
 87,NetDwellingsRangeTo,default,10
 87,LastUpdatedDate,default,2020-06-25
-88,PlanningHistory,uri,"S/OUT/15/0377 | Outline application for the erection of up to 61no. dwellings (means of access not reserved).
-
-S/RES/17/0670 | Erection of 61no. dwellings and associated works (Reserved Matters from outline planning permission S/OUT/15/0377). Granted 14 December 2017
-
-S/17/2081 | Erection of 61no. dwellings and associated works (Reserved Matters from Outline planning permission  Ref. S/OUT/15/0377) without complying with conditions 1-7 on Reserved Matters Approval ref S/RES/17/0670.
+88,PlanningHistory,uri,"S/OUT/15/0377 | Outline application for the erection of up to 61no. dwellings (means of access not reserved).
+
+S/RES/17/0670 | Erection of 61no. dwellings and associated works (Reserved Matters from outline planning permission S/OUT/15/0377). Granted 14 December 2017
+
+S/17/2081 | Erection of 61no. dwellings and associated works (Reserved Matters from Outline planning permission  Ref. S/OUT/15/0377) without complying with conditions 1-7 on Reserved Matters Approval ref S/RES/17/0670.
 Reserved Matters Approved: 29 March 2018"
 88,NetDwellingsRangeFrom,default,61
 88,NetDwellingsRangeTo,default,61
 88,LastUpdatedDate,default,2020-06-25
-89,PlanningHistory,uri,"S/PRIORC/15/0748 Prior Approval Notification for the change of use of 1st and 2nd floors from offices (Class B1) to 14no. Apartments (Class C3)
-Expired September 2018
-
-S/16/0960 | Erection of an additional storey to provide 5no. Flats and associated works.
+89,PlanningHistory,uri,"S/PRIORC/15/0748 Prior Approval Notification for the change of use of 1st and 2nd floors from offices (Class B1) to 14no. Apartments (Class C3)
+Expired September 2018
+
+S/16/0960 | Erection of an additional storey to provide 5no. Flats and associated works.
 Application granted: 20 September 2016"
 89,NetDwellingsRangeFrom,default,14
 89,NetDwellingsRangeTo,default,14
@@ -450,32 +450,32 @@ Application granted: 20 September 2016"
 90,NetDwellingsRangeFrom,default,5
 90,NetDwellingsRangeTo,default,5
 90,LastUpdatedDate,default,2020-06-25
-91,PlanningHistory,uri,"S/15/1342 | Erection of 6no. flats and associated works.
-
-S/19/1377 | Demolition of existing dwelling and erection of 8no flats and associated works.
+91,PlanningHistory,uri,"S/15/1342 | Erection of 6no. flats and associated works.
+
+S/19/1377 | Demolition of existing dwelling and erection of 8no flats and associated works.
 Application pending consideration"
 91,NetDwellingsRangeFrom,default,6
 91,NetDwellingsRangeTo,default,6
 91,LastUpdatedDate,default,2020-06-25
-92,PlanningHistory,uri,"S/15/1352 | Demolition of existing warehouse and outbuildings, and erection of 5 no. residential dwellings (Use Class C3), with associated landscaping and access.
-Permission now expired 
-
-S/OUT/18/2007 | Outline application for the demolition of the existing warehouse and outbuildings and erection of 5 no. dwellings and associated works  - access and layout not reserved.
-
+92,PlanningHistory,uri,"S/15/1352 | Demolition of existing warehouse and outbuildings, and erection of 5 no. residential dwellings (Use Class C3), with associated landscaping and access.
+Permission now expired 
+
+S/OUT/18/2007 | Outline application for the demolition of the existing warehouse and outbuildings and erection of 5 no. dwellings and associated works  - access and layout not reserved.
+
 Application Granted: 22 March 2019"
 92,NetDwellingsRangeFrom,default,5
 92,NetDwellingsRangeTo,default,5
 92,LastUpdatedDate,default,2020-06-25
-93,PlanningHistory,uri,"S/16/1126 | Demolition of existing dwelling and erection of 6no. apartments and associated works, without compliance with conditions 3 - 10 from previous permission S/15/1839. 
-
+93,PlanningHistory,uri,"S/16/1126 | Demolition of existing dwelling and erection of 6no. apartments and associated works, without compliance with conditions 3 - 10 from previous permission S/15/1839. 
+
 Expiry October 2019"
 93,NetDwellingsRangeFrom,default,5
 93,NetDwellingsRangeTo,default,5
 93,LastUpdatedDate,default,2020-06-25
-94,PlanningHistory,uri,"S/OUT/15/2087 Outline planning application for up to 134no. residential dwellings (Use Class C3), day nursery/creche (Use Class D1) and intergenerational care accommodation (Use Class C2) with details of access not reserved.
-
-S/RES/19/1138 | Reserved Matters application following outline application S/OUT/15/2087 for the erection of 134no. residential dwellings (Use Class C3), day nursery/creche (Use Class D1) and intergenerational care accommodation (Use Class C2) with details of access not reserved.
-
+94,PlanningHistory,uri,"S/OUT/15/2087 Outline planning application for up to 134no. residential dwellings (Use Class C3), day nursery/creche (Use Class D1) and intergenerational care accommodation (Use Class C2) with details of access not reserved.
+
+S/RES/19/1138 | Reserved Matters application following outline application S/OUT/15/2087 for the erection of 134no. residential dwellings (Use Class C3), day nursery/creche (Use Class D1) and intergenerational care accommodation (Use Class C2) with details of access not reserved.
+
 Application pending determination"
 94,NetDwellingsRangeFrom,default,134
 94,NetDwellingsRangeTo,default,134
@@ -488,20 +488,20 @@ Application pending determination"
 96,NetDwellingsRangeFrom,default,38
 96,NetDwellingsRangeTo,default,38
 96,LastUpdatedDate,default,2020-06-25
-97,PlanningHistory,uri,"S/16/0960 | Erection of an additional storey to provide 5no. flats and associated works.
-
+97,PlanningHistory,uri,"S/16/0960 | Erection of an additional storey to provide 5no. flats and associated works.
+
 Expired September 2019"
 97,NetDwellingsRangeFrom,default,5
 97,NetDwellingsRangeTo,default,5
 97,LastUpdatedDate,default,2020-06-25
-98,PlanningHistory,uri,"S/16/0990 | Erection of an industrial/warehouse unit (class B1(a), B2 and B8) with associated works.
-
+98,PlanningHistory,uri,"S/16/0990 | Erection of an industrial/warehouse unit (class B1(a), B2 and B8) with associated works.
+
 S/17/1858 | Erection of an industrial unit for Class B1(b) - Research and Development, Class B1(c) - Light Industrial, Class B2 - General Industrial and Class B8 - Storage and Distribution uses with associated car parking and infrastructure"
 98,LastUpdatedDate,default,2020-06-25
-99,PlanningHistory,uri,"S/16/1679. 
-
-S/18/0401 | Demolition of 20 Bridge Street and 17 Fleet Street, erection of 4no. commercial units (Class A1 and A3) and 14no. residential apartments and associated works. (Variation of condition of condition 1 from Planning Permission S/16/1679). | 18 - 24 Bridge Street & 16 - 17 Fleet Street Swindon SN1 1BP
-
+99,PlanningHistory,uri,"S/16/1679. 
+
+S/18/0401 | Demolition of 20 Bridge Street and 17 Fleet Street, erection of 4no. commercial units (Class A1 and A3) and 14no. residential apartments and associated works. (Variation of condition of condition 1 from Planning Permission S/16/1679). | 18 - 24 Bridge Street & 16 - 17 Fleet Street Swindon SN1 1BP
+
 Application Granted - 13 June 2018"
 99,NetDwellingsRangeFrom,default,14
 99,NetDwellingsRangeTo,default,14
@@ -512,9 +512,9 @@ Application Granted - 13 June 2018"
 100,LastUpdatedDate,default,2020-06-25
 101,PlanningHistory,uri,"S/09/1817 | Part demolition and extension of existing building to provide new distribution warehouse accommodation including change of use (B8) and construction of new service yard, parking, access, landscaping and associated works. Granted 11 Jan 2010"
 101,LastUpdatedDate,default,2020-06-25
-102,PlanningHistory,uri,"S/09/1817 | Part demolition and extension of existing building to provide new distribution warehouse accommodation including change of use (B8) and construction of new service yard, parking, access, landscaping and associated works. Granted 11 Jan 2010
-
-S/11/0422 | Part demolition and extension of existing  building to provide new distribution warehouse accommodation including change of use (B8) and construction of new service yard, parking, access, landscaping and associated works (Removal of condition 12 in regard to provision of pedestrian link from Salzgitter Drive).
+102,PlanningHistory,uri,"S/09/1817 | Part demolition and extension of existing building to provide new distribution warehouse accommodation including change of use (B8) and construction of new service yard, parking, access, landscaping and associated works. Granted 11 Jan 2010
+
+S/11/0422 | Part demolition and extension of existing  building to provide new distribution warehouse accommodation including change of use (B8) and construction of new service yard, parking, access, landscaping and associated works (Removal of condition 12 in regard to provision of pedestrian link from Salzgitter Drive).
 Application Granted: 16 June 2011"
 102,LastUpdatedDate,default,2020-06-25
 103,PlanningHistory,uri,S/16/0768 | Demolition of the Wheatsheaf Public House and erection of 8no. dwellings and associated works. | The Wheatsheaf Public House 33-36 Dores Road Upper Stratton Swindon SN2 7QT.  Granted permission Fri 12 May 2017
@@ -537,14 +537,14 @@ Application Granted: 16 June 2011"
 107,NetDwellingsRangeFrom,default,6
 107,NetDwellingsRangeTo,default,6
 107,LastUpdatedDate,default,2020-06-25
-108,PlanningHistory,uri,"S/11/0826 S/10/1764 planning permission for 35 B1/B8 units dated 25.08.2011 is now lapsed.
-
-S/13/0458 | Demolition of existing warehouse and erection of an animal bedding and wood pellet processing plant and the erection of a CHP Biomass Plant. | Application granted 11 March 2014
-
+108,PlanningHistory,uri,"S/11/0826 S/10/1764 planning permission for 35 B1/B8 units dated 25.08.2011 is now lapsed.
+
+S/13/0458 | Demolition of existing warehouse and erection of an animal bedding and wood pellet processing plant and the erection of a CHP Biomass Plant. | Application granted 11 March 2014
+
 S/19/1702 | Installation of 6 new roller shutter doors to front elevation and resurfacing and landscaping of external front yard. | Application pending determination"
 108,LastUpdatedDate,default,2020-06-25
-109,PlanningHistory,uri,"S/OUT/19/1566 | A Hybrid application for the demolition of 44-45 Canal Walk (Brunel Shopping Centre) and outline application for the construction of two multi-storey towers for mixed use (up to 290no. residential units) and a podium 1-3 storeys (Use Class A1-A5 and leisure uses) with associated landscaping, access (access, landscaping, layout and scale not reserved) and full application for the reconfiguration of the trucking deck including associated traffic controls.
-
+109,PlanningHistory,uri,"S/OUT/19/1566 | A Hybrid application for the demolition of 44-45 Canal Walk (Brunel Shopping Centre) and outline application for the construction of two multi-storey towers for mixed use (up to 290no. residential units) and a podium 1-3 storeys (Use Class A1-A5 and leisure uses) with associated landscaping, access (access, landscaping, layout and scale not reserved) and full application for the reconfiguration of the trucking deck including associated traffic controls.
+
 Application is pending determination"
 109,NetDwellingsRangeFrom,default,154
 109,NetDwellingsRangeTo,default,154
@@ -552,14 +552,14 @@ Application is pending determination"
 110,NetDwellingsRangeFrom,default,85
 110,NetDwellingsRangeTo,default,85
 110,LastUpdatedDate,default,2020-06-25
-111,PlanningHistory,uri,"S/17/1114 - Resolution to Grant (subject to S106).
-
-The application was granted permission in January 2019. However, a claim was submitted to the High Court for a Judicial Review of the Council's decision on a number of grounds that the Council had acted unlawfully. 
-
-The decision was quashed by an Order made by the High Court on 23rd March 2019.
-
-The application was taken back to Planning Committee and it was resolved that planning permission be granted. 
-
+111,PlanningHistory,uri,"S/17/1114 - Resolution to Grant (subject to S106).
+
+The application was granted permission in January 2019. However, a claim was submitted to the High Court for a Judicial Review of the Council's decision on a number of grounds that the Council had acted unlawfully. 
+
+The decision was quashed by an Order made by the High Court on 23rd March 2019.
+
+The application was taken back to Planning Committee and it was resolved that planning permission be granted. 
+
 The application was granted 12th September 2019"
 111,NetDwellingsRangeFrom,default,8
 111,NetDwellingsRangeTo,default,8
@@ -567,8 +567,8 @@ The application was granted 12th September 2019"
 112,NetDwellingsRangeFrom,default,19
 112,NetDwellingsRangeTo,default,19
 112,LastUpdatedDate,default,2020-06-25
-113,PlanningHistory,uri,"S/17/0128 | Demolition of the pavilions, change of use of offices and ancillary buildings to 25no. apartments/dwellings, erection of 52no. dwellings, construction of new access and associated works.
-
+113,PlanningHistory,uri,"S/17/0128 | Demolition of the pavilions, change of use of offices and ancillary buildings to 25no. apartments/dwellings, erection of 52no. dwellings, construction of new access and associated works.
+
 Granted Permission: 27 April 2018"
 113,NetDwellingsRangeFrom,default,77
 113,NetDwellingsRangeTo,default,77

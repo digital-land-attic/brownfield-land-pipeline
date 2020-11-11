@@ -3,7 +3,7 @@ row-number,field,issue-type,value
 1,NetDwellingsRangeTo,default,8
 2,NetDwellingsRangeFrom,default,6
 2,NetDwellingsRangeTo,default,6
-3,PermissionDate,date,"2019-09-02
+3,PermissionDate,date,"2019-09-02
 2017-07-04"
 3,NetDwellingsRangeFrom,default,12
 3,NetDwellingsRangeTo,default,12
@@ -83,6 +83,9 @@ row-number,field,issue-type,value
 38,MinNetDwellings,integer,Min Net Dwellings
 38,NetDwellingsRangeFrom,integer,Net Dwellings Range From
 38,NetDwellingsRangeTo,integer,Net Dwellings Range To
+38,FirstAddedDate,date,First Added Date
+38,LastUpdatedDate,date,Last Updated Date
+38,LastUpdatedDate,default,2020-06-25
 38,OrganisationURI,default,http://opendatacommunities.org/id/district-council/cherwell
 38,"GeoX,GeoY",Failed to convert point to decimal %s,"['GeoX', 'GeoY']"
 39,NetDwellingsRangeFrom,default,0

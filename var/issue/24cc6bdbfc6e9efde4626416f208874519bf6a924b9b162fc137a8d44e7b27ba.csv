@@ -45,7 +45,7 @@ row-number,field,issue-type,value
 27,MinNetDwellings,integer,7 three bedroom dwellings
 28,MinNetDwellings,integer,5 dwellings
 29,MinNetDwellings,integer,24 sheltered apartments
-31,PlanningHistory,uri,"144693
+31,PlanningHistory,uri,"144693
 160551"
 33,NetDwellingsRangeFrom,default,8
 33,NetDwellingsRangeTo,default,8

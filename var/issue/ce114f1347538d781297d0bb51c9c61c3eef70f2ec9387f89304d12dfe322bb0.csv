@@ -3,7 +3,7 @@ row-number,field,issue-type,value
 2,NetDwellingsRangeTo,default,40
 3,NetDwellingsRangeFrom,default,100
 3,NetDwellingsRangeTo,default,100
-4,PermissionDate,date,"10.11.2016
+4,PermissionDate,date,"10.11.2016
 10.07.2018"
 4,NetDwellingsRangeFrom,default,9
 4,NetDwellingsRangeTo,default,9
@@ -45,8 +45,8 @@ row-number,field,issue-type,value
 24,NetDwellingsRangeTo,default,20
 25,NetDwellingsRangeFrom,default,14
 25,NetDwellingsRangeTo,default,14
-26,PermissionDate,date,"02.10.2015
-03.08.2018
+26,PermissionDate,date,"02.10.2015
+03.08.2018
 24.11.2017"
 26,NetDwellingsRangeFrom,default,61
 26,NetDwellingsRangeTo,default,61
@@ -54,7 +54,7 @@ row-number,field,issue-type,value
 27,NetDwellingsRangeTo,default,9
 28,NetDwellingsRangeFrom,default,37
 28,NetDwellingsRangeTo,default,37
-29,PermissionDate,date,"17.12.2014
+29,PermissionDate,date,"17.12.2014
 06.10.2015"
 29,NetDwellingsRangeFrom,default,154
 29,NetDwellingsRangeTo,default,154
@@ -72,11 +72,11 @@ row-number,field,issue-type,value
 35,NetDwellingsRangeTo,default,40
 36,NetDwellingsRangeFrom,default,150
 36,NetDwellingsRangeTo,default,150
-36,"GeoX,GeoY",Failed to convert point to decimal %s,"['622935\r\r\r\n(ref for 12/00143/ET only)', '309079\r\r\r\n(ref for 12/00143/ET only)']"
+36,"GeoX,GeoY",Failed to convert point to decimal %s,"['622935\n(ref for 12/00143/ET only)', '309079\n(ref for 12/00143/ET only)']"
 37,PlanningHistory,uri,https://https://www.norwich.gov.uk/info/20199/local_plan/1544/city_centre_site_specific_allocations/19
 37,NetDwellingsRangeFrom,default,10
 37,NetDwellingsRangeTo,default,10
-38,PermissionDate,date,"16.04.2015
+38,PermissionDate,date,"16.04.2015
 23.11.2018"
 38,NetDwellingsRangeFrom,default,40
 38,NetDwellingsRangeTo,default,40
@@ -84,8 +84,8 @@ row-number,field,issue-type,value
 39,NetDwellingsRangeTo,default,20
 40,NetDwellingsRangeFrom,default,101
 40,NetDwellingsRangeTo,default,101
-41,PermissionDate,date,"25.10.2016
-22.12.2017
+41,PermissionDate,date,"25.10.2016
+22.12.2017
 16.02.2017"
 41,NetDwellingsRangeFrom,default,37
 41,NetDwellingsRangeTo,default,37
@@ -103,7 +103,7 @@ row-number,field,issue-type,value
 47,NetDwellingsRangeTo,default,15
 48,NetDwellingsRangeFrom,default,25
 48,NetDwellingsRangeTo,default,25
-49,PermissionDate,date,"17.12.2015
+49,PermissionDate,date,"17.12.2015
 21.12.2018"
 49,NetDwellingsRangeFrom,default,29
 49,NetDwellingsRangeTo,default,29
@@ -115,7 +115,7 @@ row-number,field,issue-type,value
 52,NetDwellingsRangeTo,default,30
 53,NetDwellingsRangeFrom,default,11
 53,NetDwellingsRangeTo,default,11
-54,PermissionDate,date,"19.07.2016
+54,PermissionDate,date,"19.07.2016
 15.02.2018"
 54,NetDwellingsRangeFrom,default,5
 54,NetDwellingsRangeTo,default,5
@@ -127,9 +127,9 @@ row-number,field,issue-type,value
 57,NetDwellingsRangeTo,default,25
 58,NetDwellingsRangeFrom,default,11
 58,NetDwellingsRangeTo,default,11
-59,PermissionDate,date,"15.11.2012
+59,PermissionDate,date,"15.11.2012
 04.09.2019"
-59,MinNetDwellings,integer,"200
+59,MinNetDwellings,integer,"200
 220"
 60,NetDwellingsRangeFrom,default,50
 60,NetDwellingsRangeTo,default,50
@@ -137,13 +137,13 @@ row-number,field,issue-type,value
 61,NetDwellingsRangeTo,default,100
 62,NetDwellingsRangeFrom,default,15
 62,NetDwellingsRangeTo,default,15
-63,PermissionDate,date,"05.11.2013
+63,PermissionDate,date,"05.11.2013
 19.02.2019"
 63,NetDwellingsRangeFrom,default,300
 63,NetDwellingsRangeTo,default,300
 64,NetDwellingsRangeFrom,default,400
 64,NetDwellingsRangeTo,default,400
-65,PermissionDate,date,"30.01.2009
+65,PermissionDate,date,"30.01.2009
 12.07.2013"
 65,NetDwellingsRangeFrom,default,20
 65,NetDwellingsRangeTo,default,20
@@ -191,11 +191,11 @@ row-number,field,issue-type,value
 86,NetDwellingsRangeTo,default,28
 87,NetDwellingsRangeFrom,default,7
 87,NetDwellingsRangeTo,default,7
-88,PermissionDate,date,"19.07.2018
+88,PermissionDate,date,"19.07.2018
 14.08.2018"
 88,NetDwellingsRangeFrom,default,69
 88,NetDwellingsRangeTo,default,69
-89,PermissionDate,date,"15.05.2018
+89,PermissionDate,date,"15.05.2018
 22.10.2019"
 89,NetDwellingsRangeFrom,default,6
 89,NetDwellingsRangeTo,default,6
@@ -223,7 +223,7 @@ row-number,field,issue-type,value
 100,NetDwellingsRangeTo,default,246
 101,NetDwellingsRangeFrom,default,14
 101,NetDwellingsRangeTo,default,14
-102,PermissionDate,date,"15.03.2018
+102,PermissionDate,date,"15.03.2018
 30.07.2018"
 102,NetDwellingsRangeFrom,default,5
 102,NetDwellingsRangeTo,default,5

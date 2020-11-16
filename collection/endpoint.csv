@@ -1,4 +1,4 @@
-endpoint,endpoint-url,plugin,parameters,entry-date,start-date,end-date
+endpoint,endpoint-url,parameters,plugin,entry-date,start-date,end-date
 000a05de97fae4ea6e8c7ebbb6adf7ed07f595ef5cf322a620503c4a3113fd0d,http://www.wyre.gov.uk/download/downloads/id/5527/wyre_council_brownfield_register_september_2019.csv,,,,,2020-07-08
 001a20438f6d8a3e0ae901fbff576fb64dcd41b223939094e7d38d363c94b2da,https://www.dorsetforyou.gov.uk/media/224215/Weymouth--Portland-Borough-Council---Brownfield-Register-3rd-December-2017/doc/20171219_WPBC_SHELAA_Export.csv,,,,,2019-03-31
 0023c2787bdf5bff507076999e29f6de9063e18a2b3e0a8e424b92673a122db4,https://liverpool.gov.uk/media/1356598/blr-2018-schedule-no376sites-gis-data-excsiteplanurl-final-010319.xlsx,,,,,

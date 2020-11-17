@@ -4,10 +4,12 @@ row-number,field,issue-type,value
 3,SiteplanURL,uri,BR3
 4,SiteplanURL,uri,BR4
 5,SiteplanURL,uri,BR5
+6,OrganisationURI,opendatacommunities-uri,
 6,SiteplanURL,uri,BR6
 6,OrganisationURI,default,http://opendatacommunities.org/id/unitary-authority/hartlepool
 7,SiteplanURL,uri,BR7
 8,SiteplanURL,uri,BR8
+9,OrganisationURI,opendatacommunities-uri,
 9,SiteplanURL,uri,BR9
 9,OrganisationURI,default,http://opendatacommunities.org/id/unitary-authority/hartlepool
 10,SiteplanURL,uri,BR10

@@ -145,6 +145,7 @@ row-number,field,issue-type,value
 72,NetDwellingsRangeTo,default,11
 73,NetDwellingsRangeFrom,default,5
 73,NetDwellingsRangeTo,default,5
+74,OrganisationURI,opendatacommunities-uri,http://opendatacommunities.org/id/geography/administration/md/E08000020
 74,NetDwellingsRangeFrom,default,8
 74,NetDwellingsRangeTo,default,8
 75,NetDwellingsRangeFrom,default,71

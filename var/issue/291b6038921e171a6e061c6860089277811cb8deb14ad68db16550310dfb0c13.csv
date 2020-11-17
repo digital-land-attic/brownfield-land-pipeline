@@ -99,13 +99,14 @@ row-number,field,issue-type,value
 20,NetDwellingsRangeFrom,default,9
 20,NetDwellingsRangeTo,default,9
 20,LastUpdatedDate,default,2020-06-25
+21,OrganisationURI,opendatacommunities-uri,BLR
 21,OrganisationURI,uri,BLR
 21,SiteplanURL,uri,Link to the map of Ontario Centre Helegan Close associated with Outline Planning Permission 16/05900/OUT
 21,PlanningHistory,uri,Link to Outline Planning Permission 16/05900/OUT for Ontario Centre 9 Helegan Close Orpington
 21,NetDwellingsRangeFrom,default,14
 21,NetDwellingsRangeTo,default,14
-21,LastUpdatedDate,default,2020-06-25
 21,OrganisationURI,default,http://opendatacommunities.org/id/london-borough-council/bromley
+21,LastUpdatedDate,default,2020-06-25
 22,SiteplanURL,uri,Link to the map of 63-35 Chislehurst Road associated with Full planning application 16/01032/FULL1
 22,PlanningHistory,uri,Link to Full planning permission 16/01032/FULL1 for 63 - 65 Chislehurst Road Chislehurst
 22,NetDwellingsRangeFrom,default,5

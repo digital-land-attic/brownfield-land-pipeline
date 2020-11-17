@@ -1,556 +1,240 @@
 row-number,field,issue-type,value
-1,OrganisationURI,uri,Maidstone E07000110
 1,NetDwellingsRangeFrom,default,192
 1,LastUpdatedDate,default,2017-12-01
-1,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-2,OrganisationURI,uri,Maidstone E07000110
 2,NetDwellingsRangeFrom,default,310
 2,LastUpdatedDate,default,2017-12-01
-2,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-3,OrganisationURI,uri,Maidstone E07000110
 3,NetDwellingsRangeFrom,default,190
-3,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-4,OrganisationURI,uri,Maidstone E07000110
 4,NetDwellingsRangeFrom,default,48
-4,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-5,OrganisationURI,uri,Maidstone E07000110
 5,NetDwellingsRangeFrom,default,40
 5,LastUpdatedDate,default,2017-12-01
-5,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-6,OrganisationURI,uri,Maidstone E07000110
 6,NetDwellingsRangeFrom,default,65
 6,LastUpdatedDate,default,2017-12-01
-6,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-7,OrganisationURI,uri,Maidstone E07000110
 7,NetDwellingsRangeFrom,default,15
 7,LastUpdatedDate,default,2017-12-01
-7,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-8,OrganisationURI,uri,Maidstone E07000110
 8,NetDwellingsRangeFrom,default,20
-8,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-9,OrganisationURI,uri,Maidstone E07000110
 9,NetDwellingsRangeFrom,default,76
 9,LastUpdatedDate,default,2017-12-01
-9,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-10,OrganisationURI,uri,Maidstone E07000110
 10,NetDwellingsRangeFrom,default,14
 10,LastUpdatedDate,default,2017-12-01
-10,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-11,OrganisationURI,uri,Maidstone E07000110
 11,NetDwellingsRangeFrom,default,5
 11,LastUpdatedDate,default,2017-12-01
-11,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-12,OrganisationURI,uri,Maidstone E07000110
 12,NetDwellingsRangeFrom,default,75
 12,LastUpdatedDate,default,2017-12-01
-12,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-13,OrganisationURI,uri,Maidstone E07000110
 13,NetDwellingsRangeFrom,default,5
 13,LastUpdatedDate,default,2017-12-01
-13,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-14,OrganisationURI,uri,Maidstone E07000110
 14,NetDwellingsRangeFrom,default,15
 14,LastUpdatedDate,default,2017-12-01
-14,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-15,OrganisationURI,uri,Maidstone E07000110
 15,NetDwellingsRangeFrom,default,20
-15,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-16,OrganisationURI,uri,Maidstone E07000110
 16,NetDwellingsRangeFrom,default,20
 16,LastUpdatedDate,default,2017-12-01
-16,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-17,OrganisationURI,uri,Maidstone E07000110
 17,NetDwellingsRangeFrom,default,25
 17,LastUpdatedDate,default,2017-12-01
-17,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-18,OrganisationURI,uri,Maidstone E07000110
 18,NetDwellingsRangeFrom,default,25
-18,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-19,OrganisationURI,uri,Maidstone E07000110
 19,NetDwellingsRangeFrom,default,1300
 19,LastUpdatedDate,default,2017-12-01
-19,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-20,OrganisationURI,uri,Maidstone E07000110
 20,NetDwellingsRangeFrom,default,25
-20,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-21,OrganisationURI,uri,Maidstone E07000110
 21,NetDwellingsRangeFrom,default,64
 21,LastUpdatedDate,default,2017-12-01
-21,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-22,OrganisationURI,uri,Maidstone E07000110
 22,NetDwellingsRangeFrom,default,27
-22,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-23,OrganisationURI,uri,Maidstone E07000110
 23,NetDwellingsRangeFrom,default,14
-23,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-24,OrganisationURI,uri,Maidstone E07000110
 24,NetDwellingsRangeFrom,default,9
 24,LastUpdatedDate,default,2017-12-01
-24,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-25,OrganisationURI,uri,Maidstone E07000110
 25,NetDwellingsRangeFrom,default,272
 25,LastUpdatedDate,default,2017-12-01
-25,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-26,OrganisationURI,uri,Maidstone E07000110
 26,NetDwellingsRangeFrom,default,192
-26,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-27,OrganisationURI,uri,Maidstone E07000110
 27,NetDwellingsRangeFrom,default,114
-27,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-28,OrganisationURI,uri,Maidstone E07000110
 28,NetDwellingsRangeFrom,default,108
 28,LastUpdatedDate,default,2017-12-01
-28,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-29,OrganisationURI,uri,Maidstone E07000110
 29,NetDwellingsRangeFrom,default,113
-29,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-30,OrganisationURI,uri,Maidstone E07000110
 30,NetDwellingsRangeFrom,default,77
 30,LastUpdatedDate,default,2017-12-01
-30,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-31,OrganisationURI,uri,Maidstone E07000110
 31,NetDwellingsRangeFrom,default,53
-31,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-32,OrganisationURI,uri,Maidstone E07000110
 32,NetDwellingsRangeFrom,default,44
-32,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-33,OrganisationURI,uri,Maidstone E07000110
 33,NetDwellingsRangeFrom,default,43
-33,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-34,OrganisationURI,uri,Maidstone E07000110
 34,NetDwellingsRangeFrom,default,140
-34,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-35,OrganisationURI,uri,Maidstone E07000110
 35,NetDwellingsRangeFrom,default,35
-35,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-36,OrganisationURI,uri,Maidstone E07000110
 36,NetDwellingsRangeFrom,default,33
-36,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-37,OrganisationURI,uri,Maidstone E07000110
 37,NetDwellingsRangeFrom,default,24
-37,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-38,OrganisationURI,uri,Maidstone E07000110
 38,NetDwellingsRangeFrom,default,22
-38,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-39,OrganisationURI,uri,Maidstone E07000110
 39,NetDwellingsRangeFrom,default,18
 39,LastUpdatedDate,default,2017-12-01
-39,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-40,OrganisationURI,uri,Maidstone E07000110
 40,NetDwellingsRangeFrom,default,17
-40,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-41,OrganisationURI,uri,Maidstone E07000110
 41,NetDwellingsRangeFrom,default,16
-41,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-42,OrganisationURI,uri,Maidstone E07000110
 42,NetDwellingsRangeFrom,default,15
-42,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-43,OrganisationURI,uri,Maidstone E07000110
 43,NetDwellingsRangeFrom,default,14
-43,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-44,OrganisationURI,uri,Maidstone E07000110
 44,NetDwellingsRangeFrom,default,14
-44,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-45,OrganisationURI,uri,Maidstone E07000110
 45,NetDwellingsRangeFrom,default,14
-45,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-46,OrganisationURI,uri,Maidstone E07000110
 46,NetDwellingsRangeFrom,default,14
-46,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-47,OrganisationURI,uri,Maidstone E07000110
 47,NetDwellingsRangeFrom,default,14
-47,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-48,OrganisationURI,uri,Maidstone E07000110
 48,NetDwellingsRangeFrom,default,14
-48,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-49,OrganisationURI,uri,Maidstone E07000110
 49,NetDwellingsRangeFrom,default,20
-49,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-50,OrganisationURI,uri,Maidstone E07000110
 50,NetDwellingsRangeFrom,default,14
 50,LastUpdatedDate,default,2017-12-01
-50,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-51,OrganisationURI,uri,Maidstone E07000110
 51,NetDwellingsRangeFrom,default,14
-51,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-52,OrganisationURI,uri,Maidstone E07000110
 52,NetDwellingsRangeFrom,default,13
-52,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-53,OrganisationURI,uri,Maidstone E07000110
 53,NetDwellingsRangeFrom,default,13
-53,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-54,OrganisationURI,uri,Maidstone E07000110
 54,NetDwellingsRangeFrom,default,12
-54,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-55,OrganisationURI,uri,Maidstone E07000110
 55,NetDwellingsRangeFrom,default,12
 55,LastUpdatedDate,default,2017-12-01
-55,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-56,OrganisationURI,uri,Maidstone E07000110
 56,NetDwellingsRangeFrom,default,11
 56,LastUpdatedDate,default,2017-12-01
-56,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-57,OrganisationURI,uri,Maidstone E07000110
 57,NetDwellingsRangeFrom,default,10
 57,LastUpdatedDate,default,2017-12-01
-57,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-58,OrganisationURI,uri,Maidstone E07000110
 58,NetDwellingsRangeFrom,default,10
-58,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-59,OrganisationURI,uri,Maidstone E07000110
 59,NetDwellingsRangeFrom,default,9
-59,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-60,OrganisationURI,uri,Maidstone E07000110
 60,NetDwellingsRangeFrom,default,9
-60,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-61,OrganisationURI,uri,Maidstone E07000110
 61,NetDwellingsRangeFrom,default,9
 61,LastUpdatedDate,default,2017-12-01
-61,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-62,OrganisationURI,uri,Maidstone E07000110
 62,NetDwellingsRangeFrom,default,8
-62,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-63,OrganisationURI,uri,Maidstone E07000110
 63,NetDwellingsRangeFrom,default,8
-63,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-64,OrganisationURI,uri,Maidstone E07000110
 64,NetDwellingsRangeFrom,default,8
 64,LastUpdatedDate,default,2017-12-01
-64,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-65,OrganisationURI,uri,Maidstone E07000110
 65,NetDwellingsRangeFrom,default,8
-65,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-66,OrganisationURI,uri,Maidstone E07000110
 66,NetDwellingsRangeFrom,default,8
-66,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-67,OrganisationURI,uri,Maidstone E07000110
 67,NetDwellingsRangeFrom,default,8
-67,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-68,OrganisationURI,uri,Maidstone E07000110
 68,NetDwellingsRangeFrom,default,8
-68,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-69,OrganisationURI,uri,Maidstone E07000110
 69,NetDwellingsRangeFrom,default,8
 69,LastUpdatedDate,default,2017-12-01
-69,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-70,OrganisationURI,uri,Maidstone E07000110
 70,NetDwellingsRangeFrom,default,8
-70,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-71,OrganisationURI,uri,Maidstone E07000110
 71,NetDwellingsRangeFrom,default,8
-71,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-72,OrganisationURI,uri,Maidstone E07000110
 72,NetDwellingsRangeFrom,default,7
 72,LastUpdatedDate,default,2017-12-01
-72,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-73,OrganisationURI,uri,Maidstone E07000110
 73,NetDwellingsRangeFrom,default,7
-73,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-74,OrganisationURI,uri,Maidstone E07000110
 74,NetDwellingsRangeFrom,default,7
-74,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-75,OrganisationURI,uri,Maidstone E07000110
 75,NetDwellingsRangeFrom,default,6
-75,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-76,OrganisationURI,uri,Maidstone E07000110
 76,NetDwellingsRangeFrom,default,6
-76,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-77,OrganisationURI,uri,Maidstone E07000110
 77,NetDwellingsRangeFrom,default,6
-77,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-78,OrganisationURI,uri,Maidstone E07000110
 78,NetDwellingsRangeFrom,default,6
-78,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-79,OrganisationURI,uri,Maidstone E07000110
 79,NetDwellingsRangeFrom,default,6
-79,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-80,OrganisationURI,uri,Maidstone E07000110
 80,NetDwellingsRangeFrom,default,7
-80,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-81,OrganisationURI,uri,Maidstone E07000110
 81,NetDwellingsRangeFrom,default,6
-81,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-82,OrganisationURI,uri,Maidstone E07000110
 82,NetDwellingsRangeFrom,default,6
-82,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-83,OrganisationURI,uri,Maidstone E07000110
 83,NetDwellingsRangeFrom,default,5
-83,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-84,OrganisationURI,uri,Maidstone E07000110
 84,NetDwellingsRangeFrom,default,5
-84,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-85,OrganisationURI,uri,Maidstone E07000110
 85,NetDwellingsRangeFrom,default,5
 85,LastUpdatedDate,default,2017-12-01
-85,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-86,OrganisationURI,uri,Maidstone E07000110
 86,NetDwellingsRangeFrom,default,5
-86,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-87,OrganisationURI,uri,Maidstone E07000110
 87,NetDwellingsRangeFrom,default,5
-87,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-88,OrganisationURI,uri,Maidstone E07000110
 88,NetDwellingsRangeFrom,default,8
-88,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-89,OrganisationURI,uri,Maidstone E07000110
 89,NetDwellingsRangeFrom,default,4
 89,LastUpdatedDate,default,2017-12-01
-89,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-90,OrganisationURI,uri,Maidstone E07000110
 90,NetDwellingsRangeFrom,default,1
 90,LastUpdatedDate,default,2017-12-01
-90,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-91,OrganisationURI,uri,Maidstone E07000110
 91,NetDwellingsRangeFrom,default,1
-91,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-92,OrganisationURI,uri,Maidstone E07000110
 92,NetDwellingsRangeFrom,default,5
 92,LastUpdatedDate,default,2017-12-01
-92,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-93,OrganisationURI,uri,Maidstone E07000110
 93,NetDwellingsRangeFrom,default,6
 93,LastUpdatedDate,default,2017-12-01
-93,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-94,OrganisationURI,uri,Maidstone E07000110
 94,NetDwellingsRangeFrom,default,14
 94,LastUpdatedDate,default,2017-12-01
-94,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-95,OrganisationURI,uri,Maidstone E07000110
 95,NetDwellingsRangeFrom,default,6
 95,LastUpdatedDate,default,2017-12-01
-95,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-96,OrganisationURI,uri,Maidstone E07000110
 96,NetDwellingsRangeFrom,default,14
 96,LastUpdatedDate,default,2017-12-01
-96,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-97,OrganisationURI,uri,Maidstone E07000110
 97,NetDwellingsRangeFrom,default,14
-97,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-98,OrganisationURI,uri,Maidstone E07000110
 98,NetDwellingsRangeFrom,default,6
 98,LastUpdatedDate,default,2017-12-01
-98,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-99,OrganisationURI,uri,Maidstone E07000110
 99,NetDwellingsRangeFrom,default,5
 99,LastUpdatedDate,default,2017-12-01
-99,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-100,OrganisationURI,uri,Maidstone E07000110
 100,NetDwellingsRangeFrom,default,5
 100,LastUpdatedDate,default,2017-12-01
-100,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-101,OrganisationURI,uri,Maidstone E07000110
 101,NetDwellingsRangeFrom,default,9
 101,LastUpdatedDate,default,2017-12-01
-101,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-102,OrganisationURI,uri,Maidstone E07000110
 102,NetDwellingsRangeFrom,default,9
 102,LastUpdatedDate,default,2017-12-01
-102,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-103,OrganisationURI,uri,Maidstone E07000110
 103,NetDwellingsRangeFrom,default,14
-103,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-104,OrganisationURI,uri,Maidstone E07000110
 104,NetDwellingsRangeFrom,default,26
 104,LastUpdatedDate,default,2017-12-01
-104,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-105,OrganisationURI,uri,Maidstone E07000110
 105,NetDwellingsRangeFrom,default,10
 105,LastUpdatedDate,default,2017-12-01
-105,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-106,OrganisationURI,uri,Maidstone E07000110
 106,NetDwellingsRangeFrom,default,5
 106,LastUpdatedDate,default,2017-12-01
-106,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-107,OrganisationURI,uri,Maidstone E07000110
 107,NetDwellingsRangeFrom,default,5
 107,LastUpdatedDate,default,2017-12-01
-107,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-108,OrganisationURI,uri,Maidstone E07000110
 108,NetDwellingsRangeFrom,default,13
 108,LastUpdatedDate,default,2017-12-01
-108,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-109,OrganisationURI,uri,Maidstone E07000110
 109,NetDwellingsRangeFrom,default,7
 109,LastUpdatedDate,default,2017-12-01
-109,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-110,OrganisationURI,uri,Maidstone E07000110
 110,NetDwellingsRangeFrom,default,123
-110,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-111,OrganisationURI,uri,Maidstone E07000110
 111,NetDwellingsRangeFrom,default,12
-111,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-112,OrganisationURI,uri,Maidstone E07000110
 112,NetDwellingsRangeFrom,default,39
-112,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-113,OrganisationURI,uri,Maidstone E07000110
 113,NetDwellingsRangeFrom,default,6
-113,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-114,OrganisationURI,uri,Maidstone E07000110
 114,NetDwellingsRangeFrom,default,1
 114,LastUpdatedDate,default,2017-12-01
-114,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-115,OrganisationURI,uri,Maidstone E07000110
 115,NetDwellingsRangeFrom,default,12
 115,LastUpdatedDate,default,2017-12-01
-115,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-116,OrganisationURI,uri,Maidstone E07000110
 116,NetDwellingsRangeFrom,default,3
-116,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-117,OrganisationURI,uri,Maidstone E07000110
 117,NetDwellingsRangeFrom,default,7
-117,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-118,OrganisationURI,uri,Maidstone E07000110
 118,NetDwellingsRangeFrom,default,81
 118,LastUpdatedDate,default,2018-06-01
-118,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-119,OrganisationURI,uri,Maidstone E07000110
 119,NetDwellingsRangeFrom,default,47
-119,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-120,OrganisationURI,uri,Maidstone E07000110
 120,NetDwellingsRangeFrom,default,27
-120,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-121,OrganisationURI,uri,Maidstone E07000110
 121,NetDwellingsRangeFrom,default,22
 121,LastUpdatedDate,default,2018-06-01
-121,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-122,OrganisationURI,uri,Maidstone E07000110
 122,NetDwellingsRangeFrom,default,13
 122,LastUpdatedDate,default,2018-06-01
-122,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-123,OrganisationURI,uri,Maidstone E07000110
 123,NetDwellingsRangeFrom,default,12
-123,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-124,OrganisationURI,uri,Maidstone E07000110
 124,NetDwellingsRangeFrom,default,10
 124,LastUpdatedDate,default,2018-06-01
-124,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-125,OrganisationURI,uri,Maidstone E07000110
 125,NetDwellingsRangeFrom,default,9
 125,LastUpdatedDate,default,2018-06-01
-125,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-126,OrganisationURI,uri,Maidstone E07000110
 126,NetDwellingsRangeFrom,default,24
-126,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-127,OrganisationURI,uri,Maidstone E07000110
 127,NetDwellingsRangeFrom,default,7
-127,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-128,OrganisationURI,uri,Maidstone E07000110
 128,NetDwellingsRangeFrom,default,6
 128,LastUpdatedDate,default,2018-06-01
-128,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-129,OrganisationURI,uri,Maidstone E07000110
 129,NetDwellingsRangeFrom,default,6
-129,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-130,OrganisationURI,uri,Maidstone E07000110
 130,NetDwellingsRangeFrom,default,4
 130,LastUpdatedDate,default,2018-06-01
-130,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-131,OrganisationURI,uri,Maidstone E07000110
 131,NetDwellingsRangeFrom,default,5
-131,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-132,OrganisationURI,uri,Maidstone E07000110
 132,NetDwellingsRangeFrom,default,2
-132,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-133,OrganisationURI,uri,Maidstone E07000110
 133,NetDwellingsRangeFrom,default,1
-133,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-134,OrganisationURI,uri,Maidstone E07000110
 134,NetDwellingsRangeFrom,default,3
 134,LastUpdatedDate,default,2018-06-01
-134,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-135,OrganisationURI,uri,Maidstone E07000110
 135,NetDwellingsRangeFrom,default,8
 135,LastUpdatedDate,default,2018-06-01
-135,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-136,OrganisationURI,uri,Maidstone E07000110
 136,NetDwellingsRangeFrom,default,57
 136,LastUpdatedDate,default,2019-05-01
-136,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-137,OrganisationURI,uri,Maidstone E07000110
 137,NetDwellingsRangeFrom,default,10
 137,LastUpdatedDate,default,2019-05-01
-137,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-138,OrganisationURI,uri,Maidstone E07000110
 138,NetDwellingsRangeFrom,default,9
 138,LastUpdatedDate,default,2019-05-01
-138,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-139,OrganisationURI,uri,Maidstone E07000110
 139,NetDwellingsRangeFrom,default,9
 139,LastUpdatedDate,default,2019-05-01
-139,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-140,OrganisationURI,uri,Maidstone E07000110
 140,NetDwellingsRangeFrom,default,9
 140,LastUpdatedDate,default,2019-05-01
-140,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-141,OrganisationURI,uri,Maidstone E07000110
 141,NetDwellingsRangeFrom,default,8
 141,LastUpdatedDate,default,2019-05-01
-141,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-142,OrganisationURI,uri,Maidstone E07000110
 142,NetDwellingsRangeFrom,default,8
 142,LastUpdatedDate,default,2019-05-01
-142,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-143,OrganisationURI,uri,Maidstone E07000110
 143,NetDwellingsRangeFrom,default,8
 143,LastUpdatedDate,default,2019-05-01
-143,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-144,OrganisationURI,uri,Maidstone E07000110
 144,NetDwellingsRangeFrom,default,7
 144,LastUpdatedDate,default,2019-05-01
-144,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-145,OrganisationURI,uri,Maidstone E07000110
 145,NetDwellingsRangeFrom,default,7
 145,LastUpdatedDate,default,2019-05-01
-145,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-146,OrganisationURI,uri,Maidstone E07000110
 146,NetDwellingsRangeFrom,default,6
 146,LastUpdatedDate,default,2019-05-01
-146,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-147,OrganisationURI,uri,Maidstone E07000110
 147,NetDwellingsRangeFrom,default,6
 147,LastUpdatedDate,default,2019-05-01
-147,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-148,OrganisationURI,uri,Maidstone E07000110
 148,NetDwellingsRangeFrom,default,5
 148,LastUpdatedDate,default,2019-05-01
-148,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-149,OrganisationURI,uri,Maidstone E07000110
 149,NetDwellingsRangeFrom,default,6
 149,LastUpdatedDate,default,2019-05-01
-149,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-150,OrganisationURI,uri,Maidstone E07000110
 150,NetDwellingsRangeFrom,default,5
 150,LastUpdatedDate,default,2019-05-01
-150,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-151,OrganisationURI,uri,Maidstone E07000110
 151,NetDwellingsRangeFrom,default,5
 151,LastUpdatedDate,default,2019-05-01
-151,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-152,OrganisationURI,uri,Maidstone E07000110
 152,NetDwellingsRangeFrom,default,2
 152,LastUpdatedDate,default,2019-05-01
-152,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-153,OrganisationURI,uri,Maidstone E07000110
 153,NetDwellingsRangeFrom,default,4
 153,LastUpdatedDate,default,2019-05-01
-153,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-154,OrganisationURI,uri,Maidstone E07000110
 154,NetDwellingsRangeFrom,default,2
 154,LastUpdatedDate,default,2019-05-01
-154,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-155,OrganisationURI,uri,Maidstone E07000110
 155,NetDwellingsRangeFrom,default,2
 155,LastUpdatedDate,default,2019-05-01
-155,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-156,OrganisationURI,uri,Maidstone E07000110
 156,NetDwellingsRangeFrom,default,1
 156,LastUpdatedDate,default,2019-05-01
-156,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-157,OrganisationURI,uri,Maidstone E07000110
 157,NetDwellingsRangeFrom,default,1
 157,LastUpdatedDate,default,2019-05-01
-157,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone
-158,OrganisationURI,uri,Maidstone E07000110
 158,NetDwellingsRangeFrom,default,1
 158,LastUpdatedDate,default,2019-05-01
-158,OrganisationURI,default,http://opendatacommunities.org/id/district-council/maidstone

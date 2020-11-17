@@ -1,19 +1,14 @@
 row-number,field,issue-type,value
 6,NetDwellingsRangeFrom,default,4
 6,NetDwellingsRangeTo,default,4
-6,LastUpdatedDate,default,2020-06-25
 9,NetDwellingsRangeFrom,default,1
 9,NetDwellingsRangeTo,default,1
-9,LastUpdatedDate,default,2020-06-25
 12,NetDwellingsRangeFrom,default,3
 12,NetDwellingsRangeTo,default,3
-12,LastUpdatedDate,default,2020-06-25
 17,NetDwellingsRangeFrom,default,1
 17,NetDwellingsRangeTo,default,1
-17,LastUpdatedDate,default,2020-06-25
 18,NetDwellingsRangeFrom,default,1
 18,NetDwellingsRangeTo,default,1
-18,LastUpdatedDate,default,2020-06-25
 20,PlanningHistory,uri,Site allocation in Camden Site Allocations Plan 2013 https://www.camden.gov.uk/ccm/content/environment/planning-and-built-environment/two/planning-policy/local-development-framework/site-allocations-d
 20,NetDwellingsRangeFrom,default,60
 20,NetDwellingsRangeTo,default,60
@@ -25,72 +20,55 @@ row-number,field,issue-type,value
 22,NetDwellingsRangeTo,default,55
 25,NetDwellingsRangeFrom,default,1
 25,NetDwellingsRangeTo,default,1
-25,LastUpdatedDate,default,2020-06-25
 31,NetDwellingsRangeFrom,default,1
 31,NetDwellingsRangeTo,default,1
-31,LastUpdatedDate,default,2020-06-25
 36,NetDwellingsRangeFrom,default,4
 36,NetDwellingsRangeTo,default,4
 38,NetDwellingsRangeFrom,default,1
 38,NetDwellingsRangeTo,default,1
-38,LastUpdatedDate,default,2020-06-25
 45,NetDwellingsRangeFrom,default,1
 45,NetDwellingsRangeTo,default,1
-45,LastUpdatedDate,default,2020-06-25
 51,NetDwellingsRangeFrom,default,4
 51,NetDwellingsRangeTo,default,4
 51,"GeoX,GeoY",out of range,"3976518.8309999998,-6392.1854000000003"
 54,NetDwellingsRangeFrom,default,2
 54,NetDwellingsRangeTo,default,2
-54,LastUpdatedDate,default,2020-06-25
 57,NetDwellingsRangeFrom,default,1
 57,NetDwellingsRangeTo,default,1
-57,LastUpdatedDate,default,2020-06-25
 58,NetDwellingsRangeFrom,default,1
 58,NetDwellingsRangeTo,default,1
-58,LastUpdatedDate,default,2020-06-25
 60,NetDwellingsRangeFrom,default,1
 60,NetDwellingsRangeTo,default,1
-60,LastUpdatedDate,default,2020-06-25
 62,NetDwellingsRangeFrom,default,1
 62,NetDwellingsRangeTo,default,1
-62,LastUpdatedDate,default,2020-06-25
 67,NetDwellingsRangeFrom,default,8
 67,NetDwellingsRangeTo,default,8
 73,NetDwellingsRangeFrom,default,10
 73,NetDwellingsRangeTo,default,10
 75,NetDwellingsRangeFrom,default,1
 75,NetDwellingsRangeTo,default,1
-75,LastUpdatedDate,default,2020-06-25
 77,NetDwellingsRangeFrom,default,2
 77,NetDwellingsRangeTo,default,2
-77,LastUpdatedDate,default,2020-06-25
 80,NetDwellingsRangeFrom,default,3
 80,NetDwellingsRangeTo,default,3
-80,LastUpdatedDate,default,2020-06-25
 93,NetDwellingsRangeFrom,default,3
 93,NetDwellingsRangeTo,default,3
-93,LastUpdatedDate,default,2020-06-25
 95,NetDwellingsRangeFrom,default,22
 95,NetDwellingsRangeTo,default,22
 97,NetDwellingsRangeFrom,default,1
 97,NetDwellingsRangeTo,default,1
-97,LastUpdatedDate,default,2020-06-25
 99,NetDwellingsRangeFrom,default,5
 99,NetDwellingsRangeTo,default,5
 100,NetDwellingsRangeFrom,default,1
 100,NetDwellingsRangeTo,default,1
-100,LastUpdatedDate,default,2020-06-25
 108,NetDwellingsRangeFrom,default,5
 108,NetDwellingsRangeTo,default,5
 111,NetDwellingsRangeFrom,default,1
 111,NetDwellingsRangeTo,default,1
-111,LastUpdatedDate,default,2020-06-25
 112,NetDwellingsRangeFrom,default,7
 112,NetDwellingsRangeTo,default,7
 116,NetDwellingsRangeFrom,default,2
 116,NetDwellingsRangeTo,default,2
-116,LastUpdatedDate,default,2020-06-25
 121,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
 121,NetDwellingsRangeFrom,default,5
 121,NetDwellingsRangeTo,default,5
@@ -98,16 +76,12 @@ row-number,field,issue-type,value
 122,NetDwellingsRangeTo,default,14
 132,NetDwellingsRangeFrom,default,1
 132,NetDwellingsRangeTo,default,1
-132,LastUpdatedDate,default,2020-06-25
 137,NetDwellingsRangeFrom,default,2
 137,NetDwellingsRangeTo,default,2
-137,LastUpdatedDate,default,2020-06-25
 151,NetDwellingsRangeFrom,default,2
 151,NetDwellingsRangeTo,default,2
-151,LastUpdatedDate,default,2020-06-25
 154,NetDwellingsRangeFrom,default,2
 154,NetDwellingsRangeTo,default,2
-154,LastUpdatedDate,default,2020-06-25
 158,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
 158,NetDwellingsRangeFrom,default,40
 158,NetDwellingsRangeTo,default,40
@@ -123,12 +97,10 @@ row-number,field,issue-type,value
 169,"GeoX,GeoY",out of range,"3975249.6329999999,-6824.1239999999998"
 170,NetDwellingsRangeFrom,default,8
 170,NetDwellingsRangeTo,default,8
-170,LastUpdatedDate,default,2020-06-25
 171,NetDwellingsRangeFrom,default,9
 171,NetDwellingsRangeTo,default,9
 178,NetDwellingsRangeFrom,default,1
 178,NetDwellingsRangeTo,default,1
-178,LastUpdatedDate,default,2020-06-25
 179,NetDwellingsRangeFrom,default,5
 179,NetDwellingsRangeTo,default,5
 181,NetDwellingsRangeFrom,default,3
@@ -136,31 +108,25 @@ row-number,field,issue-type,value
 181,"GeoX,GeoY",out of range,"3973231.5550000002,-7017.8242"
 193,NetDwellingsRangeFrom,default,1
 193,NetDwellingsRangeTo,default,1
-193,LastUpdatedDate,default,2020-06-25
 194,NetDwellingsRangeFrom,default,5
 194,NetDwellingsRangeTo,default,5
 194,"GeoX,GeoY",out of range,"3974408.1639999999,-6610.6246000000001"
 195,NetDwellingsRangeFrom,default,1
 195,NetDwellingsRangeTo,default,1
-195,LastUpdatedDate,default,2020-06-25
 200,NetDwellingsRangeFrom,default,6
 200,NetDwellingsRangeTo,default,6
 202,NetDwellingsRangeFrom,default,5
 202,NetDwellingsRangeTo,default,5
 203,NetDwellingsRangeFrom,default,7
 203,NetDwellingsRangeTo,default,7
-203,LastUpdatedDate,default,2020-06-25
 204,NetDwellingsRangeFrom,default,6
 204,NetDwellingsRangeTo,default,6
 208,NetDwellingsRangeFrom,default,2
 208,NetDwellingsRangeTo,default,2
-208,LastUpdatedDate,default,2020-06-25
 210,NetDwellingsRangeFrom,default,2
 210,NetDwellingsRangeTo,default,2
-210,LastUpdatedDate,default,2020-06-25
 211,NetDwellingsRangeFrom,default,0
 211,NetDwellingsRangeTo,default,0
-211,LastUpdatedDate,default,2020-06-25
 211,"GeoX,GeoY",WGS84 outside England,"0,0"
 213,NetDwellingsRangeFrom,default,6
 213,NetDwellingsRangeTo,default,6
@@ -175,7 +141,6 @@ row-number,field,issue-type,value
 224,NetDwellingsRangeTo,default,7
 225,NetDwellingsRangeFrom,default,2
 225,NetDwellingsRangeTo,default,2
-225,LastUpdatedDate,default,2020-06-25
 226,NetDwellingsRangeFrom,default,19
 226,NetDwellingsRangeTo,default,19
 231,NetDwellingsRangeFrom,default,8
@@ -189,7 +154,6 @@ row-number,field,issue-type,value
 236,NetDwellingsRangeTo,default,6
 237,NetDwellingsRangeFrom,default,7
 237,NetDwellingsRangeTo,default,7
-237,LastUpdatedDate,default,2020-06-25
 239,NetDwellingsRangeFrom,default,5
 239,NetDwellingsRangeTo,default,5
 243,NetDwellingsRangeFrom,default,6
@@ -199,7 +163,6 @@ row-number,field,issue-type,value
 246,NetDwellingsRangeTo,default,12
 247,NetDwellingsRangeFrom,default,1
 247,NetDwellingsRangeTo,default,1
-247,LastUpdatedDate,default,2020-06-25
 248,NetDwellingsRangeFrom,default,4
 248,NetDwellingsRangeTo,default,4
 248,"GeoX,GeoY",out of range,"3975053.4509999999,-8148.0454"
@@ -229,7 +192,6 @@ row-number,field,issue-type,value
 269,NetDwellingsRangeTo,default,6
 270,NetDwellingsRangeFrom,default,1
 270,NetDwellingsRangeTo,default,1
-270,LastUpdatedDate,default,2020-06-25
 271,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
 271,NetDwellingsRangeFrom,default,9
 271,NetDwellingsRangeTo,default,9
@@ -259,7 +221,6 @@ row-number,field,issue-type,value
 291,LastUpdatedDate,default,2017-12-31
 292,NetDwellingsRangeFrom,default,2
 292,NetDwellingsRangeTo,default,2
-292,LastUpdatedDate,default,2020-06-25
 294,NetDwellingsRangeFrom,default,8
 294,NetDwellingsRangeTo,default,8
 294,"GeoX,GeoY",out of range,"3975077.8020000001,-8357.0174000000006"
@@ -267,14 +228,12 @@ row-number,field,issue-type,value
 296,NetDwellingsRangeTo,default,15
 297,NetDwellingsRangeFrom,default,1
 297,NetDwellingsRangeTo,default,1
-297,LastUpdatedDate,default,2020-06-25
 298,NetDwellingsRangeFrom,default,5
 298,NetDwellingsRangeTo,default,5
 299,NetDwellingsRangeFrom,default,6
 299,NetDwellingsRangeTo,default,6
 300,NetDwellingsRangeFrom,default,1
 300,NetDwellingsRangeTo,default,1
-300,LastUpdatedDate,default,2020-06-25
 302,NetDwellingsRangeFrom,default,5
 302,NetDwellingsRangeTo,default,5
 303,NetDwellingsRangeFrom,default,6
@@ -287,7 +246,6 @@ row-number,field,issue-type,value
 307,NetDwellingsRangeTo,default,7
 308,NetDwellingsRangeFrom,default,9
 308,NetDwellingsRangeTo,default,9
-308,LastUpdatedDate,default,2020-06-25
 309,NetDwellingsRangeFrom,default,5
 309,NetDwellingsRangeTo,default,5
 310,NetDwellingsRangeFrom,default,7
@@ -344,30 +302,23 @@ row-number,field,issue-type,value
 338,NetDwellingsRangeTo,default,5
 340,NetDwellingsRangeFrom,default,6
 340,NetDwellingsRangeTo,default,6
-340,LastUpdatedDate,default,2020-06-25
 345,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
 345,NetDwellingsRangeFrom,default,5
 345,NetDwellingsRangeTo,default,5
 346,NetDwellingsRangeFrom,default,4
 346,NetDwellingsRangeTo,default,4
-346,LastUpdatedDate,default,2020-06-25
 348,NetDwellingsRangeFrom,default,1
 348,NetDwellingsRangeTo,default,1
-348,LastUpdatedDate,default,2020-06-25
 349,NetDwellingsRangeFrom,default,2
 349,NetDwellingsRangeTo,default,2
-349,LastUpdatedDate,default,2020-06-25
 350,NetDwellingsRangeFrom,default,4
 350,NetDwellingsRangeTo,default,4
-350,LastUpdatedDate,default,2020-06-25
 351,NetDwellingsRangeFrom,default,1
 351,NetDwellingsRangeTo,default,1
-351,LastUpdatedDate,default,2020-06-25
 352,NetDwellingsRangeFrom,default,5
 352,NetDwellingsRangeTo,default,5
 353,NetDwellingsRangeFrom,default,8
 353,NetDwellingsRangeTo,default,8
-353,LastUpdatedDate,default,2020-06-25
 356,NetDwellingsRangeFrom,default,8
 356,NetDwellingsRangeTo,default,8
 356,LastUpdatedDate,default,2017-12-31
@@ -390,38 +341,29 @@ row-number,field,issue-type,value
 371,NetDwellingsRangeTo,default,48
 375,NetDwellingsRangeFrom,default,4
 375,NetDwellingsRangeTo,default,4
-375,LastUpdatedDate,default,2020-06-25
 376,NetDwellingsRangeFrom,default,5
 376,NetDwellingsRangeTo,default,5
 377,NetDwellingsRangeFrom,default,3
 377,NetDwellingsRangeTo,default,3
-377,LastUpdatedDate,default,2020-06-25
 378,NetDwellingsRangeFrom,default,8
 378,NetDwellingsRangeTo,default,8
-378,LastUpdatedDate,default,2020-06-25
 381,NetDwellingsRangeFrom,default,3
 381,NetDwellingsRangeTo,default,3
-381,LastUpdatedDate,default,2020-06-25
 383,NetDwellingsRangeFrom,default,2
 383,NetDwellingsRangeTo,default,2
-383,LastUpdatedDate,default,2020-06-25
 384,NetDwellingsRangeFrom,default,8
 384,NetDwellingsRangeTo,default,8
 385,NetDwellingsRangeFrom,default,8
 385,NetDwellingsRangeTo,default,8
-385,LastUpdatedDate,default,2020-06-25
 386,NetDwellingsRangeFrom,default,3
 386,NetDwellingsRangeTo,default,3
-386,LastUpdatedDate,default,2020-06-25
 389,NetDwellingsRangeFrom,default,1
 389,NetDwellingsRangeTo,default,1
-389,LastUpdatedDate,default,2020-06-25
 390,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
 390,NetDwellingsRangeFrom,default,9
 390,NetDwellingsRangeTo,default,9
 391,NetDwellingsRangeFrom,default,1
 391,NetDwellingsRangeTo,default,1
-391,LastUpdatedDate,default,2020-06-25
 392,NetDwellingsRangeFrom,default,16
 392,NetDwellingsRangeTo,default,16
 393,NetDwellingsRangeFrom,default,5
@@ -442,7 +384,6 @@ row-number,field,issue-type,value
 401,NetDwellingsRangeTo,default,2
 402,NetDwellingsRangeFrom,default,1
 402,NetDwellingsRangeTo,default,1
-402,LastUpdatedDate,default,2020-06-25
 407,NetDwellingsRangeFrom,default,25
 407,NetDwellingsRangeTo,default,25
 409,NetDwellingsRangeFrom,default,5
@@ -473,7 +414,6 @@ row-number,field,issue-type,value
 430,NetDwellingsRangeTo,default,5
 431,NetDwellingsRangeFrom,default,1
 431,NetDwellingsRangeTo,default,1
-431,LastUpdatedDate,default,2020-06-25
 433,"GeoX,GeoY",out of range,"3973188.7629999998,-7534.6224000000002"
 434,NetDwellingsRangeFrom,default,9
 434,NetDwellingsRangeTo,default,9
@@ -483,10 +423,8 @@ row-number,field,issue-type,value
 436,NetDwellingsRangeTo,default,8
 438,NetDwellingsRangeFrom,default,3
 438,NetDwellingsRangeTo,default,3
-438,LastUpdatedDate,default,2020-06-25
 440,NetDwellingsRangeFrom,default,3
 440,NetDwellingsRangeTo,default,3
-440,LastUpdatedDate,default,2020-06-25
 441,NetDwellingsRangeFrom,default,6
 441,NetDwellingsRangeTo,default,6
 444,NetDwellingsRangeFrom,default,6
@@ -498,7 +436,6 @@ row-number,field,issue-type,value
 450,NetDwellingsRangeTo,default,10
 451,NetDwellingsRangeFrom,default,2
 451,NetDwellingsRangeTo,default,2
-451,LastUpdatedDate,default,2020-06-25
 452,NetDwellingsRangeFrom,default,5
 452,NetDwellingsRangeTo,default,5
 453,NetDwellingsRangeFrom,default,9
@@ -509,10 +446,8 @@ row-number,field,issue-type,value
 455,NetDwellingsRangeTo,default,6
 458,NetDwellingsRangeFrom,default,2
 458,NetDwellingsRangeTo,default,2
-458,LastUpdatedDate,default,2020-06-25
 461,NetDwellingsRangeFrom,default,2
 461,NetDwellingsRangeTo,default,2
-461,LastUpdatedDate,default,2020-06-25
 462,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
 462,NetDwellingsRangeFrom,default,9
 462,NetDwellingsRangeTo,default,9
@@ -520,12 +455,10 @@ row-number,field,issue-type,value
 463,NetDwellingsRangeTo,default,4
 464,NetDwellingsRangeFrom,default,2
 464,NetDwellingsRangeTo,default,2
-464,LastUpdatedDate,default,2020-06-25
 465,NetDwellingsRangeFrom,default,6
 465,NetDwellingsRangeTo,default,6
 466,NetDwellingsRangeFrom,default,3
 466,NetDwellingsRangeTo,default,3
-466,LastUpdatedDate,default,2020-06-25
 467,NetDwellingsRangeFrom,default,7
 467,NetDwellingsRangeTo,default,7
 468,NetDwellingsRangeFrom,default,5
@@ -555,10 +488,8 @@ row-number,field,issue-type,value
 486,NetDwellingsRangeTo,default,6
 487,NetDwellingsRangeFrom,default,5
 487,NetDwellingsRangeTo,default,5
-487,LastUpdatedDate,default,2020-06-25
 488,NetDwellingsRangeFrom,default,5
 488,NetDwellingsRangeTo,default,5
-488,LastUpdatedDate,default,2020-06-25
 489,NetDwellingsRangeFrom,default,9
 489,NetDwellingsRangeTo,default,9
 494,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
@@ -591,7 +522,6 @@ row-number,field,issue-type,value
 516,NetDwellingsRangeTo,default,8
 517,NetDwellingsRangeFrom,default,8
 517,NetDwellingsRangeTo,default,8
-517,LastUpdatedDate,default,2020-06-25
 518,NetDwellingsRangeFrom,default,5
 518,NetDwellingsRangeTo,default,5
 518,"GeoX,GeoY",out of range,"3972978.3319999999,-9244.2618999999995"
@@ -622,7 +552,6 @@ row-number,field,issue-type,value
 534,NetDwellingsRangeTo,default,9
 535,NetDwellingsRangeFrom,default,0
 535,NetDwellingsRangeTo,default,0
-535,LastUpdatedDate,default,2020-06-25
 536,NetDwellingsRangeFrom,default,5
 536,NetDwellingsRangeTo,default,5
 537,NetDwellingsRangeFrom,default,5
@@ -710,7 +639,6 @@ row-number,field,issue-type,value
 583,LastUpdatedDate,default,2017-12-31
 584,NetDwellingsRangeFrom,default,6
 584,NetDwellingsRangeTo,default,6
-584,LastUpdatedDate,default,2020-06-25
 585,NetDwellingsRangeFrom,default,9
 585,NetDwellingsRangeTo,default,9
 586,NetDwellingsRangeFrom,default,9
@@ -725,7 +653,6 @@ row-number,field,issue-type,value
 590,NetDwellingsRangeTo,default,9
 591,NetDwellingsRangeFrom,default,3
 591,NetDwellingsRangeTo,default,3
-591,LastUpdatedDate,default,2020-06-25
 592,NetDwellingsRangeFrom,default,9
 592,NetDwellingsRangeTo,default,9
 593,NetDwellingsRangeFrom,default,7
@@ -817,7 +744,6 @@ row-number,field,issue-type,value
 648,"GeoX,GeoY",out of range,"3974891.341,-8109.3635999999997"
 649,NetDwellingsRangeFrom,default,12
 649,NetDwellingsRangeTo,default,12
-649,LastUpdatedDate,default,2020-06-25
 650,NetDwellingsRangeFrom,default,7
 650,NetDwellingsRangeTo,default,7
 651,NetDwellingsRangeFrom,default,6
@@ -830,7 +756,6 @@ row-number,field,issue-type,value
 656,NetDwellingsRangeTo,default,6
 659,NetDwellingsRangeFrom,default,4
 659,NetDwellingsRangeTo,default,4
-659,LastUpdatedDate,default,2020-06-25
 660,NetDwellingsRangeFrom,default,45
 660,NetDwellingsRangeTo,default,45
 661,NetDwellingsRangeFrom,default,7
@@ -868,7 +793,6 @@ row-number,field,issue-type,value
 677,NetDwellingsRangeTo,default,6
 678,NetDwellingsRangeFrom,default,6
 678,NetDwellingsRangeTo,default,6
-678,LastUpdatedDate,default,2020-06-25
 680,NetDwellingsRangeFrom,default,15
 680,NetDwellingsRangeTo,default,15
 680,"GeoX,GeoY",out of range,"3973268.0550000002,-8410.8842999999997"
@@ -930,7 +854,6 @@ row-number,field,issue-type,value
 712,NetDwellingsRangeTo,default,59
 713,NetDwellingsRangeFrom,default,9
 713,NetDwellingsRangeTo,default,9
-713,LastUpdatedDate,default,2020-06-25
 714,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
 714,NetDwellingsRangeFrom,default,6
 714,NetDwellingsRangeTo,default,6
@@ -971,7 +894,6 @@ row-number,field,issue-type,value
 734,NetDwellingsRangeTo,default,8
 737,NetDwellingsRangeFrom,default,9
 737,NetDwellingsRangeTo,default,9
-737,LastUpdatedDate,default,2020-06-25
 738,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
 738,NetDwellingsRangeFrom,default,8
 738,NetDwellingsRangeTo,default,8
@@ -1068,7 +990,6 @@ row-number,field,issue-type,value
 789,NetDwellingsRangeTo,default,11
 790,NetDwellingsRangeFrom,default,9
 790,NetDwellingsRangeTo,default,9
-790,LastUpdatedDate,default,2020-06-25
 791,NetDwellingsRangeFrom,default,6
 791,NetDwellingsRangeTo,default,6
 793,NetDwellingsRangeFrom,default,34
@@ -1096,15 +1017,12 @@ row-number,field,issue-type,value
 804,NetDwellingsRangeTo,default,5
 805,NetDwellingsRangeFrom,default,7
 805,NetDwellingsRangeTo,default,7
-805,LastUpdatedDate,default,2020-06-25
 806,NetDwellingsRangeFrom,default,3
 806,NetDwellingsRangeTo,default,3
-806,LastUpdatedDate,default,2020-06-25
 807,NetDwellingsRangeFrom,default,20
 807,NetDwellingsRangeTo,default,20
 808,NetDwellingsRangeFrom,default,9
 808,NetDwellingsRangeTo,default,9
-808,LastUpdatedDate,default,2020-06-25
 809,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
 809,NetDwellingsRangeFrom,default,10
 809,NetDwellingsRangeTo,default,10
@@ -1129,7 +1047,6 @@ row-number,field,issue-type,value
 819,NetDwellingsRangeTo,default,6
 820,NetDwellingsRangeFrom,default,9
 820,NetDwellingsRangeTo,default,9
-820,LastUpdatedDate,default,2020-06-25
 821,NetDwellingsRangeFrom,default,8
 821,NetDwellingsRangeTo,default,8
 822,NetDwellingsRangeFrom,default,52
@@ -1139,12 +1056,10 @@ row-number,field,issue-type,value
 823,NetDwellingsRangeTo,default,8
 824,NetDwellingsRangeFrom,default,4
 824,NetDwellingsRangeTo,default,4
-824,LastUpdatedDate,default,2020-06-25
 825,NetDwellingsRangeFrom,default,23
 825,NetDwellingsRangeTo,default,23
 826,NetDwellingsRangeFrom,default,5
 826,NetDwellingsRangeTo,default,5
-826,LastUpdatedDate,default,2020-06-25
 827,NetDwellingsRangeFrom,default,15
 827,NetDwellingsRangeTo,default,15
 829,NetDwellingsRangeFrom,default,7
@@ -1165,7 +1080,6 @@ row-number,field,issue-type,value
 839,NetDwellingsRangeTo,default,41
 840,NetDwellingsRangeFrom,default,2
 840,NetDwellingsRangeTo,default,2
-840,LastUpdatedDate,default,2020-06-25
 842,NetDwellingsRangeFrom,default,5
 842,NetDwellingsRangeTo,default,5
 843,NetDwellingsRangeFrom,default,9
@@ -1190,10 +1104,8 @@ row-number,field,issue-type,value
 851,"GeoX,GeoY",out of range,"3976539.477,-6343.8783000000003"
 852,NetDwellingsRangeFrom,default,4
 852,NetDwellingsRangeTo,default,4
-852,LastUpdatedDate,default,2020-06-25
 856,NetDwellingsRangeFrom,default,8
 856,NetDwellingsRangeTo,default,8
-856,LastUpdatedDate,default,2020-06-25
 859,NetDwellingsRangeFrom,default,5
 859,NetDwellingsRangeTo,default,5
 860,NetDwellingsRangeFrom,default,8
@@ -1238,7 +1150,6 @@ row-number,field,issue-type,value
 884,NetDwellingsRangeTo,default,5
 885,NetDwellingsRangeFrom,default,2
 885,NetDwellingsRangeTo,default,2
-885,LastUpdatedDate,default,2020-06-25
 887,NetDwellingsRangeFrom,default,10
 887,NetDwellingsRangeTo,default,10
 889,NetDwellingsRangeFrom,default,5
@@ -1310,7 +1221,6 @@ row-number,field,issue-type,value
 926,NetDwellingsRangeTo,default,10
 927,NetDwellingsRangeFrom,default,6
 927,NetDwellingsRangeTo,default,6
-927,LastUpdatedDate,default,2020-06-25
 928,NetDwellingsRangeFrom,default,16
 928,NetDwellingsRangeTo,default,16
 929,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
@@ -1318,7 +1228,6 @@ row-number,field,issue-type,value
 929,NetDwellingsRangeTo,default,9
 930,NetDwellingsRangeFrom,default,31
 930,NetDwellingsRangeTo,default,31
-930,LastUpdatedDate,default,2020-06-25
 931,NetDwellingsRangeFrom,default,29
 931,NetDwellingsRangeTo,default,29
 932,NetDwellingsRangeFrom,default,27
@@ -1365,12 +1274,10 @@ row-number,field,issue-type,value
 954,NetDwellingsRangeTo,default,11
 955,NetDwellingsRangeFrom,default,1
 955,NetDwellingsRangeTo,default,1
-955,LastUpdatedDate,default,2020-06-25
 956,NetDwellingsRangeFrom,default,5
 956,NetDwellingsRangeTo,default,5
 958,NetDwellingsRangeFrom,default,25
 958,NetDwellingsRangeTo,default,25
-958,LastUpdatedDate,default,2020-06-25
 959,NetDwellingsRangeFrom,default,9
 959,NetDwellingsRangeTo,default,9
 960,NetDwellingsRangeFrom,default,14
@@ -1388,7 +1295,6 @@ row-number,field,issue-type,value
 966,NetDwellingsRangeTo,default,9
 968,NetDwellingsRangeFrom,default,9
 968,NetDwellingsRangeTo,default,9
-968,LastUpdatedDate,default,2020-06-25
 969,NetDwellingsRangeFrom,default,5
 969,NetDwellingsRangeTo,default,5
 971,NetDwellingsRangeFrom,default,10
@@ -1399,7 +1305,6 @@ row-number,field,issue-type,value
 973,NetDwellingsRangeTo,default,9
 974,NetDwellingsRangeFrom,default,4
 974,NetDwellingsRangeTo,default,4
-974,LastUpdatedDate,default,2020-06-25
 975,NetDwellingsRangeFrom,default,8
 975,NetDwellingsRangeTo,default,8
 977,NetDwellingsRangeFrom,default,17
@@ -1430,7 +1335,6 @@ row-number,field,issue-type,value
 992,NetDwellingsRangeTo,default,8
 993,NetDwellingsRangeFrom,default,1
 993,NetDwellingsRangeTo,default,1
-993,LastUpdatedDate,default,2020-06-25
 994,NetDwellingsRangeFrom,default,9
 994,NetDwellingsRangeTo,default,9
 995,NetDwellingsRangeFrom,default,43
@@ -1443,7 +1347,6 @@ row-number,field,issue-type,value
 999,NetDwellingsRangeTo,default,41
 1000,NetDwellingsRangeFrom,default,9
 1000,NetDwellingsRangeTo,default,9
-1000,LastUpdatedDate,default,2020-06-25
 1002,NetDwellingsRangeFrom,default,9
 1002,NetDwellingsRangeTo,default,9
 1002,LastUpdatedDate,default,2017-12-31
@@ -1462,7 +1365,6 @@ row-number,field,issue-type,value
 1009,NetDwellingsRangeTo,default,52
 1010,NetDwellingsRangeFrom,default,18
 1010,NetDwellingsRangeTo,default,18
-1010,LastUpdatedDate,default,2020-06-25
 1011,NetDwellingsRangeFrom,default,35
 1011,NetDwellingsRangeTo,default,35
 1012,NetDwellingsRangeFrom,default,6
@@ -1586,7 +1488,6 @@ row-number,field,issue-type,value
 1072,LastUpdatedDate,default,2017-12-31
 1073,NetDwellingsRangeFrom,default,3
 1073,NetDwellingsRangeTo,default,3
-1073,LastUpdatedDate,default,2020-06-25
 1074,NetDwellingsRangeFrom,default,5
 1074,NetDwellingsRangeTo,default,5
 1075,NetDwellingsRangeFrom,default,16
@@ -1602,7 +1503,6 @@ row-number,field,issue-type,value
 1079,NetDwellingsRangeTo,default,40
 1081,NetDwellingsRangeFrom,default,47
 1081,NetDwellingsRangeTo,default,47
-1081,LastUpdatedDate,default,2020-06-25
 1082,NetDwellingsRangeFrom,default,110
 1082,NetDwellingsRangeTo,default,110
 1083,NetDwellingsRangeFrom,default,30
@@ -1622,10 +1522,8 @@ row-number,field,issue-type,value
 1091,NetDwellingsRangeTo,default,5
 1092,NetDwellingsRangeFrom,default,14
 1092,NetDwellingsRangeTo,default,14
-1092,LastUpdatedDate,default,2020-06-25
 1094,NetDwellingsRangeFrom,default,28
 1094,NetDwellingsRangeTo,default,28
-1094,LastUpdatedDate,default,2020-06-25
 1096,NetDwellingsRangeFrom,default,27
 1096,NetDwellingsRangeTo,default,27
 1097,PlanningHistory,uri,Fitzrovia Area Action Plan http://camden.gov.uk/ccm/content/environment/planning-and-built-environment/two/planning-policy/local-development-framework/fitzrovia-aap.en
@@ -1701,7 +1599,6 @@ row-number,field,issue-type,value
 1132,NetDwellingsRangeTo,default,9
 1133,NetDwellingsRangeFrom,default,42
 1133,NetDwellingsRangeTo,default,42
-1133,LastUpdatedDate,default,2020-06-25
 1136,NetDwellingsRangeFrom,default,97
 1136,NetDwellingsRangeTo,default,97
 1137,NetDwellingsRangeFrom,default,25
@@ -1765,7 +1662,6 @@ row-number,field,issue-type,value
 1167,NetDwellingsRangeTo,default,81
 1168,NetDwellingsRangeFrom,default,29
 1168,NetDwellingsRangeTo,default,29
-1168,LastUpdatedDate,default,2020-06-25
 1169,NetDwellingsRangeFrom,default,7
 1169,NetDwellingsRangeTo,default,7
 1169,LastUpdatedDate,default,2017-12-31
@@ -1792,7 +1688,6 @@ row-number,field,issue-type,value
 1180,NetDwellingsRangeTo,default,36
 1181,NetDwellingsRangeFrom,default,5
 1181,NetDwellingsRangeTo,default,5
-1182,OrganisationURI,uri,Hounslow
 1182,NetDwellingsRangeFrom,default,40
 1182,NetDwellingsRangeTo,default,40
 1184,NetDwellingsRangeFrom,default,5
@@ -1829,7 +1724,6 @@ row-number,field,issue-type,value
 1202,NetDwellingsRangeTo,default,18
 1203,NetDwellingsRangeFrom,default,5
 1203,NetDwellingsRangeTo,default,5
-1204,OrganisationURI,uri,Hounslow
 1204,NetDwellingsRangeFrom,default,29
 1204,NetDwellingsRangeTo,default,29
 1205,NetDwellingsRangeFrom,default,60
@@ -2026,7 +1920,6 @@ row-number,field,issue-type,value
 1320,NetDwellingsRangeFrom,default,12
 1320,NetDwellingsRangeTo,default,12
 1320,"GeoX,GeoY",out of range,"3974308.8220000002,-8759.4089000000004"
-1321,OrganisationURI,uri,Hounslow
 1321,NetDwellingsRangeFrom,default,62
 1321,NetDwellingsRangeTo,default,62
 1323,NetDwellingsRangeFrom,default,7
@@ -2042,12 +1935,10 @@ row-number,field,issue-type,value
 1328,NetDwellingsRangeTo,default,37
 1330,NetDwellingsRangeFrom,default,95
 1330,NetDwellingsRangeTo,default,95
-1330,LastUpdatedDate,default,2020-06-25
 1331,NetDwellingsRangeFrom,default,124
 1331,NetDwellingsRangeTo,default,124
 1332,NetDwellingsRangeFrom,default,82
 1332,NetDwellingsRangeTo,default,82
-1332,LastUpdatedDate,default,2020-06-25
 1333,PlanningHistory,uri,Site allocation in Camden Site Allocations Plan 2013 https://www.camden.gov.uk/ccm/content/environment/planning-and-built-environment/two/planning-policy/local-development-framework/site-allocations-d
 1333,NetDwellingsRangeFrom,default,35
 1333,NetDwellingsRangeTo,default,35
@@ -2055,7 +1946,6 @@ row-number,field,issue-type,value
 1334,NetDwellingsRangeTo,default,44
 1335,NetDwellingsRangeFrom,default,63
 1335,NetDwellingsRangeTo,default,63
-1335,LastUpdatedDate,default,2020-06-25
 1336,NetDwellingsRangeFrom,default,81
 1336,NetDwellingsRangeTo,default,81
 1337,NetDwellingsRangeFrom,default,16
@@ -2075,7 +1965,6 @@ row-number,field,issue-type,value
 1343,NetDwellingsRangeTo,default,152
 1344,NetDwellingsRangeFrom,default,63
 1344,NetDwellingsRangeTo,default,63
-1344,LastUpdatedDate,default,2020-06-25
 1345,NetDwellingsRangeFrom,default,5
 1345,NetDwellingsRangeTo,default,5
 1346,NetDwellingsRangeFrom,default,170
@@ -2085,7 +1974,6 @@ row-number,field,issue-type,value
 1347,"GeoX,GeoY",out of range,"3976571.7510000002,-6229.9393"
 1348,NetDwellingsRangeFrom,default,63
 1348,NetDwellingsRangeTo,default,63
-1348,LastUpdatedDate,default,2020-06-25
 1349,NetDwellingsRangeFrom,default,35
 1349,NetDwellingsRangeTo,default,35
 1350,NetDwellingsRangeFrom,default,60
@@ -2109,12 +1997,10 @@ row-number,field,issue-type,value
 1360,NetDwellingsRangeTo,default,7
 1361,NetDwellingsRangeFrom,default,28
 1361,NetDwellingsRangeTo,default,28
-1361,LastUpdatedDate,default,2020-06-25
 1363,NetDwellingsRangeFrom,default,53
 1363,NetDwellingsRangeTo,default,53
 1364,NetDwellingsRangeFrom,default,49
 1364,NetDwellingsRangeTo,default,49
-1364,LastUpdatedDate,default,2020-06-25
 1366,NetDwellingsRangeFrom,default,73
 1366,NetDwellingsRangeTo,default,73
 1367,NetDwellingsRangeFrom,default,115
@@ -2125,17 +2011,14 @@ row-number,field,issue-type,value
 1370,NetDwellingsRangeTo,default,122
 1371,NetDwellingsRangeFrom,default,48
 1371,NetDwellingsRangeTo,default,48
-1371,LastUpdatedDate,default,2020-06-25
 1372,NetDwellingsRangeFrom,default,35
 1372,NetDwellingsRangeTo,default,35
-1372,LastUpdatedDate,default,2020-06-25
 1373,NetDwellingsRangeFrom,default,13
 1373,NetDwellingsRangeTo,default,13
 1374,NetDwellingsRangeFrom,default,49
 1374,NetDwellingsRangeTo,default,49
 1376,NetDwellingsRangeFrom,default,48
 1376,NetDwellingsRangeTo,default,48
-1376,LastUpdatedDate,default,2020-06-25
 1378,NetDwellingsRangeFrom,default,150
 1378,NetDwellingsRangeTo,default,150
 1379,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
@@ -2179,7 +2062,6 @@ row-number,field,issue-type,value
 1398,NetDwellingsRangeTo,default,9
 1399,NetDwellingsRangeFrom,default,34
 1399,NetDwellingsRangeTo,default,34
-1399,LastUpdatedDate,default,2020-06-25
 1400,NetDwellingsRangeFrom,default,5
 1400,NetDwellingsRangeTo,default,5
 1401,PlanningHistory,uri,2017/01841/FUL               http://public-access.lbhf.gov.uk/online-applications/simpleSearchResults.do?action=firstPage
@@ -2190,7 +2072,6 @@ row-number,field,issue-type,value
 1403,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
 1403,NetDwellingsRangeFrom,default,125
 1403,NetDwellingsRangeTo,default,125
-1404,OrganisationURI,uri,Hounslow
 1404,NetDwellingsRangeFrom,default,137
 1404,NetDwellingsRangeTo,default,137
 1405,NetDwellingsRangeFrom,default,9
@@ -2203,7 +2084,6 @@ row-number,field,issue-type,value
 1409,"GeoX,GeoY",out of range,"3973506.3220000002,-8480.2360000000008"
 1410,NetDwellingsRangeFrom,default,66
 1410,NetDwellingsRangeTo,default,66
-1410,LastUpdatedDate,default,2020-06-25
 1411,NetDwellingsRangeFrom,default,129
 1411,NetDwellingsRangeTo,default,129
 1412,NetDwellingsRangeFrom,default,48
@@ -2211,10 +2091,8 @@ row-number,field,issue-type,value
 1412,"GeoX,GeoY",out of range,"3973333.9130000002,-7915.8991999999998"
 1413,NetDwellingsRangeFrom,default,89
 1413,NetDwellingsRangeTo,default,89
-1413,LastUpdatedDate,default,2020-06-25
 1414,NetDwellingsRangeFrom,default,41
 1414,NetDwellingsRangeTo,default,41
-1414,LastUpdatedDate,default,2020-06-25
 1415,NetDwellingsRangeFrom,default,26
 1415,NetDwellingsRangeTo,default,26
 1416,NetDwellingsRangeFrom,default,113
@@ -2225,10 +2103,8 @@ row-number,field,issue-type,value
 1419,NetDwellingsRangeTo,default,5
 1420,NetDwellingsRangeFrom,default,298
 1420,NetDwellingsRangeTo,default,298
-1420,LastUpdatedDate,default,2020-06-25
 1421,NetDwellingsRangeFrom,default,30
 1421,NetDwellingsRangeTo,default,30
-1421,LastUpdatedDate,default,2020-06-25
 1422,NetDwellingsRangeFrom,default,5
 1422,NetDwellingsRangeTo,default,5
 1423,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
@@ -2240,29 +2116,24 @@ row-number,field,issue-type,value
 1425,NetDwellingsRangeTo,default,1
 1426,NetDwellingsRangeFrom,default,45
 1426,NetDwellingsRangeTo,default,45
-1426,LastUpdatedDate,default,2020-06-25
 1427,NetDwellingsRangeFrom,default,5
 1427,NetDwellingsRangeTo,default,5
 1430,NetDwellingsRangeFrom,default,5
 1430,NetDwellingsRangeTo,default,5
 1431,NetDwellingsRangeFrom,default,73
 1431,NetDwellingsRangeTo,default,73
-1431,LastUpdatedDate,default,2020-06-25
 1433,NetDwellingsRangeFrom,default,31
 1433,NetDwellingsRangeTo,default,31
 1435,NetDwellingsRangeFrom,default,46
 1435,NetDwellingsRangeTo,default,46
 1436,NetDwellingsRangeFrom,default,71
 1436,NetDwellingsRangeTo,default,71
-1436,LastUpdatedDate,default,2020-06-25
 1437,NetDwellingsRangeFrom,default,106
 1437,NetDwellingsRangeTo,default,106
-1438,OrganisationURI,uri,Hounslow
 1438,NetDwellingsRangeFrom,default,127
 1438,NetDwellingsRangeTo,default,127
 1439,NetDwellingsRangeFrom,default,106
 1439,NetDwellingsRangeTo,default,106
-1439,LastUpdatedDate,default,2020-06-25
 1442,NetDwellingsRangeFrom,default,141
 1442,NetDwellingsRangeTo,default,141
 1443,NetDwellingsRangeFrom,default,64
@@ -2273,17 +2144,14 @@ row-number,field,issue-type,value
 1445,NetDwellingsRangeTo,default,8
 1446,NetDwellingsRangeFrom,default,37
 1446,NetDwellingsRangeTo,default,37
-1446,LastUpdatedDate,default,2020-06-25
 1447,NetDwellingsRangeFrom,default,164
 1447,NetDwellingsRangeTo,default,164
 1448,NetDwellingsRangeFrom,default,56
 1448,NetDwellingsRangeTo,default,56
-1448,LastUpdatedDate,default,2020-06-25
 1449,NetDwellingsRangeFrom,default,203
 1449,NetDwellingsRangeTo,default,203
 1450,NetDwellingsRangeFrom,default,28
 1450,NetDwellingsRangeTo,default,28
-1450,LastUpdatedDate,default,2020-06-25
 1451,NetDwellingsRangeFrom,default,170
 1451,NetDwellingsRangeTo,default,170
 1452,NetDwellingsRangeFrom,default,5
@@ -2296,10 +2164,8 @@ row-number,field,issue-type,value
 1455,NetDwellingsRangeTo,default,5
 1456,NetDwellingsRangeFrom,default,49
 1456,NetDwellingsRangeTo,default,49
-1456,LastUpdatedDate,default,2020-06-25
 1457,NetDwellingsRangeFrom,default,40
 1457,NetDwellingsRangeTo,default,40
-1457,LastUpdatedDate,default,2020-06-25
 1460,NetDwellingsRangeFrom,default,5
 1460,NetDwellingsRangeTo,default,5
 1461,NetDwellingsRangeFrom,default,5
@@ -2355,13 +2221,11 @@ row-number,field,issue-type,value
 1490,"GeoX,GeoY",out of range,"3975194.2620000001,-8581.2137999999995"
 1491,NetDwellingsRangeFrom,default,56
 1491,NetDwellingsRangeTo,default,56
-1491,LastUpdatedDate,default,2020-06-25
 1492,NetDwellingsRangeFrom,default,167
 1492,NetDwellingsRangeTo,default,167
 1493,"GeoX,GeoY",out of range,"3973725.341,-8392.8264999999992"
 1494,NetDwellingsRangeFrom,default,124
 1494,NetDwellingsRangeTo,default,124
-1494,LastUpdatedDate,default,2020-06-25
 1495,NetDwellingsRangeFrom,default,142
 1495,NetDwellingsRangeTo,default,142
 1496,NetDwellingsRangeFrom,default,203
@@ -2373,13 +2237,10 @@ row-number,field,issue-type,value
 1498,NetDwellingsRangeTo,default,69
 1500,NetDwellingsRangeFrom,default,66
 1500,NetDwellingsRangeTo,default,66
-1500,LastUpdatedDate,default,2020-06-25
 1501,NetDwellingsRangeFrom,default,66
 1501,NetDwellingsRangeTo,default,66
-1501,LastUpdatedDate,default,2020-06-25
 1502,NetDwellingsRangeFrom,default,80
 1502,NetDwellingsRangeTo,default,80
-1502,LastUpdatedDate,default,2020-06-25
 1503,NetDwellingsRangeFrom,default,130
 1503,NetDwellingsRangeTo,default,130
 1504,NetDwellingsRangeFrom,default,183
@@ -2393,7 +2254,6 @@ row-number,field,issue-type,value
 1507,NetDwellingsRangeTo,default,241
 1508,NetDwellingsRangeFrom,default,130
 1508,NetDwellingsRangeTo,default,130
-1508,LastUpdatedDate,default,2020-06-25
 1510,NetDwellingsRangeFrom,default,72
 1510,NetDwellingsRangeTo,default,72
 1513,PlanningHistory,uri,None relevant.
@@ -2423,7 +2283,6 @@ row-number,field,issue-type,value
 1524,NetDwellingsRangeTo,default,55
 1525,NetDwellingsRangeFrom,default,26
 1525,NetDwellingsRangeTo,default,26
-1526,OrganisationURI,uri,Hounslow
 1526,NetDwellingsRangeFrom,default,58
 1526,NetDwellingsRangeTo,default,58
 1527,PlanningHistory,uri,2011/01753/FUL               http://public-access.lbhf.gov.uk/online-applications/applicationDetails.do?activeTab=summary&keyVal=N7H2N8BI0IE00
@@ -2449,14 +2308,12 @@ row-number,field,issue-type,value
 1539,LastUpdatedDate,default,2017-12-31
 1540,NetDwellingsRangeFrom,default,163
 1540,NetDwellingsRangeTo,default,163
-1540,LastUpdatedDate,default,2020-06-25
 1541,NetDwellingsRangeFrom,default,45
 1541,NetDwellingsRangeTo,default,45
 1542,NetDwellingsRangeFrom,default,21
 1542,NetDwellingsRangeTo,default,21
 1543,NetDwellingsRangeFrom,default,191
 1543,NetDwellingsRangeTo,default,191
-1543,LastUpdatedDate,default,2020-06-25
 1544,NetDwellingsRangeFrom,default,182
 1544,NetDwellingsRangeTo,default,182
 1545,NetDwellingsRangeFrom,default,34
@@ -2478,13 +2335,11 @@ row-number,field,issue-type,value
 1553,NetDwellingsRangeTo,default,47
 1554,NetDwellingsRangeFrom,default,72
 1554,NetDwellingsRangeTo,default,72
-1554,LastUpdatedDate,default,2020-06-25
 1555,NetDwellingsRangeFrom,default,355
 1555,NetDwellingsRangeTo,default,355
 1555,"GeoX,GeoY",out of range,"3973016.912,-7473.5964000000004"
 1556,NetDwellingsRangeFrom,default,70
 1556,NetDwellingsRangeTo,default,70
-1556,LastUpdatedDate,default,2020-06-25
 1557,PlanningHistory,uri,None relevant.
 1557,NetDwellingsRangeFrom,default,30
 1557,NetDwellingsRangeTo,default,30
@@ -2506,7 +2361,6 @@ row-number,field,issue-type,value
 1565,"GeoX,GeoY",out of range,"3974713.1869999999,-8193.1931999999997"
 1566,NetDwellingsRangeFrom,default,241
 1566,NetDwellingsRangeTo,default,241
-1566,LastUpdatedDate,default,2020-06-25
 1567,NetDwellingsRangeFrom,default,62
 1567,NetDwellingsRangeTo,default,62
 1568,NetDwellingsRangeFrom,default,72
@@ -2514,7 +2368,6 @@ row-number,field,issue-type,value
 1569,LastUpdatedDate,default,2017-12-31
 1570,NetDwellingsRangeFrom,default,87
 1570,NetDwellingsRangeTo,default,87
-1570,LastUpdatedDate,default,2020-06-25
 1571,NetDwellingsRangeFrom,default,3
 1571,NetDwellingsRangeTo,default,3
 1571,LastUpdatedDate,default,2017-12-31
@@ -2533,7 +2386,6 @@ row-number,field,issue-type,value
 1579,NetDwellingsRangeTo,default,70
 1581,NetDwellingsRangeFrom,default,145
 1581,NetDwellingsRangeTo,default,145
-1581,LastUpdatedDate,default,2020-06-25
 1582,NetDwellingsRangeFrom,default,5
 1582,NetDwellingsRangeTo,default,5
 1583,PlanningHistory,uri,None relevant.
@@ -2542,7 +2394,6 @@ row-number,field,issue-type,value
 1583,LastUpdatedDate,default,2017-12-31
 1584,NetDwellingsRangeFrom,default,239
 1584,NetDwellingsRangeTo,default,239
-1584,LastUpdatedDate,default,2020-06-25
 1586,NetDwellingsRangeFrom,default,120
 1586,NetDwellingsRangeTo,default,120
 1589,NetDwellingsRangeFrom,default,247
@@ -2559,12 +2410,10 @@ row-number,field,issue-type,value
 1595,NetDwellingsRangeTo,default,251
 1596,NetDwellingsRangeFrom,default,100
 1596,NetDwellingsRangeTo,default,100
-1596,LastUpdatedDate,default,2020-06-25
 1597,NetDwellingsRangeFrom,default,179
 1597,NetDwellingsRangeTo,default,179
 1598,NetDwellingsRangeFrom,default,66
 1598,NetDwellingsRangeTo,default,66
-1598,LastUpdatedDate,default,2020-06-25
 1600,NetDwellingsRangeFrom,default,5
 1600,NetDwellingsRangeTo,default,5
 1601,NetDwellingsRangeFrom,default,48
@@ -2577,14 +2426,12 @@ row-number,field,issue-type,value
 1603,NetDwellingsRangeTo,default,445
 1604,NetDwellingsRangeFrom,default,174
 1604,NetDwellingsRangeTo,default,174
-1604,LastUpdatedDate,default,2020-06-25
 1605,NetDwellingsRangeFrom,default,20
 1605,NetDwellingsRangeTo,default,20
 1607,NetDwellingsRangeFrom,default,170
 1607,NetDwellingsRangeTo,default,170
 1608,NetDwellingsRangeFrom,default,108
 1608,NetDwellingsRangeTo,default,108
-1608,LastUpdatedDate,default,2020-06-25
 1609,NetDwellingsRangeFrom,default,85
 1609,NetDwellingsRangeTo,default,85
 1610,NetDwellingsRangeFrom,default,313
@@ -2599,7 +2446,6 @@ row-number,field,issue-type,value
 1616,NetDwellingsRangeTo,default,109
 1617,NetDwellingsRangeFrom,default,310
 1617,NetDwellingsRangeTo,default,310
-1617,LastUpdatedDate,default,2020-06-25
 1618,NetDwellingsRangeFrom,default,200
 1618,NetDwellingsRangeTo,default,200
 1620,NetDwellingsRangeFrom,default,5
@@ -2612,7 +2458,6 @@ row-number,field,issue-type,value
 1622,NetDwellingsRangeTo,default,146
 1623,NetDwellingsRangeFrom,default,99
 1623,NetDwellingsRangeTo,default,99
-1623,LastUpdatedDate,default,2020-06-25
 1625,NetDwellingsRangeFrom,default,68
 1625,NetDwellingsRangeTo,default,68
 1626,NetDwellingsRangeFrom,default,9
@@ -2627,7 +2472,6 @@ row-number,field,issue-type,value
 1630,NetDwellingsRangeTo,default,0
 1631,NetDwellingsRangeFrom,default,70
 1631,NetDwellingsRangeTo,default,70
-1632,OrganisationURI,uri,Hounslow
 1632,NetDwellingsRangeFrom,default,125
 1632,NetDwellingsRangeTo,default,125
 1633,NetDwellingsRangeFrom,default,388
@@ -2648,19 +2492,16 @@ row-number,field,issue-type,value
 1639,NetDwellingsRangeTo,default,597
 1641,NetDwellingsRangeFrom,default,213
 1641,NetDwellingsRangeTo,default,213
-1641,LastUpdatedDate,default,2020-06-25
 1642,NetDwellingsRangeFrom,default,1
 1642,NetDwellingsRangeTo,default,1
 1643,NetDwellingsRangeFrom,default,297
 1643,NetDwellingsRangeTo,default,297
-1643,LastUpdatedDate,default,2020-06-25
 1644,NetDwellingsRangeFrom,default,5
 1644,NetDwellingsRangeTo,default,5
 1645,NetDwellingsRangeFrom,default,308
 1645,NetDwellingsRangeTo,default,308
 1646,NetDwellingsRangeFrom,default,358
 1646,NetDwellingsRangeTo,default,358
-1646,LastUpdatedDate,default,2020-06-25
 1647,NetDwellingsRangeFrom,default,5
 1647,NetDwellingsRangeTo,default,5
 1649,PlanningHistory,uri,2013/02870/FUL             http://public-access.lbhf.gov.uk/online-applications/applicationDetails.do?activeTab=summary&keyVal=MPNX6ZBI0IE00
@@ -2671,7 +2512,6 @@ row-number,field,issue-type,value
 1652,NetDwellingsRangeTo,default,15
 1653,NetDwellingsRangeFrom,default,195
 1653,NetDwellingsRangeTo,default,195
-1653,LastUpdatedDate,default,2020-06-25
 1654,NetDwellingsRangeFrom,default,185
 1654,NetDwellingsRangeTo,default,185
 1654,"GeoX,GeoY",out of range,"3975323.6639999999,-7125.8837999999996"
@@ -2679,10 +2519,8 @@ row-number,field,issue-type,value
 1655,NetDwellingsRangeTo,default,141
 1656,NetDwellingsRangeFrom,default,138
 1656,NetDwellingsRangeTo,default,138
-1656,LastUpdatedDate,default,2020-06-25
 1657,NetDwellingsRangeFrom,default,65
 1657,NetDwellingsRangeTo,default,65
-1657,LastUpdatedDate,default,2020-06-25
 1658,NetDwellingsRangeFrom,default,97
 1658,NetDwellingsRangeTo,default,97
 1660,NetDwellingsRangeFrom,default,27
@@ -2701,7 +2539,6 @@ row-number,field,issue-type,value
 1666,NetDwellingsRangeTo,default,44
 1667,NetDwellingsRangeFrom,default,160
 1667,NetDwellingsRangeTo,default,160
-1667,LastUpdatedDate,default,2020-06-25
 1668,PlanningHistory,uri,2014/03250/FUL             http://public-access.lbhf.gov.uk/online-applications/applicationDetails.do?activeTab=summary&keyVal=N8E1USBI0IE00
 1668,LastUpdatedDate,default,2017-12-31
 1669,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
@@ -2714,14 +2551,12 @@ row-number,field,issue-type,value
 1672,NetDwellingsRangeTo,default,400
 1674,NetDwellingsRangeFrom,default,64
 1674,NetDwellingsRangeTo,default,64
-1674,LastUpdatedDate,default,2020-06-25
 1675,NetDwellingsRangeFrom,default,83
 1675,NetDwellingsRangeTo,default,83
 1676,NetDwellingsRangeFrom,default,135
 1676,NetDwellingsRangeTo,default,135
 1677,NetDwellingsRangeFrom,default,395
 1677,NetDwellingsRangeTo,default,395
-1677,LastUpdatedDate,default,2020-06-25
 1678,NetDwellingsRangeFrom,default,560
 1678,NetDwellingsRangeTo,default,560
 1679,PlanningHistory,uri,Site allocation in Camden Site Allocations Plan 2013 https://www.camden.gov.uk/ccm/content/environment/planning-and-built-environment/two/planning-policy/local-development-framework/site-allocations-d
@@ -2737,7 +2572,6 @@ row-number,field,issue-type,value
 1683,"GeoX,GeoY",out of range,"3976471.4380000001,-6374.5205999999998"
 1684,NetDwellingsRangeFrom,default,334
 1684,NetDwellingsRangeTo,default,334
-1684,LastUpdatedDate,default,2020-06-25
 1685,NetDwellingsRangeFrom,default,5
 1685,NetDwellingsRangeTo,default,5
 1686,NetDwellingsRangeFrom,default,298
@@ -2748,7 +2582,6 @@ row-number,field,issue-type,value
 1688,NetDwellingsRangeTo,default,233
 1689,NetDwellingsRangeFrom,default,5
 1689,NetDwellingsRangeTo,default,5
-1690,OrganisationURI,uri,Hounslow
 1690,NetDwellingsRangeFrom,default,75
 1690,NetDwellingsRangeTo,default,75
 1691,NetDwellingsRangeFrom,default,230
@@ -2801,10 +2634,8 @@ row-number,field,issue-type,value
 1717,NetDwellingsRangeTo,default,30
 1718,NetDwellingsRangeFrom,default,191
 1718,NetDwellingsRangeTo,default,191
-1718,LastUpdatedDate,default,2020-06-25
 1719,NetDwellingsRangeFrom,default,355
 1719,NetDwellingsRangeTo,default,355
-1719,LastUpdatedDate,default,2020-06-25
 1720,NetDwellingsRangeFrom,default,380
 1720,NetDwellingsRangeTo,default,380
 1721,NetDwellingsRangeFrom,default,3
@@ -2821,10 +2652,8 @@ row-number,field,issue-type,value
 1725,NetDwellingsRangeTo,default,94
 1726,NetDwellingsRangeFrom,default,438
 1726,NetDwellingsRangeTo,default,438
-1726,LastUpdatedDate,default,2020-06-25
 1727,NetDwellingsRangeFrom,default,206
 1727,NetDwellingsRangeTo,default,206
-1727,LastUpdatedDate,default,2020-06-25
 1728,NetDwellingsRangeFrom,default,1
 1728,NetDwellingsRangeTo,default,1
 1729,NetDwellingsRangeFrom,default,224
@@ -2840,7 +2669,6 @@ row-number,field,issue-type,value
 1733,NetDwellingsRangeTo,default,149
 1734,NetDwellingsRangeFrom,default,34
 1734,NetDwellingsRangeTo,default,34
-1734,LastUpdatedDate,default,2020-06-25
 1735,NetDwellingsRangeFrom,default,70
 1735,NetDwellingsRangeTo,default,70
 1736,NetDwellingsRangeFrom,default,336
@@ -2848,12 +2676,10 @@ row-number,field,issue-type,value
 1736,"GeoX,GeoY",out of range,"3976447.5929999999,-7844.5370000000003"
 1737,NetDwellingsRangeFrom,default,444
 1737,NetDwellingsRangeTo,default,444
-1737,LastUpdatedDate,default,2020-06-25
 1738,NetDwellingsRangeFrom,default,386
 1738,NetDwellingsRangeTo,default,386
 1739,NetDwellingsRangeFrom,default,156
 1739,NetDwellingsRangeTo,default,156
-1739,LastUpdatedDate,default,2020-06-25
 1740,NetDwellingsRangeFrom,default,214
 1740,NetDwellingsRangeTo,default,214
 1741,NetDwellingsRangeFrom,default,5
@@ -2917,7 +2743,6 @@ row-number,field,issue-type,value
 1765,NetDwellingsRangeTo,default,112
 1766,NetDwellingsRangeFrom,default,285
 1766,NetDwellingsRangeTo,default,285
-1766,LastUpdatedDate,default,2020-06-25
 1767,NetDwellingsRangeFrom,default,5
 1767,NetDwellingsRangeTo,default,5
 1768,NetDwellingsRangeFrom,default,163
@@ -2927,7 +2752,6 @@ row-number,field,issue-type,value
 1770,"GeoX,GeoY",out of range,"3974754.213,-8074.5562"
 1771,NetDwellingsRangeFrom,default,31
 1771,NetDwellingsRangeTo,default,31
-1771,LastUpdatedDate,default,2020-06-25
 1772,PlanningHistory,uri,Planning Application - 11/90621/OUTODA (Outline Permission)
 1772,NetDwellingsRangeFrom,default,400
 1772,NetDwellingsRangeTo,default,400
@@ -2955,7 +2779,6 @@ row-number,field,issue-type,value
 1784,"GeoX,GeoY",out of range,"3974020.2820000001,-8626.2584000000006"
 1785,NetDwellingsRangeFrom,default,456
 1785,NetDwellingsRangeTo,default,456
-1785,LastUpdatedDate,default,2020-06-25
 1786,NetDwellingsRangeFrom,default,5
 1786,NetDwellingsRangeTo,default,5
 1787,NetDwellingsRangeFrom,default,5
@@ -2966,7 +2789,6 @@ row-number,field,issue-type,value
 1789,NetDwellingsRangeTo,default,84
 1790,NetDwellingsRangeFrom,default,2428
 1790,NetDwellingsRangeTo,default,2428
-1790,LastUpdatedDate,default,2020-06-25
 1791,NetDwellingsRangeFrom,default,5
 1791,NetDwellingsRangeTo,default,5
 1792,NetDwellingsRangeFrom,default,441
@@ -2983,7 +2805,6 @@ row-number,field,issue-type,value
 1796,NetDwellingsRangeTo,default,267
 1797,NetDwellingsRangeFrom,default,147
 1797,NetDwellingsRangeTo,default,147
-1797,LastUpdatedDate,default,2020-06-25
 1798,NetDwellingsRangeFrom,default,5
 1798,NetDwellingsRangeTo,default,5
 1799,PlanningHistory,uri,None relevant.
@@ -2992,10 +2813,8 @@ row-number,field,issue-type,value
 1799,LastUpdatedDate,default,2017-12-31
 1800,NetDwellingsRangeFrom,default,104
 1800,NetDwellingsRangeTo,default,104
-1800,LastUpdatedDate,default,2020-06-25
 1802,NetDwellingsRangeFrom,default,950
 1802,NetDwellingsRangeTo,default,950
-1802,LastUpdatedDate,default,2020-06-25
 1803,NetDwellingsRangeFrom,default,5
 1803,NetDwellingsRangeTo,default,5
 1804,NetDwellingsRangeFrom,default,250
@@ -3006,7 +2825,6 @@ row-number,field,issue-type,value
 1806,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
 1806,NetDwellingsRangeFrom,default,1238
 1806,NetDwellingsRangeTo,default,1238
-1807,OrganisationURI,uri,Hounslow
 1807,NetDwellingsRangeFrom,default,518
 1807,NetDwellingsRangeTo,default,518
 1808,SiteplanURL,uri,www.royalgreenwich.gov.uk/brownfieldregister
@@ -3014,7 +2832,6 @@ row-number,field,issue-type,value
 1808,NetDwellingsRangeTo,default,1144
 1809,NetDwellingsRangeFrom,default,922
 1809,NetDwellingsRangeTo,default,922
-1809,LastUpdatedDate,default,2020-06-25
 1810,NetDwellingsRangeFrom,default,5
 1810,NetDwellingsRangeTo,default,5
 1811,NetDwellingsRangeFrom,default,731
@@ -3023,7 +2840,6 @@ row-number,field,issue-type,value
 1812,NetDwellingsRangeTo,default,5
 1813,NetDwellingsRangeFrom,default,472
 1813,NetDwellingsRangeTo,default,472
-1813,LastUpdatedDate,default,2020-06-25
 1814,NetDwellingsRangeFrom,default,168
 1814,NetDwellingsRangeTo,default,168
 1815,PlanningHistory,uri,2012/02454/OUT            http://public-access.lbhf.gov.uk/online-applications/applicationDetails.do?activeTab=summary&keyVal=M8BRGCBI0GZ00
@@ -3046,10 +2862,8 @@ row-number,field,issue-type,value
 1823,NetDwellingsRangeTo,default,396
 1824,NetDwellingsRangeFrom,default,539
 1824,NetDwellingsRangeTo,default,539
-1824,LastUpdatedDate,default,2020-06-25
 1825,NetDwellingsRangeFrom,default,505
 1825,NetDwellingsRangeTo,default,505
-1825,LastUpdatedDate,default,2020-06-25
 1826,NetDwellingsRangeFrom,default,5
 1826,NetDwellingsRangeTo,default,5
 1827,NetDwellingsRangeFrom,default,180
@@ -3105,7 +2919,6 @@ row-number,field,issue-type,value
 1850,NetDwellingsRangeTo,default,631
 1851,NetDwellingsRangeFrom,default,1200
 1851,NetDwellingsRangeTo,default,1200
-1851,LastUpdatedDate,default,2020-06-25
 1852,NetDwellingsRangeFrom,default,500
 1852,NetDwellingsRangeTo,default,500
 1853,NetDwellingsRangeFrom,default,2171
@@ -3128,7 +2941,6 @@ row-number,field,issue-type,value
 1862,NetDwellingsRangeTo,default,347
 1863,NetDwellingsRangeFrom,default,1929
 1863,NetDwellingsRangeTo,default,1929
-1863,LastUpdatedDate,default,2020-06-25
 1864,NetDwellingsRangeFrom,default,3132
 1864,NetDwellingsRangeTo,default,3132
 1865,NetDwellingsRangeFrom,default,2174

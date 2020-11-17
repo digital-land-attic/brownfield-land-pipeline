@@ -75,6 +75,7 @@ row-number,field,issue-type,value
 36,NetDwellingsRangeTo,default,5
 37,NetDwellingsRangeFrom,default,0
 37,NetDwellingsRangeTo,default,0
+38,OrganisationURI,opendatacommunities-uri,OrganisationURI
 38,OrganisationURI,uri,OrganisationURI
 38,SiteplanURL,uri,Site plan URL
 38,HazardousSubstances,flag,hazardous substances
@@ -85,8 +86,8 @@ row-number,field,issue-type,value
 38,NetDwellingsRangeTo,integer,Net Dwellings Range To
 38,FirstAddedDate,date,First Added Date
 38,LastUpdatedDate,date,Last Updated Date
-38,LastUpdatedDate,default,2020-06-25
 38,OrganisationURI,default,http://opendatacommunities.org/id/district-council/cherwell
+38,LastUpdatedDate,default,2020-06-25
 38,"GeoX,GeoY",Failed to convert point to decimal %s,"['GeoX', 'GeoY']"
 39,NetDwellingsRangeFrom,default,0
 39,NetDwellingsRangeTo,default,0

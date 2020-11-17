@@ -11,6 +11,7 @@ row-number,field,issue-type,value
 5,LastUpdatedDate,default,2018-12-30
 6,NetDwellingsRangeTo,default,8
 6,LastUpdatedDate,default,2018-12-30
+7,OrganisationURI,opendatacommunities-uri,
 7,NetDwellingsRangeTo,default,9
 7,OrganisationURI,default,http://opendatacommunities.org/id/unitary-authority/cheshire-west-and-chester
 8,NetDwellingsRangeTo,default,202
@@ -43,6 +44,7 @@ row-number,field,issue-type,value
 25,NetDwellingsRangeTo,default,70
 26,NetDwellingsRangeTo,default,8
 26,LastUpdatedDate,default,2018-12-30
+27,OrganisationURI,opendatacommunities-uri,
 27,NetDwellingsRangeTo,default,32
 27,OrganisationURI,default,http://opendatacommunities.org/id/unitary-authority/cheshire-west-and-chester
 28,NetDwellingsRangeTo,default,7
@@ -75,10 +77,12 @@ row-number,field,issue-type,value
 45,NetDwellingsRangeTo,default,20
 47,NetDwellingsRangeTo,default,8
 47,LastUpdatedDate,default,2017-12-21
+48,OrganisationURI,opendatacommunities-uri,
 48,NetDwellingsRangeTo,default,10
 48,OrganisationURI,default,http://opendatacommunities.org/id/unitary-authority/cheshire-west-and-chester
 49,NetDwellingsRangeTo,default,11
 49,LastUpdatedDate,default,2017-12-21
+50,OrganisationURI,opendatacommunities-uri,
 50,NetDwellingsRangeTo,default,8
 50,OrganisationURI,default,http://opendatacommunities.org/id/unitary-authority/cheshire-west-and-chester
 51,LastUpdatedDate,default,2018-12-30
@@ -119,11 +123,13 @@ row-number,field,issue-type,value
 71,LastUpdatedDate,default,2017-12-21
 72,NetDwellingsRangeTo,default,6
 72,LastUpdatedDate,default,2017-12-21
+73,OrganisationURI,opendatacommunities-uri,
 73,NetDwellingsRangeTo,default,6
 73,OrganisationURI,default,http://opendatacommunities.org/id/unitary-authority/cheshire-west-and-chester
 73,"GeoX,GeoY",out of range,"342808,3676017"
 74,NetDwellingsRangeTo,default,16
 75,NetDwellingsRangeTo,default,12
+76,OrganisationURI,opendatacommunities-uri,
 76,NetDwellingsRangeTo,default,5
 76,OrganisationURI,default,http://opendatacommunities.org/id/unitary-authority/cheshire-west-and-chester
 77,NetDwellingsRangeTo,default,16
@@ -134,6 +140,7 @@ row-number,field,issue-type,value
 79,LastUpdatedDate,default,2018-12-30
 80,NetDwellingsRangeTo,default,10
 80,LastUpdatedDate,default,2017-12-21
+81,OrganisationURI,opendatacommunities-uri,
 81,LastUpdatedDate,default,2019-12-01
 81,OrganisationURI,default,http://opendatacommunities.org/id/unitary-authority/cheshire-west-and-chester
 82,NetDwellingsRangeTo,default,8
@@ -157,6 +164,7 @@ row-number,field,issue-type,value
 92,NetDwellingsRangeTo,default,19
 92,LastUpdatedDate,default,2017-12-21
 93,LastUpdatedDate,default,2018-12-30
+94,OrganisationURI,opendatacommunities-uri,
 94,OrganisationURI,default,http://opendatacommunities.org/id/unitary-authority/cheshire-west-and-chester
 95,NetDwellingsRangeTo,default,10
 96,NetDwellingsRangeTo,default,233
@@ -210,6 +218,7 @@ row-number,field,issue-type,value
 121,LastUpdatedDate,default,2017-12-21
 122,NetDwellingsRangeTo,default,5
 122,LastUpdatedDate,default,2017-12-21
+123,OrganisationURI,opendatacommunities-uri,
 123,NetDwellingsRangeTo,default,7
 123,OrganisationURI,default,http://opendatacommunities.org/id/unitary-authority/cheshire-west-and-chester
 124,NetDwellingsRangeTo,default,12
@@ -218,6 +227,7 @@ row-number,field,issue-type,value
 126,NetDwellingsRangeTo,default,9
 126,LastUpdatedDate,default,2017-12-21
 127,NetDwellingsRangeTo,default,6
+128,OrganisationURI,opendatacommunities-uri,
 128,NetDwellingsRangeTo,default,10
 128,OrganisationURI,default,http://opendatacommunities.org/id/unitary-authority/cheshire-west-and-chester
 130,NetDwellingsRangeTo,default,5
@@ -238,6 +248,7 @@ row-number,field,issue-type,value
 138,LastUpdatedDate,default,2017-12-21
 139,NetDwellingsRangeTo,default,73
 139,LastUpdatedDate,default,2017-12-21
+140,OrganisationURI,opendatacommunities-uri,
 140,NetDwellingsRangeTo,default,10
 140,OrganisationURI,default,http://opendatacommunities.org/id/unitary-authority/cheshire-west-and-chester
 141,NetDwellingsRangeTo,default,60
@@ -299,6 +310,7 @@ row-number,field,issue-type,value
 172,NetDwellingsRangeTo,default,7
 173,NetDwellingsRangeTo,default,40
 173,LastUpdatedDate,default,2018-12-30
+174,OrganisationURI,opendatacommunities-uri,
 174,NetDwellingsRangeTo,default,5
 174,OrganisationURI,default,http://opendatacommunities.org/id/unitary-authority/cheshire-west-and-chester
 175,NetDwellingsRangeTo,default,113

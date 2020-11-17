@@ -104,6 +104,7 @@ row-number,field,issue-type,value
 52,SiteplanURL,uri,Captains siteplan
 53,SiteplanURL,uri,Wolverley Lodge siteplan
 53,PlanningHistory,uri,18/0748/PIP
+54,OrganisationURI,opendatacommunities-uri,
 54,SiteplanURL,uri,"52.373918, -2.222310"
-54,LastUpdatedDate,default,2020-06-25
 54,OrganisationURI,default,http://opendatacommunities.org/id/district-council/wyre-forest
+54,LastUpdatedDate,default,2020-06-25

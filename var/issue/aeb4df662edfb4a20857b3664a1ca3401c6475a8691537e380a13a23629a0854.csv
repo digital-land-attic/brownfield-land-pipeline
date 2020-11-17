@@ -25,7 +25,8 @@ row-number,field,issue-type,value
 16,NetDwellingsRangeTo,default,5
 17,NetDwellingsRangeFrom,default,8
 17,NetDwellingsRangeTo,default,8
+18,OrganisationURI,opendatacommunities-uri,
 18,NetDwellingsRangeFrom,default,9
 18,NetDwellingsRangeTo,default,9
-18,LastUpdatedDate,default,2020-06-25
 18,OrganisationURI,default,http://opendatacommunities.org/id/district-council/mansfield
+18,LastUpdatedDate,default,2020-06-25

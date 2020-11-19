@@ -1,1 +1,1 @@
-{"dataset":"brownfield-land","datetime":"2020-01-31T01:19:19.630829","elapsed":"31.641","exception":"ConnectionError","organisation":"local-authority-eng:ENF","url":"https://new.enfield.gov.uk/services/planning/local-plan/planning-policy-information-enfield-blr-part-1.xlsx"}
+{"elapsed":"31.641","endpoint-url":"https://new.enfield.gov.uk/services/planning/local-plan/planning-policy-information-enfield-blr-part-1.xlsx","entry-date":"2020-01-31T01:19:19.630829","exception":"ConnectionError"}

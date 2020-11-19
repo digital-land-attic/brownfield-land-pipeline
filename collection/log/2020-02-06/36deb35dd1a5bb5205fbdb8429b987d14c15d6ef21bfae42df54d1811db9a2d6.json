@@ -1,1 +1,1 @@
-{"dataset":"brownfield-land","datetime":"2020-02-06T01:21:15.702773","elapsed":"0.371","exception":"SSLError","organisation":"local-authority-eng:NKE","url":"https://www.n-kesteven.gov.uk/_resources/assets/attachment/full/0/78037.csv"}
+{"elapsed":"0.371","endpoint-url":"https://www.n-kesteven.gov.uk/_resources/assets/attachment/full/0/78037.csv","entry-date":"2020-02-06T01:21:15.702773","exception":"SSLError"}

@@ -1,1 +1,1 @@
-{"datetime":"2020-09-17T00:42:22.730164","elapsed":"1.158","exception":"SSLError","url":"https://www.staffsmoorlands.gov.uk/media/2796/Brownfield-Register-CSV-File/Excel/SM_Brownfield_Land_CSV.csv"}
+{"elapsed":"1.158","endpoint-url":"https://www.staffsmoorlands.gov.uk/media/2796/Brownfield-Register-CSV-File/Excel/SM_Brownfield_Land_CSV.csv","entry-date":"2020-09-17T00:42:22.730164","exception":"SSLError"}

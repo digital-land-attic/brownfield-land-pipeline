@@ -1,1 +1,1 @@
-{"datetime":"2020-10-22T00:52:40.424589","elapsed":"120.109","exception":"ConnectTimeout","ssl-verify":true,"url":"http://inspire.halton.gov.uk/data/halton_brownfieldregister_2017-12-31_rev1.csv"}
+{"elapsed":"120.109","endpoint-url":"http://inspire.halton.gov.uk/data/halton_brownfieldregister_2017-12-31_rev1.csv","entry-date":"2020-10-22T00:52:40.424589","exception":"ConnectTimeout","ssl-verify":true}

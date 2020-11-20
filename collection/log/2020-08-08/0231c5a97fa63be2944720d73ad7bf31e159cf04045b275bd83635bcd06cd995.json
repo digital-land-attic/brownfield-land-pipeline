@@ -1,1 +1,1 @@
-{"datetime":"2020-08-08T00:33:46.812262","elapsed":"0.38","exception":"ConnectionError","url":"http://opendata.northumberland.gov.uk/static/datasets/brownfield-register/brownfield-register.csv"}
+{"elapsed":"0.38","endpoint-url":"http://opendata.northumberland.gov.uk/static/datasets/brownfield-register/brownfield-register.csv","entry-date":"2020-08-08T00:33:46.812262","exception":"ConnectionError"}

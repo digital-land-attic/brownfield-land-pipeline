@@ -1,1 +1,1 @@
-{"datetime":"2020-10-04T00:48:23.537539","elapsed":"130.554","exception":"ConnectionError","url":"http://www.melton.gov.uk/download/downloads/id/4413/melton_brownfieldlandregister_2019-22-02_rev1.csv"}
+{"elapsed":"130.554","endpoint-url":"http://www.melton.gov.uk/download/downloads/id/4413/melton_brownfieldlandregister_2019-22-02_rev1.csv","entry-date":"2020-10-04T00:48:23.537539","exception":"ConnectionError"}

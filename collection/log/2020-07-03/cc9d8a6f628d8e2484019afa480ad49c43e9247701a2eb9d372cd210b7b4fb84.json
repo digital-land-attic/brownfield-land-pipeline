@@ -1,1 +1,1 @@
-{"datetime":"2020-07-03T00:28:37.728787","elapsed":"0.173","exception":"SSLError","url":"https://www.highpeak.gov.uk/media/3859/HPBC-Brownfield-Register-CSV/Excel/BLR_HPBC_19_CSV.csv"}
+{"elapsed":"0.173","endpoint-url":"https://www.highpeak.gov.uk/media/3859/HPBC-Brownfield-Register-CSV/Excel/BLR_HPBC_19_CSV.csv","entry-date":"2020-07-03T00:28:37.728787","exception":"SSLError"}
